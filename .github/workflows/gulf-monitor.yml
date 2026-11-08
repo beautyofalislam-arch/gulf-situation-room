@@ -24,7 +24,9 @@ jobs:
           python-version: '3.11'
 
       - name: Show Qatar time
-        run: TZ=Asia/Qatar date '+Qatar time: %Y-%m-%d %H:%M:%S'
+        
+        run: |
+          TZ=Asia/Qatar date '+Qatar time: %Y-%m-%d %H:%M:%S'
 
       - name: Run Gulf Monitor
         run: python monitor.py
