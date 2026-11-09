@@ -1,12 +1,78 @@
 {
-  "generated_utc": "2026-11-08T22:55:56.896858+00:00",
+  "generated_utc": "2026-11-09T02:43:02.473185+00:00",
   "status": "RAW_NEWS_NOT_VERIFIED",
   "articles": [
     {
+      "title": "Iran says 3 tankers caught fire in Hormuz - Times of Suriname",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHdsT0NCYnF2OGxJd0t2QXhUNW93NTVmY0lNaTZhTGtyN3lLX2VFaFVtVUVPb2xJWWdjblpYOFV5ZnBOZHZudC14VzdhcmtBbEt3Tk9YZVhCM0VrM2h0U3JMYVJIZHRyaTNNNUVYNWF0WHc0MXozVDBocjdPa2hDT2E3Q09oZw?oc=5",
+      "source": "Times of Suriname",
+      "published_utc": "2026-11-09T02:01:50+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran says 3 tankers caught fire in Hormuz - Times of Suriname",
+      "title_id": "Iran mengatakan 3 kapal tanker terbakar di Hormuz - Times of Suriname",
+      "translation_status": "translated"
+    },
+    {
+      "title": "President Donald Trump declares a 'Iron Gate' blockade, Iran issues stern warning. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVlvNDNlYzBtdGpQZTVXMVgzMURJTm1DNlNtLS05YU5qQXEzUkdmUDlVdmtwU1JCRjREZEVBczhnTEdwNjZtcjlIbTlMQVZOaTdFMlRsTkZWNFNlNV9NaFpUa1I5WmNvLWU2QUQzcXdpX3I2MDVlV182ck5lNkZsTVBqbUV4dE1xdjN5SHl6TlBQVWNPXy10Njc4MA?oc=5",
+      "source": "Vietnam.vn",
+      "published_utc": "2026-11-09T01:58:47+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "President Donald Trump declares a 'Iron Gate' blockade, Iran issues stern warning. - Vietnam.vn",
+      "title_id": "Presiden Donald Trump mendeklarasikan blokade 'Gerbang Besi', Iran mengeluarkan peringatan keras. - Vietnam.vn",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Trump announces Task Force Iron Gate to choke off Iran's trade routes, enforce restrictions on weapons sup - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPLW1kZ0xtci1QTnN6OHpaNFktcTFLbURrYmxMZFBkb05rRjBENW5POHQ2UDE4MERnU2tWVWJsSXhpVzNyV1F5MHlUc0JBV0dVdjE3Y1pnNUpKdFBlLUhkeDFLdDVqOGdYZzFseXlxeVZ5YVJJdW02UXBTbXVRMVp3QlcyM204cVY4QUFIVGNQQUVOTGdGMVRMMnZnOUJEbWprYzFqVHhydkJnUEo3a29tWUlycVI1bHVwNlBiSWNXY2RtVGpreVBWbjE2TUpCeEk2dXJHNWJ1WjljN1hFWXIxUm9pSEdZVUVCVXAzSXd6UWx6U1U5blFZU2RadGs0VFhOSFpnWnRoVzdnZlZ1eUpnQlhHakRVS0Fwb3lTZnJn0gGjAkFVX3lxTE8ycHVuNmE5NmJRbGpkUjloc0RKX3JDTUpQVjVmTFJybFlxOGpXWkFJWUdOWTFWWUhxMWttd1BheDVqZWF2X3VmcFc1OGh0elBDQzl1RVpMM2ZUTy1lSmtwZEp3RFBSLTVQQjkyRG5oUWR1ank4emNLdHNsWUlTS0ZxbGN0ZU05SUNTNU0zTlBWWFF5bGdISHhHbFhUcGFoMHZZMHc1S0puRTZPa0planhCNUktTzVpdmpmaTRCaU5ET3BXNGtDMVZ1YmNCV3hqX3pLUDU4TFhsWktqMkNGNzJtT3Z0RzNKdDFJdUlGZ2lGLTZpOThSYjgwaVBQendJMnlCcko0MC1vQThsU25hNTZpU2piNXBYSzFXY0lZb29oVVI2NA?oc=5",
+      "source": "The Economic Times",
+      "published_utc": "2026-11-09T01:28:23+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Trump announces Task Force Iron Gate to choke off Iran's trade routes, enforce restrictions on weapons sup - The Economic Times",
+      "title_id": "Trump mengumumkan Satuan Tugas Gerbang Besi untuk memutus rute perdagangan Iran dan memberlakukan pembatasan pasokan senjata - The Economic Times",
+      "translation_status": "translated"
+    },
+    {
+      "title": "White House says Task Force Iron Gate 'fully operational' as Iran faces naval blockade - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHNRR0dVaVNMWktPNjFwQ3NmNE03WTRKbURGSUVVTlBCVGpUSlAxWEVTUTdMSUhxQ2VlZl9tTmdxejBGR2p2OF9MeTdpSjNHemRIN3Fvb1RkVmdyNE9HOHQ0dDNNMmNsdWVsVVFPMTlKcnptNkpsMWhYU1VwZXNzWjlaTVRSRVNLVkpoRXJwalhBWV95b0RfQXJYdjRrT2FyRVZTbEw0UlhUekQ3cF9n?oc=5",
+      "source": "Gulf News",
+      "published_utc": "2026-11-09T01:04:46+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "White House says Task Force Iron Gate 'fully operational' as Iran faces naval blockade - Gulf News",
+      "title_id": "Gedung Putih mengatakan Satuan Tugas Gerbang Besi 'beroperasi penuh' saat Iran menghadapi blokade laut - Gulf News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran dismisses US ‘Iron Gate’ effort aimed at cutting off weapons, trade routes - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFpuU2FpWWtMTElnb2pfWU5nOTQwQk5RR1ljeFk5eXNaTC1fdENJcG5OREpRcDJBTmE3clVMYm44b0NkWEJfbGFUU2xYM3o5TDV2em42NjZ2UEtpZmxWWXBISzFCUG1XS3FPa0xpNTc1OWNtRDZfd2hMbS1NekNmVWRQSE50ekho0gGOAUFVX3lxTE9XVzhSYmJFOUh0blVOWlN2LUZfOGo2bGpsSXpQU1ZZYzdJenNSM2hsVWMzdlJOZnJSV0JBck1sOHJET1g2Vy1oSUZuSTZwcDNHYU13Vjg1TkxydHlDaHhCUDUtWXRLN0l5VmpMWTVVMVRmRHR1QmJ4X29rUjVRZFUzYjZqckcwcW1YMUNNMVE?oc=5",
+      "source": "NewsNation",
+      "published_utc": "2026-11-09T00:04:46+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Iran dismisses US ‘Iron Gate’ effort aimed at cutting off weapons, trade routes - NewsNation",
+      "title_id": "Iran menolak upaya 'Gerbang Besi' AS yang bertujuan memutus senjata dan jalur perdagangan - NewsNation",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Middle East latest: Trump plays down prospect of new strikes on Iran - The National",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME42cE40Mk9sODA3dHc5LWNWZTRab1JhY1RmcVA0WklGQ0VOUlRUSkhXc0x2eThQM3lCVE43VlpnSWgwVUFSb29RVW5oZnBPMjFzWXkxYXAxSEUtTHpRcmRFR3pBTUxIX1F4clI5clBrTVNodTRPOHl2c3dlREFqdW9ROWx3R2xoS1JLMWVPSXI?oc=5",
+      "source": "The National",
+      "published_utc": "2026-11-08T23:40:43+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Middle East latest: Trump plays down prospect of new strikes on Iran - The National",
+      "title_id": "Berita Terbaru Timur Tengah: Trump mengecilkan prospek serangan baru terhadap Iran - The National",
+      "translation_status": "translated"
+    },
+    {
       "title": "US launches task force to disrupt land transit routes into Iran - Inquirer.net",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0l3NzFwNXZPVUtJMmZnemsxSkJRY2R6cWZjeTVVOE1wcXpCZmxEWFUzd2xZQlNBZFBSRVZSR3BDQTRjQmtVVFlxQkYzN3V5VlRMMVcwMFZ1RTNkQXVVSEZDN0JJVlUxLXFhYWJ5NEdEelBiVjFTMUZPc09zUTQxWV9pUXIybmVtOTZVSzBVR3NHYlcwcWtmTGE3Zm9MS0pLOGFsOHozc9IBrAFBVV95cUxOc0txa0tSLXVmNzNOV0I0RjF5M09pVnRUVTE4bUR6b2VNeGJ2QWVLdGhCODNIM2FsdDJzSUxTeUVnUUdmMnZuR1E3N3J6dDlPOTE0LW9tUmtPNzRnNWtwSHExLV9EYWpZSVdXT1JTYjYyX3ZjZHZENnZaUmdJdFZGRTFwOGtLYVNCYUdaNU4zQ2hxa1RUTGVRZ1hZSDZMMDJxdldrMGNBVFN3Wmxi?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0txa0tSLXVmNzNOV0I0RjF5M09pVnRUVTE4bUR6b2VNeGJ2QWVLdGhCODNIM2FsdDJzSUxTeUVnUUdmMnZuR1E3N3J6dDlPOTE0LW9tUmtPNzRnNWtwSHExLV9EYWpZSVdXT1JTYjYyX3ZjZHZENnZaUmdJdFZGRTFwOGtLYVNCYUdaNU4zQ2hxa1RUTGVRZ1hZSDZMMDJxdldrMGNBVFN3Wmxi0gGsAUFVX3lxTE5zS3FrS1ItdWY3M05XQjRGMXkzT2lWdFRVMThtRHpvZU14YnZBZUt0aEI4M0gzYWx0MnNJTFN5RWdRR2Yydm5HUTc3cnp0OU85MTQtb21Sa083NGc1a3BIcTEtX0RhallJV1dPUlNiNjJfdmNkdkQ2dlpSZ0l0VkZFMXA4a0thU0JhR1o1TjNDaHFrVFRMZVFnWFlINkwwMnF2V2swY0FUU3dabGI?oc=5",
       "source": "Inquirer.net",
-      "published_utc": "2026-11-08T22:28:00+00:00",
+      "published_utc": "2026-11-08T22:30:57+00:00",
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US launches task force to disrupt land transit routes into Iran - Inquirer.net",
@@ -14,14 +80,25 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran dismisses US ‘Iron Gate’ effort aimed at cutting off weapons, trade routes - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFpuU2FpWWtMTElnb2pfWU5nOTQwQk5RR1ljeFk5eXNaTC1fdENJcG5OREpRcDJBTmE3clVMYm44b0NkWEJfbGFUU2xYM3o5TDV2em42NjZ2UEtpZmxWWXBISzFCUG1XS3FPa0xpNTc1OWNtRDZfd2hMbS1NekNmVWRQSE50ekho0gGOAUFVX3lxTE9XVzhSYmJFOUh0blVOWlN2LUZfOGo2bGpsSXpQU1ZZYzdJenNSM2hsVWMzdlJOZnJSV0JBck1sOHJET1g2Vy1oSUZuSTZwcDNHYU13Vjg1TkxydHlDaHhCUDUtWXRLN0l5VmpMWTVVMVRmRHR1QmJ4X29rUjVRZFUzYjZqckcwcW1YMUNNMVE?oc=5",
-      "source": "NewsNation",
-      "published_utc": "2026-11-08T21:11:41+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
+      "title": "Iraq Has Reached Understandings With US To Allow Oil Exports Through Hormuz - gCaptain",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlJwZW9qVWozVExBTWZZa0JEVTNvQ3cycjJ2TjA0VUExNWZsSkcxeFBpTjRReWFqbklWQ3F0MGYxNU9rcGtMeDZLa3VxeGoyQWFzamtPbHRqaXRTSmV3b1FRWF90TUVZS21PUmFZQWRZREYtZUx4WThvb19sT1BPdkNYSFBiWTNfdVVmUk5RNXFtYjctOThkZWVDdTliZw?oc=5",
+      "source": "gCaptain",
+      "published_utc": "2026-11-08T22:30:33+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Iran dismisses US ‘Iron Gate’ effort aimed at cutting off weapons, trade routes - NewsNation",
-      "title_id": "Iran menolak upaya 'Gerbang Besi' AS yang bertujuan memutus senjata dan jalur perdagangan - NewsNation",
+      "title_original": "Iraq Has Reached Understandings With US To Allow Oil Exports Through Hormuz - gCaptain",
+      "title_id": "Irak Telah Mencapai Kesepakatan Dengan AS Untuk Mengizinkan Ekspor Minyak Melalui Hormuz - gCaptain",
+      "translation_status": "translated"
+    },
+    {
+      "title": "IRGC Targets Three Oil Tankers in the Strait of Hormuz - KSLM Radio",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRG83THVRQlpkdHh1WUVQMV9aelBtRDFRSkxGRkdYX3lhQTRQYkN3eGZWbTNJM1BoSURjajh4amVOdjY5b0lQRDg5RVVReDIzZ1FiS0RyazZ5UlEwM080LUxiY0ZBZEFXNTB0ZzhmRjJjTTRVOExpenMxM1Y5bjBENThHTzZPNjNPaVJfOEZNQXVkaWh6?oc=5",
+      "source": "KSLM Radio",
+      "published_utc": "2026-11-08T21:30:52+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "IRGC Targets Three Oil Tankers in the Strait of Hormuz - KSLM Radio",
+      "title_id": "IRGC Targetkan Tiga Kapal Tanker Minyak di Selat Hormuz - Radio KSLM",
       "translation_status": "translated"
     },
     {
@@ -33,6 +110,17 @@
       "verification": "unverified",
       "title_original": "CENTCOM launches Iran-based land blockade task force - Fox News",
       "title_id": "CENTCOM meluncurkan gugus tugas blokade darat yang berbasis di Iran - Fox News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Trump: Renewed strikes on Iran 'highly unlikely' - www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3hKSDlmc0VwNVgzRkpKaHlLMF8zb1M1SmpVWTdtZmVFTjlMVC1GQVpwSjJlVVdZNmVVaFpVY3d2T3pfSmNabm11WVpRVy1jb0d4V0FUTnpNSDVxdUI4TGtfYzdMRG5ySmN4T2phbjlycVBRMkVUY2VicnlmS0JGbEZnZ1phaWNBVmFxQzdXU0FoNGRjVTFmeXBub1dSM2xIZWFF?oc=5",
+      "source": "www.israelhayom.com",
+      "published_utc": "2026-11-08T21:00:23+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Trump: Renewed strikes on Iran 'highly unlikely' - www.israelhayom.com",
+      "title_id": "Trump: Serangan baru terhadap Iran 'sangat tidak mungkin' - www.israelhayom.com",
       "translation_status": "translated"
     },
     {
@@ -69,17 +157,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "IRGC Targets Three Oil Tankers in the Strait of Hormuz - KSLM Radio",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRG83THVRQlpkdHh1WUVQMV9aelBtRDFRSkxGRkdYX3lhQTRQYkN3eGZWbTNJM1BoSURjajh4amVOdjY5b0lQRDg5RVVReDIzZ1FiS0RyazZ5UlEwM080LUxiY0ZBZEFXNTB0ZzhmRjJjTTRVOExpenMxM1Y5bjBENThHTzZPNjNPaVJfOEZNQXVkaWh6?oc=5",
-      "source": "KSLM Radio",
-      "published_utc": "2026-11-08T20:01:42+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "IRGC Targets Three Oil Tankers in the Strait of Hormuz - KSLM Radio",
-      "title_id": "IRGC Targetkan Tiga Kapal Tanker Minyak di Selat Hormuz - Radio KSLM",
-      "translation_status": "translated"
-    },
-    {
       "title": "CENTCOM Mirrors Naval Blockade With \"Iron Gate\" for Iran's Borders - The Maritime Executive",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2RxbUJsUnQtQlNsQzhsSUh2Z0s2ZUpiRGpUdWhDbHBnMnJOTTlIWjhKS0IxQ0d1bVRaNGpxUW1ZTm9yZ2MtSERNTUtORlBFWjlrQ1NfcEVoaG1sOGtDc1VhSnlGQ1dkdWxWX1hiRTF4VWNTYUF6S3BWdXI2Z2pnc3hSUE5HUS1qZk1hSXhQUW1abGR1Vi1hSHVUMDdja2NvUHJLMHJ3?oc=5",
       "source": "The Maritime Executive",
@@ -102,17 +179,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Trump says he is highly unlikely to order Iran strikes if talks progress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
-      "source": "Reuters",
-      "published_utc": "2026-11-08T18:58:48+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Trump says he is highly unlikely to order Iran strikes if talks progress - Reuters",
-      "title_id": "Trump mengatakan kemungkinan besar dia tidak akan memerintahkan serangan ke Iran jika perundingan berhasil - Reuters",
-      "translation_status": "translated"
-    },
-    {
       "title": "Iran: Tanker caught fire after hitting mine in Hormuz - Breakingthenews.net",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ045M3N4RjV3TjdSWEdlVmdHYzE4ajVPNVUxaUhVbFVfdG1peEZWb0hublFxWXB0T3FvaklPNkRNTGNncmI3Y1Y0TFQ5LXdHaTFueXBrVWM2TVhmWXdBcWE0QUt2MFMwb1BINW5JTmNLZHlnMXZkbEYya2RhNzlOTEQ1Y3FXSWttR1NSR3V0R0I1Zk5RT0trcVc3bHFibWs?oc=5",
       "source": "Breakingthenews.net",
@@ -132,6 +198,17 @@
       "verification": "unverified",
       "title_original": "Trump Says Full-Scale Iran War Now 'Highly Unlikely' — But Mines Are Still Closing the Strait - Latin Times",
       "title_id": "Trump Mengatakan Perang Besar-besaran dengan Iran Saat Ini 'Sangat Tidak Mungkin' - Namun Ranjau Masih Menutup Selat - Latin Times",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran Reverse-Engineering Captured US Military Equipment - WANA News Agency",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1c2OTJ3LVRqRXhCTzRWS0N4ZjRsbXlZQ09BdzNOdHYzb0ZBcDNQREtMZUV3NXBtLVI5WkRsWW12dUJnRVA5NjVhZUMycV9HVFdxaG5URVhOSHhFaUxLcTVQbnBiQnBPeEV5UGdRZXJRdWNxeE81cXNhQURCR2xxVw?oc=5",
+      "source": "WANA News Agency",
+      "published_utc": "2026-11-08T18:38:54+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran Reverse-Engineering Captured US Military Equipment - WANA News Agency",
+      "title_id": "Rekayasa Terbalik Iran Menyita Peralatan Militer AS - Kantor Berita WANA",
       "translation_status": "translated"
     },
     {
@@ -165,17 +242,6 @@
       "verification": "unverified",
       "title_original": "A fire broke out on an oil tanker east of the Strait of Hormuz after it struck a sea mine. - صوت الإمارات",
       "title_id": "Kebakaran terjadi di sebuah kapal tanker minyak di sebelah timur Selat Hormuz setelah menabrak ranjau laut. - Suara Emirates",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Araghchi: White House Must Choose Between Deal and War - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xdjZtdHBKNUVPZm1FemdaLVlFTW5qanhtcXFqcW1DWGRzb2hhU19paU9PQnpEblVJZ1BwMGFtcWZwbmVkcU15QnFwRlVyeVZhY21HcEpteXI3b1VLZnJsaWViS1ZIWFBfMk44cy1LRVpIZVRMV1htNGRfTXdyQQ?oc=5",
-      "source": "WANA News Agency",
-      "published_utc": "2026-11-08T17:33:54+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Araghchi: White House Must Choose Between Deal and War - WANA News Agency",
-      "title_id": "Araghchi: Gedung Putih Harus Memilih Antara Kesepakatan dan Perang - Kantor Berita WANA",
       "translation_status": "translated"
     },
     {
@@ -333,6 +399,17 @@
       "translation_status": "translated"
     },
     {
+      "title": "Iran: US strikes ship after blockade breach - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5",
+      "source": "DW.com",
+      "published_utc": "2026-11-08T14:40:08+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran: US strikes ship after blockade breach - DW.com",
+      "title_id": "Iran: AS menyerang kapal setelah pelanggaran blokade - DW.com",
+      "translation_status": "translated"
+    },
+    {
       "title": "Is the US blockading Iran? What the naval blockade covers and how Task Force Iron Gate extends it - Nacionale",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJVRHVBQ1pEUXJFNXpkWjF1VUVuVU01NHcySVZ1THcxYjVaQlM2UHZPZnN3R3pBZmN1Yi1RaEdqQkJVLUY0MHk1RHZVa1V4b3d2MmxiNnQyY3ZnZE9uNng3XzNoTlNpUHdjeUJOeUx4aTFqd1RHaDlqZ1MzUnFFYmZqSVZDTHpKTDB4dHJuN0RvQjJXLWpYR2hLNWNNZzdyZmpFM3hFWnd1TFU?oc=5",
       "source": "Nacionale",
@@ -352,6 +429,17 @@
       "verification": "unverified",
       "title_original": "Bulk carrier, military forces involved in latest Gulf of Oman incident, UKMTO says - アラブニュース",
       "title_id": "Kapal induk curah, pasukan militer terlibat dalam insiden terbaru di Teluk Oman, kata UKMTO - Arab News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Trump says he is highly unlikely to order Iran strikes if talks progress - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
+      "source": "Reuters",
+      "published_utc": "2026-11-08T14:20:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Trump says he is highly unlikely to order Iran strikes if talks progress - Reuters",
+      "title_id": "Trump mengatakan kemungkinan besar dia tidak akan memerintahkan serangan ke Iran jika perundingan berhasil - Reuters",
       "translation_status": "translated"
     },
     {
@@ -385,17 +473,6 @@
       "verification": "unverified",
       "title_original": "U.S. wants to block land routes to Iran - L'Orient Today",
       "title_id": "AS ingin memblokir jalur darat ke Iran - L'Orient Today",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran: US strikes ship after blockade breach - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5",
-      "source": "DW.com",
-      "published_utc": "2026-11-08T13:12:55+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran: US strikes ship after blockade breach - DW.com",
-      "title_id": "Iran: AS menyerang kapal setelah pelanggaran blokade - DW.com",
       "translation_status": "translated"
     },
     {
@@ -443,6 +520,17 @@
       "translation_status": "translated"
     },
     {
+      "title": "Strait of Hormuz fully under IRGC Navy control: spox - Mehr News Agency",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXlBN0dRbWlHN1Y4QmNKQlhhZnhtSlZScEMwM0xUY0dfT0d2bHVudGx4R1B2LXZyV0dYTTVib0QzZlBIVDNncV9ZcHNsaWhWRjlaNURoY0hOMjRnQUlIazdTb3dUdEJDX3VhbjJDQVY2blF5U1E1cklORlUyVmxjMlVqcEZaWE9mWDRuc3hoMUo?oc=5",
+      "source": "Mehr News Agency",
+      "published_utc": "2026-11-08T12:14:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Strait of Hormuz fully under IRGC Navy control: spox - Mehr News Agency",
+      "title_id": "Selat Hormuz sepenuhnya di bawah kendali Angkatan Laut IRGC: spox - Kantor Berita Mehr",
+      "translation_status": "translated"
+    },
+    {
       "title": "CENTCOM Launches Task Force Iron Gate in Tampa, Florida — Latest Updates On Task Force Iron Gate Operation - شبكة تواصل الإخبارية",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qTy1iWlg2bVU0T1FFT3U3cmxabnNWeDRrTlhBeVFaTWFneHFXUW9USGdfeV9VWlQ3RUZWTTFaa1VLYmJrTTJQbmM3bUZ2NHc0bm53?oc=5",
       "source": "شبكة تواصل الإخبارية",
@@ -473,6 +561,17 @@
       "verification": "unverified",
       "title_original": "3rd oil tanker catches fire on Hormuz Strait: IRGC Navy - Mehr News Agency",
       "title_id": "Kapal tanker minyak ke-3 terbakar di Selat Hormuz: Angkatan Laut IRGC - Kantor Berita Mehr",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran says 3 tankers caught fire in Strait of Hormuz - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHVjWGRLRlU4MGRaZ3YxVHFHVDktdGw1YjBGTHFqV1g5MEZoVVl5OHBHNnY1TmRIbHgtVk9WdldCUGlVbnE2OFBOeDJLODYyVXppSkhyUllQVTBoTlV2cUs0OW9MNllEVnJHSk5XUTRTTHc1UFIzT3B4Yy1IRGpsZ24yd1Z5ZV9NWl9MWjRvNG5ZRURGdE1z0gGcAUFVX3lxTE9XdEhqYnJYcS00cldqVnlWS0xhNF82ZUVyQ0tGNjQ4NG1SVkFxTjlEa0tTWEhTMGpYUW1WWGF2bE1KYlR0SnltYjJ6akpTNXU2cUl5Ry1sbmNhNW5RT2pDQ192bk41S1A1QzNBcUlSWW5ZMnNVbVBXNVEyM1dYRHpERXQtLXRCdUF6VEdUUmpqT0FqQlZ5SVVTV0VGNw?oc=5",
+      "source": "Inquirer.net",
+      "published_utc": "2026-11-08T11:54:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran says 3 tankers caught fire in Strait of Hormuz - Inquirer.net",
+      "title_id": "Iran mengatakan 3 kapal tanker terbakar di Selat Hormuz - Inquirer.net",
       "translation_status": "translated"
     },
     {
@@ -517,17 +616,6 @@
       "verification": "unverified",
       "title_original": "Third Oil Tanker Explodes in Strait of Hormuz - WANA News Agency",
       "title_id": "Kapal Tanker Minyak Ketiga Meledak di Selat Hormuz - Kantor Berita WANA",
-      "translation_status": "translated"
-    },
-    {
-      "title": "🇮🇷 Footage from the Strait of Hormuz appears to show fires burning on several tankers that Iran claims violated its maritime traffic regulations It comes as another tanker has been hit while exiting the Strait, and an IRGC spokesperson warned that Hormuz is en - X",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VWnJMdm1jaFZaYy1TOTJBU0NxNTlMQXJuaXRudE5MU3hIT0t0N3FyUHhzeGxsUkxRd0t6dHRHMmRud1BvRzZmQTQ3c0xyR3dZbmxoRDJDcGFDN1VMem5iRmNR?oc=5",
-      "source": "X",
-      "published_utc": "2026-11-08T11:00:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "🇮🇷 Footage from the Strait of Hormuz appears to show fires burning on several tankers that Iran claims violated its maritime traffic regulations It comes as another tanker has been hit while exiting the Strait, and an IRGC spokesperson warned that Hormuz is en - X",
-      "title_id": "🇮🇷 Rekaman dari Selat Hormuz tampaknya menunjukkan kebakaran yang terjadi di beberapa kapal tanker yang menurut Iran melanggar peraturan lalu lintas maritimnya. Hal itu terjadi ketika kapal tanker lain ditabrak saat keluar dari Selat, dan juru bicara IRGC memperingatkan bahwa Hormuz sedang dalam bahaya.",
       "translation_status": "translated"
     },
     {
@@ -685,17 +773,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "US forces disabled cargo ship in Gulf of Oman: CENTCOM - A News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDhpTHE3WHZZbFdTYWpqdHVpdHVWNHlMRHJIODhfUFAwQ3R3SEVKRElEekNnZEQta2xqdGR6dmt0eEh1TnBKTVkzYjV4SGw2ZWJMZzhWVlVTU011TjRmRWNzcDR6alAwa2lJUzRlaWxoZDhwSzQ1MU1lSTVLbTFNM25oa3dBNjRVUkhQU3NjTnIyVDJNQnlOR0dNVUhtOFXSAaQBQVVfeXFMT1BGaG1velp1cHl6c0hqRmRmNTlPUkdKLXN4S05CUmF3dEstM1FVaWRXTTE5aW5oX3FXX1Y1T2lLYU83QTFCVWFvQ0VWRWRQdEhQWjVHY2tzVG1Fb0ZGZDgzdjZZQ0h2bkRJbmdVTTZ0SFFrZVpCa0t1a1pSelZob0J1QkI4Q1RLU1ZMT3VJQmZsd1p5S3hyMkc4X0twalJXWkQ0VTU?oc=5",
-      "source": "A News",
-      "published_utc": "2026-11-08T06:20:00+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "US forces disabled cargo ship in Gulf of Oman: CENTCOM - A News",
-      "title_id": "Pasukan AS menonaktifkan kapal kargo di Teluk Oman: CENTCOM - A News",
-      "translation_status": "translated"
-    },
-    {
       "title": "At Least 25 Seafarers Killed In Strait Of Hormuz Since War Began Says IMO - Marine Insight",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFBFYm9xazlGckJVb3h3amVHT0JHUzMzc20tY3pTWV93REZ6RUU0enBwbllWSW5MRDRXTnZqeU9BenNEbnpnQzhJdDluSjFXOS1zYVRTNGdhUkNXNHdDQW10Y213WDlnLXlBUlcxd0M0ME5MQXI3M2lrWlgwdElFazNfbklzRlVncjJNanUyMUU?oc=5",
       "source": "Marine Insight",
@@ -773,17 +850,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "CENTCOM Disables Cargo Ship in Gulf of Oman Over Iran Blockade - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2lWT3dfWUFYbnozdnFFRFdHN3kzV2xDZHJCcWl2ZkRFOWhKMHRFQlUwZzdrVC1EQVgzUTFlNlh1WjEtVlVGbzhiM1JfalFfOFJxS2tXQm9zUVV2MjlpZkRtVmtPNU1aanI2alpqWk9xSS04YVkzVGlLUjE5eEJkNzlvdXU1YXBiX3RyZ0FIcWIxa3hCSG03YnZBOW5sMnFWX2pkT3lYWmVRdw?oc=5",
-      "source": "Kurdistan24",
-      "published_utc": "2026-11-08T05:14:51+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "CENTCOM Disables Cargo Ship in Gulf of Oman Over Iran Blockade - Kurdistan24",
-      "title_id": "CENTCOM Menonaktifkan Kapal Kargo di Teluk Oman Karena Blokade Iran - Kurdistan24",
-      "translation_status": "translated"
-    },
-    {
       "title": "Iran's IRGC says 2 'violating' tankers hit mines in Hormuz Strait, US forces disable vessel in Gulf of Oman - MorungExpress",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGVJVmkteTFYUVVMRUR5UXh5N19HRjVwVlpacVM4ekVyYnkxc1BoaGZ2VC1iZlVMaUcxMml4VE1tR25UcVhWWjE5NEtiS3hGRWNId0RYR3JFbFFSOVE2OXhHQUNWUV80b2hjSllZTWNmc0ZxX1ZfQ3I3cUYwSGEwTWtwbjdJSXN6MkRLTHVvRUtMVndaWGtBSUFqY192OHduQkZwOWtqdmJCS3ZCdjdEamJ4VnFPYkxGVE5KVEV6STE2Y2MydXZBbWFnUmhUdw?oc=5",
       "source": "MorungExpress",
@@ -814,28 +880,6 @@
       "verification": "unverified",
       "title_original": "US Military Disables Commercial Vessel in Gulf of Oman - Benzinga",
       "title_id": "Militer AS Menonaktifkan Kapal Komersial di Teluk Oman - Benzinga",
-      "translation_status": "translated"
-    },
-    {
-      "title": "US disables cargo vessel in Gulf of Oman as Iran reports two tankers hit mines - Rudaw",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ydWhUZ3dreDRzdEJ2ZG5SSU1nb2lORFNnTTZOc2NLUG9MbHZpTHUya3htSXRuRlNXemNxWXhzc1lWT094d2ctenFHZ3Z6OGdfOEdQMXlxSTZtYzBGOVFXUm5pbjVHQQ?oc=5",
-      "source": "Rudaw",
-      "published_utc": "2026-11-08T04:56:47+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "US disables cargo vessel in Gulf of Oman as Iran reports two tankers hit mines - Rudaw",
-      "title_id": "AS menonaktifkan kapal kargo di Teluk Oman ketika Iran melaporkan dua kapal tanker menabrak ranjau - Rudaw",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran says two oil tankers catch fire after hitting naval mines in Strait of Hormuz - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTlJLTzU4ZnE0cEtqYTJRd3JBMlFmR2NWVnlkelFGdWdqcG1NdjZ1T00tNEpSWk1yUmFGYUpUZkZKYTBKUW1aWUxXWExCeUhEaUlwbGhsajE1YTBJU0w3eUhsaG9mSEZRS3Z4VTVHYXVJanFoaWdBT0xQSzVZU3N6QkJCRXl5dVcyNmd3bXdtTWtIR1dWUU9tSkw4dEN1eGpNWFRNdHk5UkxiMFNNMDNWRjRlRVp6V24ySU1vQmpFOC1QQUhQN01WQVEteklGQXNpY0w3dklwTjlzVzRHOEtJOFRGQdIB6AFBVV95cUxOVk9oWDlOcy1lQWJDemhlOElFLXpYVDF1NlljTWR4ajZrMzFxeFY4WnRKdFJFTzVqLWxNenVfbGlwX0hvMGtXZ28zQTQ3bm1rWG5KWXEwRVZmZWtmQlBlYkY2SW5UdFJKN3MwMGtvU0xEVTVnQlZyODFONEtzdGhFcUcwQnMwYm5FOGVRRVlGTTczTTBXdGFrTzFMN3JWTGRZMEpmT1VlLTFSTXZadXh2YTVhS1hEdFkxTlpjNGE4Q2lDM1RSM2JBdWpEU2U5S1ZHN2NwdjRfRVR6SnJhX3F5Tk9Iczktd2I0?oc=5",
-      "source": "The Economic Times",
-      "published_utc": "2026-11-08T04:44:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran says two oil tankers catch fire after hitting naval mines in Strait of Hormuz - The Economic Times",
-      "title_id": "Iran mengatakan dua kapal tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz - The Economic Times",
       "translation_status": "translated"
     },
     {
@@ -872,14 +916,14 @@
       "translation_status": "translated"
     },
     {
-      "title": "US military says strike disabled ship trying to run blockade on Iran - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU09GTWFrTFZ6UDd1SkNCNkhtYmdycC1yakxvakIwcVl2aWhpRDFsdmI4VGg5SmRWemxWZUlFbTZPa2xYZzFRY1ZENWNhM0tCN1JNYmw1YWw1bVVOZm1rNmZKaUlLOHVzY0hqVTFuemZqTkNtTWl3cDB3SnV3Qm5qUE84Y21vRXBINU5talhPNFVwRWF5cUEtQnhMRzA3dlNh0gGmAUFVX3lxTE1HSk9WeEVMeXU1Z0hacVNudkhKaXhjanhJRWdVMTZCWm1ZNU5tUDFXTk96U2txN0pORlcyOHpVMUpUREs3QjMzQjE0STNnc1M2cUg0NTVTVlVPQndxbDZXUldSWHlJMk1KOGNZU2pZcGdPTmJuZmlnaGVLQ3l1MHlkLTFncGktS0R4YkFDUmJGT0NyWTZ0b0NhV2l1bG05YmlSZkdmY1E?oc=5",
-      "source": "The Times of Israel",
-      "published_utc": "2026-11-08T02:42:33+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
+      "title": "Iran warns US of 'devastating response' if Washington starts war - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTY4RFdIclFSQnBSVVVkVUZ5enh4M1RFN0hjOW04aHh6ZDR4Y3dYTFQ5TUZKWVZwc1FRbWJzTk9xUE1CVjgxbHVURm5fTkxMZlhxb0tNQnpTQzdRQzZmcFBUOG1yaHdaOTVDb3NLRzJWa2F1VFBxY2IySUFMWUJtYWF6R1NqcVIyWnVEUG9uWDBZRF9KV05YNGgwQ2JsNFRiTHFEOFlOZXVlcVVaajE1aUNLNE9JLVRCWlFSaw?oc=5",
+      "source": "The Express Tribune",
+      "published_utc": "2026-11-08T02:48:03+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
       "verification": "unverified",
-      "title_original": "US military says strike disabled ship trying to run blockade on Iran - The Times of Israel",
-      "title_id": "Militer AS mengatakan menyerang kapal cacat yang mencoba melakukan blokade terhadap Iran - The Times of Israel",
+      "title_original": "Iran warns US of 'devastating response' if Washington starts war - The Express Tribune",
+      "title_id": "Iran memperingatkan AS akan 'respons yang menghancurkan' jika Washington memulai perang - The Express Tribune",
       "translation_status": "translated"
     },
     {
@@ -891,6 +935,17 @@
       "verification": "unverified",
       "title_original": "US launches task force to disrupt Iran’s land-based supply routes - Al Jazeera",
       "title_id": "AS meluncurkan gugus tugas untuk mengganggu jalur pasokan darat Iran – Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "US military says strike disabled ship trying to run blockade on Iran - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU09GTWFrTFZ6UDd1SkNCNkhtYmdycC1yakxvakIwcVl2aWhpRDFsdmI4VGg5SmRWemxWZUlFbTZPa2xYZzFRY1ZENWNhM0tCN1JNYmw1YWw1bVVOZm1rNmZKaUlLOHVzY0hqVTFuemZqTkNtTWl3cDB3SnV3Qm5qUE84Y21vRXBINU5talhPNFVwRWF5cUEtQnhMRzA3dlNh0gGmAUFVX3lxTE1HSk9WeEVMeXU1Z0hacVNudkhKaXhjanhJRWdVMTZCWm1ZNU5tUDFXTk96U2txN0pORlcyOHpVMUpUREs3QjMzQjE0STNnc1M2cUg0NTVTVlVPQndxbDZXUldSWHlJMk1KOGNZU2pZcGdPTmJuZmlnaGVLQ3l1MHlkLTFncGktS0R4YkFDUmJGT0NyWTZ0b0NhV2l1bG05YmlSZkdmY1E?oc=5",
+      "source": "The Times of Israel",
+      "published_utc": "2026-11-08T02:32:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "US military says strike disabled ship trying to run blockade on Iran - The Times of Israel",
+      "title_id": "Militer AS mengatakan menyerang kapal cacat yang mencoba melakukan blokade terhadap Iran - The Times of Israel",
       "translation_status": "translated"
     },
     {
@@ -916,17 +971,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Washington takes Tehran pressure campaign ashore - Dawn",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ETUp2TTkwYWEtaFBhdnhZRVo2NGU3RldrWEFCeHFZTXZOaXpxb1htYy1id1NvNTMzVnpKSDd1bnVISlZaaC1DZA?oc=5",
-      "source": "Dawn",
-      "published_utc": "2026-11-08T02:01:14+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "Washington takes Tehran pressure campaign ashore - Dawn",
-      "title_id": "Washington melakukan kampanye tekanan terhadap Teheran - Fajar",
-      "translation_status": "translated"
-    },
-    {
       "title": "IRGC Says 2 Tankers Hit Mines as US Disables M/V Huda Near Hormuz - https://houseofsaud.com/",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ta0s1S2d6U1I2VWttU1B0M3REX21DeVE4ODI4OVNtQjVnT2RVZkFhSVRwSTdTSGdtUWRNd3VySngyZ2JaTVFTQU9MMXhLRENhRjBnTzd1bHE3M0E3aTlON0RTQ3JRQQ?oc=5",
       "source": "https://houseofsaud.com/",
@@ -935,28 +979,6 @@
       "verification": "unverified",
       "title_original": "IRGC Says 2 Tankers Hit Mines as US Disables M/V Huda Near Hormuz - https://houseofsaud.com/",
       "title_id": "IRGC Mengatakan 2 Kapal Tanker Menabrak Ranjau Saat AS Melumpuhkan M/V Huda Dekat Hormuz - https://houseofsaud.com/",
-      "translation_status": "translated"
-    },
-    {
-      "title": "US releases video of strike on cargo ship in Gulf of Oman amid Iran blockade enforcement - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEl1QnBtaElkSzQwS3gweUhVMFo3X2lldENSZkx5R2t1RzNhSjgzTGRzaHYtQjZoa2RITGNicWVMRHRfdlRUYmhWWUtiM3B4VGd0TjU2Z2F3MWswTWlyVjNtMzYxU0VnWFo2Z3gzcHo2NXhYZ2JhOVBXR3NzOEdwcTlpZDBaQWxSSkFOVTZUeXc0YjV5UlZsMlBfUjBveHlVNURmcDRwd3VCX3ZtWWRPbEp30gHEAUFVX3lxTE1FR1pYY0R3SjY5bEl1aXNGeG4tY0ZsbWdLbGloUUxUZUoyOHd0Mzl1MVZUM210ZTQtSnJGb2s0dUtsdVA3c21YYUd6bjQzV21yUGZtX2xpaFpuZnRldDFib0pZZ1lNNk41U19ocDMyZXI2dm40d1c2aVQ5REtCYTlSR1BRdHdKVGxLbXdyTTVYZDkyQnNsQWRSS3hzZkh4bHFfOEJEaGE1Q0VwdTQ5YWdBNjUyeVBJbDRQUks5aHJ3a3ZiY3U?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-08T01:09:43+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "US releases video of strike on cargo ship in Gulf of Oman amid Iran blockade enforcement - Gulf News",
-      "title_id": "AS merilis video serangan terhadap kapal kargo di Teluk Oman di tengah penegakan blokade Iran - Gulf News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Task Force Iron Gate: US expands Iran blockade, tightens squeeze, as Tehran lifts missile limits. Is another war looming? - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZWhuQ01mYTZpRFFnbG1WQzJrNWs2WjRRT0Ryczk5bGdjQWVTdXpzd2pzVm1MLVcxeG5wUmYxckxyZ0lWWGlwRGpqZ0k5TkZYYmd6Q3pZbWh1azVXNkFGSlBEdGdLT19wQ3FSWnNJeDlaaUVmSTBEa1ZsNGJXWGhWcU80TlZBbUdJNUthS3dhd2dBb3pXc3pzeExkTXFWSGpET0dVVE41eldqOVBHUVBlSF84SHh4MUtGX2hyd1ptN05obllpZEgyQzBrZ29KY3BPXzVRa0ZBWk1Ca3R0bWJiZll5WWRUQllHZmFqWVIyU2RrTm_SAYYCQVVfeXFMTjRrUTlMMmU3ejM4LU5mT29CLWJOb1FyY1d4X1RVbHQyRmtoZlpqZ0FQR1BFa3UzZERxRHpsMFBDZnhoOXNYNkVFMjgyTmo5NVlzTzBvaTJhbXJGeWt4ZDB6SlVNNHluVkFvMmRHbXZ4WGdVM2VUOVZva2NCVjZ0QWxsU2ptVTY4TTVvSEJyU1VNN1plQkx5M3hXVmpJZW5TZTZDOThjN1EzajN5RDNpWUlHaE54M0ZDRlpCdVR0Y1dhdzBzYW55bUdUT2xKcVZPdkJzMGloY3QtVzVNcmdVQnlSSnZ5X0ZJTXdoQ1pJMjNDT092TnVlQWlGQmZydDBCdFRnM3FnZw?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-08T01:09:00+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "Task Force Iron Gate: US expands Iran blockade, tightens squeeze, as Tehran lifts missile limits. Is another war looming? - Gulf News",
-      "title_id": "Gerbang Besi Satuan Tugas: AS memperluas blokade Iran, memperketat tekanan, seiring Teheran mencabut batasan rudal. Apakah perang lain akan terjadi? - Berita Teluk",
       "translation_status": "translated"
     },
     {
@@ -1004,6 +1026,17 @@
       "translation_status": "translated"
     },
     {
+      "title": "CENTCOM disables commercial cargo vessel in Gulf of Oman - Stars and Stripes",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWt4cWhaaHRINVdMOXNLM0tqOFl5NUJZS3NpRWlaaTlvNmFNb191LVZQRzV4a1g2UU1nQmgyY0NrNVExMFBUbDIxQVRCdFJWZ0F2X2F2S0J0YlpvcDJNOFZ1WHpoSzUtSmJwNnhXUDdGY3ZfOW83NGk5Z1hrZml0WVNPQkw2QkF0SWZTUHVLLWhsOThUZ1NxQ0VsbzdMbVBjejU2NTFyZ3pyMTlWX1E?oc=5",
+      "source": "Stars and Stripes",
+      "published_utc": "2026-11-07T22:34:39+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM disables commercial cargo vessel in Gulf of Oman - Stars and Stripes",
+      "title_id": "CENTCOM menonaktifkan kapal kargo komersial di Teluk Oman - Stars and Stripes",
+      "translation_status": "translated"
+    },
+    {
       "title": "US forces disable cargo ship in Gulf of Oman over alleged Iran blockade breach - Middle East Online",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFNFQ3pwT09NYTJybUlDWDFLTlMxZ3U0dU5ON2Z6SHZOTWx2VzZ1LUtwNm1xUzIzSk9FRmFlX0F5YWNFSXR3OVZXQnVnRnl4QWlaVzRRZFZQMmpWaWo3Vzd4M0tCcHdDelU0THB2TldDOHUycVZ3RDdyNFV5UF9LcVpwQzhCSjBxY1ZwTlRlV1R6bVc4MEVsVEdPN0l6eFQ4OFBGVFJfSHlpUQ?oc=5",
       "source": "Middle East Online",
@@ -1048,58 +1081,25 @@
       "translation_status": "translated"
     },
     {
-      "title": "US military says it disabled cargo vessel in Gulf of Oman - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFZ6NnZ6dXlSMGgxaGFJRzl4a2M2NWlSNkY4SWdGanRYRzN0UThJQUZ6SnRHbHM0Y1Q0cklLLXg5M0l4NVRGOWpCNE1VbFJjRVlQeXlZR01BMF9uNnNzNloyQzFiUkdtaGMxOXFreWEyYXBoX0RJV2xydldBWmpRNFRVTUN3T0N1YjBLeDFIUl92bW1Vbm1tR0ZzNkVXQ3NTWUpqMg?oc=5",
-      "source": "Arab News",
-      "published_utc": "2026-11-07T21:31:27+00:00",
+      "title": "US forces disabled cargo ship in Gulf of Oman: CENTCOM - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSE9nTDlzSVRqdjdvcmliLU9UWHk1VU1nV1NMMkJfNktBQzNmeEZMM2Z6UTdhQWp6RmJQb3NoNWpLdUlRX1pZb085ZklaUGtZQkdFb0NMQ0tkQUtXWVMwZzdmajgwdjFEZmRjOGNtSHcxNkRoS0VlQWV6b1RvQ2lwUnJHdXdLd1cyRmxWd3lUQWhBejZzQWFhS0dQNA?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_utc": "2026-11-07T21:22:41+00:00",
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
-      "title_original": "US military says it disabled cargo vessel in Gulf of Oman - Arab News",
-      "title_id": "Militer AS mengatakan mereka menonaktifkan kapal kargo di Teluk Oman - Arab News",
+      "title_original": "US forces disabled cargo ship in Gulf of Oman: CENTCOM - Anadolu Ajansı",
+      "title_id": "Pasukan AS menonaktifkan kapal kargo di Teluk Oman: CENTCOM - Anadolu Ajansı",
       "translation_status": "translated"
     },
     {
-      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade - US Central Command (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGx4ZlBZZjR6ZUhHQ2NCcG5lMmhCQTNtVktHeWxDdFAwRU5OdFprMnVpQl9PYmJYYm5DYktiZEtyUVRwdy12Y2d5RW16RFpDSUVUN3AyT01jNTJBemxsVUhfbEdheDRvWV9femRTUVNuYy1telVMNWU4dFFTVnUycm1zc3dTZWtXR1lGUGJ2NDluZVlBcVRNMDVtM1BhRkZQZDBLa0NWck9PdFBFdmE2Qm1ydHNsVkZGTFU5R0haU2NYemQ4emtHRnhn?oc=5",
-      "source": "US Central Command (.mil)",
-      "published_utc": "2026-11-07T20:49:47+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
+      "title": "IRGC says two oil tankers hit mines, catch fire in Strait of Hormuz - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iMGZvZWgwbGhhclVKbzVIdWVnV0ZtX0R0QXFzNGlFbFFLY1UyUnd4U0ZIN1BSWVNuZTljdEdPei1ybjdMOEpNTS05SjljelVTeEE?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-07T21:18:17+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade - US Central Command (.mil)",
-      "title_id": "Pasukan AS Menonaktifkan Kapal Kargo yang Mencoba Melanggar Blokade Laut - Komando Pusat AS (.mil)",
-      "translation_status": "translated"
-    },
-    {
-      "title": "US CENTCOM Establishes Task Force Iron Gate To Block Iran's Weapons Transfers - - TVC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjNaLU9nNV9lUFNTdUxZQVhQU2d2Zl91WUtQaHhidVBwLThzb2Zya1ZCdV9GOWppdGN6NG95dEJWZmc2ellTRnhYZ0ZvSVN4dEZLVENWTFp2Q2Z6UU1jUzdMWUpQSHpEZGZSblJnMWpVNWU1QlZOcElyUFRvTlNWOUdjZDZRWG1rMk5Cb0otZVFjN0Fib1VselcxbGxySjRGdGc?oc=5",
-      "source": "TVC News",
-      "published_utc": "2026-11-07T20:13:00+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "US CENTCOM Establishes Task Force Iron Gate To Block Iran's Weapons Transfers - - TVC News",
-      "title_id": "CENTCOM AS Membentuk Satuan Tugas Gerbang Besi Untuk Memblokir Transfer Senjata Iran - - TVC News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "CENTCOM announces task force to blockade Iranian ground transit routes - Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1dHeGZybjR1ajE1NENqYzF3MUp4NllKUnNUZlg5dTZ4cDZndzVuMWphOUR0WEFJYS1Ja3JZdzdXa05zR0VmN0Y4WDIzOTItb2ljZ3ZFZnNieHVZYUtncWUxS0lBMVZJeVpVUXBteGhQYy1ScndYVXRYVTZVcVhITXdES1VhTlRFaXRkN2dqZHVXUENBbUlFY3hGVVh4UGxLNVBmVnBhWFJ4UQ?oc=5",
-      "source": "Washington Examiner",
-      "published_utc": "2026-11-07T19:16:16+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "CENTCOM announces task force to blockade Iranian ground transit routes - Washington Examiner",
-      "title_id": "CENTCOM mengumumkan gugus tugas untuk memblokir rute transit darat Iran - Washington Examiner",
-      "translation_status": "translated"
-    },
-    {
-      "title": "US Launches 'IRON GATE' To Block Iran's Land, Caspian Supply Routes; CENTCOM Expands Pressure - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbFNDaVdmcE5FUVFSMmxudE1mSUNJa0hJMXlpV01vU2k2QkpaQWNPQlNZSVAxdzVmc25ubHZ6MHBzZFdYRUpYN2VYZEtIbGxjU1VWMDFSM0pOSlZLYUktMnh3bWgtcUxZRlJoc1U4ZmQzMTZ4VWpoYXlrSlRiNy1OcGNHcjVLVXVmM0xleGFsT20xMnhvNzVWcjZyUzNhcGVVWjB4VllQNERxZjc0UlJWX1hnTkc4LTRFMkgxZ1V5YW16Nnl3ODBaRlRFOHBhcEpXSnhWb0NkTWJtMWl6RGtnLVRnUXRqU0trTlJSeXVEbHd4ZG9WVEZodUZyUkVfd9IBgwJBVV95cUxQdE11R3pkcll2bk5KRXVVZ3A0ZFg2aFBkb1Q0ZFNuVlBIa2NtY0FUQ3R1OXVIZkpKUVp5NFpYYzJHRHVDVV9iaWFja3RzZDYzemdISFZoalQ2UDF6RGZELV9xeWg0YmZPZ25IakZnXy0zRDJEVVBjM1M1N2ozUk9IWGs5dW5oR3ZyZm8wVDZvb1FrVFVfVzhWTHdiU2hIWEJ4bWwweTJrMFBFbUdJZFlyWjJHc2hwNDVzVGtnQktlNUZQZGJiZWVnR25WTXgxYTZudW9mWnZVMzRVc1JGU3ZnaVhsUllnNmpyaWFzUGFFX1lBRDlYQXBMU2MzVGtzWEpXakQw?oc=5",
-      "source": "The Times of India",
-      "published_utc": "2026-11-07T18:53:16+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "US Launches 'IRON GATE' To Block Iran's Land, Caspian Supply Routes; CENTCOM Expands Pressure - The Times of India",
-      "title_id": "AS Meluncurkan 'GERBANG BESI' Untuk Memblokir Jalur Pasokan Iran dan Kaspia; CENTCOM Memperluas Tekanan - The Times of India",
+      "title_original": "IRGC says two oil tankers hit mines, catch fire in Strait of Hormuz - Iran International",
+      "title_id": "IRGC mengatakan dua kapal tanker minyak menabrak ranjau, terbakar di Selat Hormuz - Iran International",
       "translation_status": "translated"
     }
   ],
