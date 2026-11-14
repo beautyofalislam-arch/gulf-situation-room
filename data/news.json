@@ -1,17 +1,149 @@
 {
-  "generated_utc": "2026-11-14T14:14:42.466203+00:00",
+  "generated_utc": "2026-11-14T19:16:57.497759+00:00",
   "status": "RAW_NEWS_NOT_VERIFIED",
   "articles": [
     {
-      "title": "Iran claims 17th US MQ-1 drone \"destroyed\"; 2 tankers \"catch fire\" in Strait of Hormuz - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRm9oR0k4NGVzSElZSURMWk1GeXdNME1veVpydUtVazNCcFVfZXprb1NVaG9zVXkxWk9pMlljbVVaeG1mXzB3SW9hekRoeUhfSXlXb0dZckFzWWdYZkZIVjY0U3FvQ3NVYWdlM3JDUVN2ZGYwQk9NU1N6U0FuUldSN25uVXdPUmhObzM1R2NsNGhEaEZmZ0hhWUNwbFJyWmo0Nkh1TnBvNlJNYVNibS1BNEl1RGpaX1JYbFM3Y1pmVkgzamZZSER3VEJqQnVkTWVpVXRkV3FGcDI?oc=5",
-      "source": "ANI News",
-      "published_utc": "2026-11-14T13:41:00+00:00",
+      "title": "Shafaq News..CENTCOM: 1.7B+ barrels crossed Hormuz under US protection - شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObG9MSFhkazB2Z0cwamRXU2N6U0lULXhMQ2dYZkhhVzJXN1NvMDg0VUNWdkJGRThqd2JDN3FaeXoyWlRaUWY2bUpDX29WamF3STNSUzFacjRfSld4a0JjXzY5eklGOEpmYnd5QnFpV1VrcGo3WjZEVTZDZ1hCdThmSW9LOXVkam1zMDJF?oc=5",
+      "source": "شفق نيوز",
+      "published_utc": "2026-11-14T19:00:13+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Shafaq News..CENTCOM: 1.7B+ barrels crossed Hormuz under US protection - شفق نيوز",
+      "title_id": "Shafaq News..CENTCOM: 1,7 miliar+ barel melintasi Hormuz di bawah perlindungan AS - Shafaq News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran Claims U.S. Radar Was Destroyed In Bahrain. CENTCOM Says Two Drones Were Intercepted Before Reaching Target - Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVZOVldfcm5WWmdILUd1SnFzdlZXX2c2b19oTEh1c2lBdmZiQmR5S1U4OUpab1Ztejg5M2ZkY2JycGlUbTVFU21wb0NRMWV0bHBweFBGeGZ1ZUVDcmZVRVFtOHpSLThkekExLVg3TWktS1J6LTVhTmpkYnNmSU1PcnlSU1UweE0?oc=5",
+      "source": "Latin Times",
+      "published_utc": "2026-11-14T18:38:47+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Iran Claims U.S. Radar Was Destroyed In Bahrain. CENTCOM Says Two Drones Were Intercepted Before Reaching Target - Latin Times",
+      "title_id": "Iran Mengklaim Radar AS Dihancurkan di Bahrain. CENTCOM Mengatakan Dua Drone Dicegat Sebelum Mencapai Target - Waktu Latin",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Strait of Hormuz in chaos as 3 oil tankers struck by mines, says Iran - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vbHJxSU9BYmU4VjZlR3BHRGVaajVVOElzNDNVOTBRenR2VDRJeUMxQzZvUE51d0dPUXYydHk3em1QekhuUGZBMURZWnNpTGNQcWIwckxwbHdEWVFBSUJvS2F3bDVXNm9kZ1pTTzFzN0ZlTzc5UnpZSg?oc=5",
+      "source": "AOL.com",
+      "published_utc": "2026-11-14T18:05:23+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Iran claims 17th US MQ-1 drone \"destroyed\"; 2 tankers \"catch fire\" in Strait of Hormuz - ANI News",
-      "title_id": "Iran claims 17th US MQ-1 drone \"destroyed\"; 2 tankers \"catch fire\" in Strait of Hormuz - ANI News",
-      "translation_status": "unavailable"
+      "title_original": "Strait of Hormuz in chaos as 3 oil tankers struck by mines, says Iran - AOL.com",
+      "title_id": "Selat Hormuz dalam kekacauan saat 3 kapal tanker minyak dihantam ranjau, kata Iran - AOL.com",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran Attacks US Military Base in Gulf for First Time in Nearly 2 Months - The Media Line",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2laSFpfcGl6bDVidFBFZ2hGUDJDajJnOUJCVEZISF9ZMWZEWVBIT0REU0lYazRtTDZKQUdaSHJpQU10MDhzLUxpM2k1cVhXc2V1bmtsbVp0bjFZRXg1a0t3NG5PTzBTZXpIbElGVFBla0RoWGl0bWYtT2dtRFh3T3RUQjRmYUpXelFPRGZMWU9OMkt0bWRTUzg2T1QxVzRfQVZ2RXgxZ1BGZFk?oc=5",
+      "source": "The Media Line",
+      "published_utc": "2026-11-14T18:00:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Iran Attacks US Military Base in Gulf for First Time in Nearly 2 Months - The Media Line",
+      "title_id": "Iran Menyerang Pangkalan Militer AS di Teluk untuk Pertama Kalinya dalam Hampir 2 Bulan - The Media Line",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Live - Trump to raise Iran with Putin, Xi as Hormuz tanker strikes continue - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYTFVTTdXUzNYNUhDSlpNS2VjV1VVTUs2MU43Z1lfamE5MkhlMFdtMVdReUVjTjNZZVpNSmZVUmJ6Ry1IWm9CTk1JUS1ONW1VTkVEX2tJdWJiNUMxZHc?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-14T17:50:20+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Live - Trump to raise Iran with Putin, Xi as Hormuz tanker strikes continue - Iran International",
+      "title_id": "Live - Trump akan mengangkat isu Iran bersama Putin, Xi saat serangan kapal tanker Hormuz terus berlanjut - Iran International",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran downs 17th US MQ-1 drone, reports two tankers hit by sea mines east of Hormuz Strait - Tehran Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlhuc1JsU0VodklUSTNnTklOYkNLVDlvTWpLZjBsNF9YRm5sQmFmUlVOb0R2a3VVblp4TW1iWmhJdS1jZXBZNzV6Qzk2a256dnlMemswY2Y0cjhoNnhuQUZHZkhqV2RpeEhidENjYWxlZXpHUGVwTDRfdnU1VmRobmZpNDY1SktlZnIyUzM2OW5DdTI4QTRvcVJsR2ExZVB3bFE?oc=5",
+      "source": "Tehran Times",
+      "published_utc": "2026-11-14T17:37:13+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran downs 17th US MQ-1 drone, reports two tankers hit by sea mines east of Hormuz Strait - Tehran Times",
+      "title_id": "Iran menjatuhkan drone MQ-1 AS ke-17, melaporkan dua kapal tanker terkena ranjau laut di timur Selat Hormuz - Tehran Times",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran War Day 260: Iranian Tanker Attacks Continue - The American Conservative",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUW9OVTdoLWRHdm1odFJqakdqbkc1OUx4UnRrM3JjZEhxczJuUEZ0V0UwMG9ZazQxOEwtdGU3VGQ0LXFkOHU1VGk3eDY1MkIwWjNZdk1mXzFOR0s3aHRXSGJDYmQ1aU9GejVxU0N1T0FGVmtyNlVDeDhVX1NTUDdHTGFJalVmY1FjUnhQdkpkV2FlRUU?oc=5",
+      "source": "The American Conservative",
+      "published_utc": "2026-11-14T17:25:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran War Day 260: Iranian Tanker Attacks Continue - The American Conservative",
+      "title_id": "Perang Iran Hari ke-260: Serangan Tanker Iran Berlanjut - Konservatif Amerika",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran reports tanker fire after mine strike as Strait of Hormuz tensions mount - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkZzWndwV3dSdnl0c1N5QWg5TExFeFJhTW5Mb2V3a19scFNYeXAxbVBJMGtBOF9GSmI5M2xXdmYwV1M4dm40aTRQcjY5UjJON3dKYjE2Vmw5QlhCc2FpZUtyTENNQW5MZnBza1E2Z25NejN1VkFzNTd0V1l5RS14Nk92dzRZZDhPZ0trQzBYb2J6dVlpNU0zVmJwRVZyWGp1OS1FWHIyWTdaZmdhTXJlWkFwUWdmb2JkVy14SkJ3?oc=5",
+      "source": "Investing.com",
+      "published_utc": "2026-11-14T17:17:27+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran reports tanker fire after mine strike as Strait of Hormuz tensions mount - Investing.com",
+      "title_id": "Iran melaporkan penembakan kapal tanker setelah serangan ranjau ketika ketegangan Selat Hormuz meningkat - Investing.com",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran's ‘mine war’ claims questioned as UN warns over uranium buried at secret nuclear site - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RS0xYRG80TGVmRmNnSFVGVWJBVjNqREpDQ2RsUE1ZR2Nndkh0cTJxc1VsREF2ajNaLTlVai1KcmI3TFBad2JhQWVtSGpsS3lDUlZHMTBR?oc=5",
+      "source": "Ynetnews",
+      "published_utc": "2026-11-14T17:15:24+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran's ‘mine war’ claims questioned as UN warns over uranium buried at secret nuclear site - Ynetnews",
+      "title_id": "Klaim 'perang ranjau' Iran dipertanyakan seiring peringatan PBB atas uranium yang terkubur di situs nuklir rahasia - Ynetnews",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
+      "published_utc": "2026-11-14T16:30:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
+      "title_id": "Angkatan Laut Iran Mengatakan Kapal Tanker Minyak Terbakar Setelah Menabrak Ranjau di Hormuz - ASHARQ AL-AWSAT Indonesia",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran: 3 oil tankers hit naval mines in Strait of Hormuz - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWlvcVhiY3p4bWRWckE3cVhnYjlvNUZEem5pQTdLZ3hMMDNsZUh5NXhZbnZ5UGZhalpoeWtaUWVxcG5JUHlvVnpGQ29JYmRNYWgtbFQ3T2ZjZVJORVJwQl9Jbmhxdi1DMnhNU3JLWVlPSVFBeU9pMGp3UHBCMUJHYm92d0g5eXduaE9OZUVGNFFrOXJrQnIybE1OLXZFb2pUa3JrdHlTdUVQQlhDQ3Vhd2JRc2w0ZlpoYm1DMGJR0gHDAUFVX3lxTE9UNnNiWmMtc3lKLVV1ZTZoUWZRYTUyalVxcEFjYWFSTTFhSjJHa1h1eElXTnpXeHduRHBSMWhBYWp2T3hsTzJ0c1BmSWlpbHhraU5kSzhEeGZjUFFudWdqd2Y2MGJXVlZVbTFNZWNKWmNqb2tpc2IyTzk1Qi1NMWI5Q2R5Qm1JdTdzZXk3ZGRqRW9NX2FyV1VCeWRkQm1MMTA4LXJCLW1OWG9ZQ05rM01HYTM1SWNyYS1MZGtPU3Btem5jWQ?oc=5",
+      "source": "The Manila Times",
+      "published_utc": "2026-11-14T16:04:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran: 3 oil tankers hit naval mines in Strait of Hormuz - The Manila Times",
+      "title_id": "Iran: 3 kapal tanker minyak menabrak ranjau laut di Selat Hormuz - The Manila Times",
+      "translation_status": "translated"
+    },
+    {
+      "title": "🚨🇮🇷 Another day, another oil tanker IN FLAMES in the Strait of Hormuz, with Iran's Revolutionary Guards releasing footage of the burning vessel. Tehran says the tanker was attempting to pass through the strategic waterway without authorization. Writer: Oliver - X",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ySjNtQXNvTjRBUGlqRHA0Ml9rZ04yZi1La1lZMlM4ekFqWWlYM0liUzFXZ3Fvc2J3dUR5X1kyaDVuX0pDeTRXUi1SSGVGLWFSQksycGtUdVBZSXVpS3pVY3VPUEZxLXZRUHo1Ug?oc=5",
+      "source": "X",
+      "published_utc": "2026-11-14T14:20:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "🚨🇮🇷 Another day, another oil tanker IN FLAMES in the Strait of Hormuz, with Iran's Revolutionary Guards releasing footage of the burning vessel. Tehran says the tanker was attempting to pass through the strategic waterway without authorization. Writer: Oliver - X",
+      "title_id": "🚨🇮🇷 Suatu hari, kapal tanker minyak lainnya TERNYALA di Selat Hormuz, bersama Garda Revolusi Iran merilis rekaman kapal yang terbakar. Teheran mengatakan kapal tanker itu berusaha melewati jalur air strategis tersebut tanpa izin. Penulis: Oliver - X",
+      "translation_status": "translated"
+    },
+    {
+      "title": "2 tankers caught fire after hitting naval mine in Hormuz, Iranian navy says - Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWZuaVFjS2s2c013OHQtdkhoNllJMlBXLW5HTnBfcThLcTdXenJjaDA4ZW1waUVmbjBrRnNPZkpMLTdWN0trT0h1bzFyLS0ySEtFbFJrYW5QRlMwY0FTTnpXVTFvRXM1SFIxZVBiNVR1ay1jLWQtb1M5U25uQ0ZzbUg5azNaUnhQR2hHblBCUnU2Wk5SMXdoQjZ2MkVfYmtTc3dqQk5pRmVLVk5kLVU3QXg5U3RxeUZwZ0E?oc=5",
+      "source": "Middle East Monitor",
+      "published_utc": "2026-11-14T14:16:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "2 tankers caught fire after hitting naval mine in Hormuz, Iranian navy says - Middle East Monitor",
+      "title_id": "2 kapal tanker terbakar setelah menabrak ranjau laut di Hormuz, kata angkatan laut Iran - Middle East Monitor",
+      "translation_status": "translated"
     },
     {
       "title": "Iranian revolutionary guard navy: Fire breaks out on another illicit oil tanker east of Strait of Hormuz - وكالة سبأ",
@@ -21,19 +153,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iranian revolutionary guard navy: Fire breaks out on another illicit oil tanker east of Strait of Hormuz - وكالة سبأ",
-      "title_id": "Iranian revolutionary guard navy: Fire breaks out on another illicit oil tanker east of Strait of Hormuz - وكالة سبأ",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iranian Navy says ‘violating’ oil tanker hits mine in Hormuz Strait - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3Q2SWFkWkJ0YkVwUnFSV0Jjd2swVXNfVUpRemJOUHg3WnNRcWdIZ0hOTDBjMDNHYTB4c3pKU2RjbDdJbmM5VGt1UXZtSkx3ODU5Y1kyZWxFdm5UV3FCS1MyM3ZnS3N2dmdEQW5MR3BLT3ptWVNDUmtEbFo5amU3ejZOa1VXRVZ4dlY5djRHN2FKQQ?oc=5",
-      "source": "Yahoo",
-      "published_utc": "2026-11-14T12:48:41+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iranian Navy says ‘violating’ oil tanker hits mine in Hormuz Strait - Yahoo",
-      "title_id": "Iranian Navy says ‘violating’ oil tanker hits mine in Hormuz Strait - Yahoo",
-      "translation_status": "unavailable"
+      "title_id": "Angkatan Laut Garda Revolusi Iran: Kebakaran terjadi di kapal tanker minyak terlarang lainnya di sebelah timur Selat Hormuz - وكالة سبأ",
+      "translation_status": "translated"
     },
     {
       "title": "Oil tanker on fire in Strait of Hormuz: Iran's navy - Middle East Eye",
@@ -43,8 +164,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Oil tanker on fire in Strait of Hormuz: Iran's navy - Middle East Eye",
-      "title_id": "Oil tanker on fire in Strait of Hormuz: Iran's navy - Middle East Eye",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker minyak terbakar di Selat Hormuz: Angkatan Laut Iran - Middle East Eye",
+      "translation_status": "translated"
     },
     {
       "title": "Three oil tankers collided with mines in the Strait of Hormuz, Revolutionary Guards - Howl.Link",
@@ -54,19 +175,19 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Three oil tankers collided with mines in the Strait of Hormuz, Revolutionary Guards - Howl.Link",
-      "title_id": "Three oil tankers collided with mines in the Strait of Hormuz, Revolutionary Guards - Howl.Link",
-      "translation_status": "unavailable"
+      "title_id": "Tiga kapal tanker minyak bertabrakan dengan ranjau di Selat Hormuz, Pengawal Revolusi - Howl.Link",
+      "translation_status": "translated"
     },
     {
-      "title": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz - The Jerusalem Post",
+      "title": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz, Iranian state media says - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5",
       "source": "The Jerusalem Post",
       "published_utc": "2026-11-14T12:00:58+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz - The Jerusalem Post",
-      "title_id": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz - The Jerusalem Post",
-      "translation_status": "unavailable"
+      "title_original": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz, Iranian state media says - The Jerusalem Post",
+      "title_id": "Kapal tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz, kata media pemerintah Iran - The Jerusalem Post",
+      "translation_status": "translated"
     },
     {
       "title": "Two Oil Tankers Explode and Catch Fire South of Strait of Hormuz - وكالة سبأ",
@@ -76,19 +197,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Two Oil Tankers Explode and Catch Fire South of Strait of Hormuz - وكالة سبأ",
-      "title_id": "Two Oil Tankers Explode and Catch Fire South of Strait of Hormuz - وكالة سبأ",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Oil tanker hits naval mine, catches fire in Strait of Hormuz - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMWdfVFdKTGhEeHE3ck9CT1Z1SGZYWkdhZDhiSE1yRFdDTDk1dmlQNkNCOFpvR3pmMTFPOTZZY3JnaWlEU21UV3lxeGdIOWxIWWcxaGRzRTNZYm5WWW1YUy1Tc0V5dC1vUzF3OFZ1SElXallNNEpaWNIBfkFVX3lxTE1lcGpPTEQ3U2ZtckRMMjRwOXRSaFBLa21qUEtWNnhmLWdVb210eDk1dzgxV3pvTURPVG1NRG9wZzBKYmRyMndUcVlTRHZKckpGOUp4UWkyd0lXQlFxTXpBSUtWQ3lpSmcweF9aUGRkOXVWem84Wm9jQlBNWVhyZw?oc=5",
-      "source": "NewsNation",
-      "published_utc": "2026-11-14T11:54:13+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Oil tanker hits naval mine, catches fire in Strait of Hormuz - NewsNation",
-      "title_id": "Oil tanker hits naval mine, catches fire in Strait of Hormuz - NewsNation",
-      "translation_status": "unavailable"
+      "title_id": "Dua Kapal Tanker Minyak Meledak dan Terbakar di Selatan Selat Hormuz - Saba Agency",
+      "translation_status": "translated"
     },
     {
       "title": "IRGC Claims 2 More Tankers Hit Mines in Hormuz on November 14 - https://houseofsaud.com/",
@@ -98,41 +208,19 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "IRGC Claims 2 More Tankers Hit Mines in Hormuz on November 14 - https://houseofsaud.com/",
-      "title_id": "IRGC Claims 2 More Tankers Hit Mines in Hormuz on November 14 - https://houseofsaud.com/",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "2 tankers caught fire after hitting naval mine in Hormuz, Iranian navy says - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGk1cWtKWlVoQjFBbGdTdDNUaDYwS1pBQVhJRW5paGpMSGdCSW51di0yNk5rdjgtMGRPZkx4WU1tTEI4bVFWX1lMa2hNdkZnemFXOWJmN19SYzFiaGQwaVBERnlLdHAtb28wS2dFZ1VVZzFURlJmeEdyYmI3U3BqUTdfenYyeTZ2SW9MRm5tVldSSVRkdElqdlhpSTVfU3B2UUZoQ0plRGVXQ0JTc0lYWGV4R2lrczJIal9Z?oc=5",
-      "source": "Anadolu Ajansı",
-      "published_utc": "2026-11-14T11:50:36+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "2 tankers caught fire after hitting naval mine in Hormuz, Iranian navy says - Anadolu Ajansı",
-      "title_id": "2 tankers caught fire after hitting naval mine in Hormuz, Iranian navy says - Anadolu Ajansı",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz - The National",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXFoNFFYdTBqTjZjZ3pBRTk4bm9QWkRnRUstbndsQV8wd1dhX281Y1hhblZCNjdJT2dZWGZXZWZBWGZTWDBZNXg0bVc1a1hGbjNSWHFNb2FveFY3VjhXRy1ZRU1CVWFUa3B4aGtNdjVwZU5WTmR2VkhHNmJHYjZ1VGg5dXpYWG5JWmVuSExGQ3MwLUE?oc=5",
-      "source": "The National",
-      "published_utc": "2026-11-14T11:49:58+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz - The National",
-      "title_id": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz - The National",
-      "translation_status": "unavailable"
+      "title_id": "IRGC Mengklaim 2 Kapal Tanker Lagi Menabrak Ranjau di Hormuz pada 14 November - https://houseofsaud.com/",
+      "translation_status": "translated"
     },
     {
       "title": "Iran says two oil tankers struck mines in Hormuz - Muslim Network TV",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWG5XZmd5a2I0ZUtrUFgtbW1QanBpaVlEbFRGeHo5ZzJLaEdSZjJDZkRacV91ZzhRb3ZYSUE3ejd1RGJlbHRiODg4ZnRhejlSVE1aWGY2dVJKS2hmaVZoOFFVQ1YyblNhTEhoQllzbEFvMDBWMnBQV055MzJiOXk3RFR6YVo?oc=5",
       "source": "Muslim Network TV",
-      "published_utc": "2026-11-14T11:37:30+00:00",
+      "published_utc": "2026-11-14T11:47:14+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran says two oil tankers struck mines in Hormuz - Muslim Network TV",
-      "title_id": "Iran says two oil tankers struck mines in Hormuz - Muslim Network TV",
-      "translation_status": "unavailable"
+      "title_id": "Iran mengatakan dua kapal tanker minyak menabrak ranjau di Hormuz - Muslim Network TV",
+      "translation_status": "translated"
     },
     {
       "title": "Oil tanker on fire after hitting mine in Strait of Hormuz - The Independent",
@@ -142,8 +230,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Oil tanker on fire after hitting mine in Strait of Hormuz - The Independent",
-      "title_id": "Oil tanker on fire after hitting mine in Strait of Hormuz - The Independent",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker minyak terbakar setelah menabrak tambang di Selat Hormuz - The Independent",
+      "translation_status": "translated"
     },
     {
       "title": "Another Tanker Catches Fire After Hitting Mine in Strait of Hormuz - - WANA News Agency",
@@ -153,8 +241,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Another Tanker Catches Fire After Hitting Mine in Strait of Hormuz - - WANA News Agency",
-      "title_id": "Another Tanker Catches Fire After Hitting Mine in Strait of Hormuz - - WANA News Agency",
-      "translation_status": "unavailable"
+      "title_id": "Kapal Tanker Lain Terbakar Setelah Menabrak Ranjau di Selat Hormuz - - Kantor Berita WANA",
+      "translation_status": "translated"
     },
     {
       "title": "Yet another violating oil tanker catches fire in east Hormuz - Mehr News Agency",
@@ -164,30 +252,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Yet another violating oil tanker catches fire in east Hormuz - Mehr News Agency",
-      "title_id": "Yet another violating oil tanker catches fire in east Hormuz - Mehr News Agency",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0g0Wi1Qa24tZUxSeUcxOW1wWTdua09NUHRHakFIUFQ2cTZfWnJlVUpXZ25sYTg5MjFZeUhrSEFXVGkzTElXUGdDbG9XLXZheGI1MjRJQ1NuLTNmMEo0cmpWNTllYUxaX2xENE8wVXRVTGdoMENMZVdKX0FDeks5NFRqWEcxWGo5QW5oWkRLU2E1Ujc4cWpEZXNhSVpQWFB5MmxMMldPc1k4dlk?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published_utc": "2026-11-14T10:43:56+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
-      "title_id": "Iran’s Navy Says Oil Tanker on Fire After Hitting Mine in Hormuz - ASHARQ AL-AWSAT English",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VpVFdzS196OTBVNVVQUDJGbXo4cmJidWtyM2ZOMkQyOElsVEVtVEk3SV8xV1NqbDRqOG5hV1pBaXh2TzBUcDdqNlhmMHFnY1ljMUhFM04zQTF6M09oWU13VlViV1Y3Y0xWUVJmQnFuWUFBRHFIY3R6ZGJ1QS1ZYzNiWHNhU0VBd2VVV2FNcEJSc1NkTS02M1ZhVVZTZlhMeXZRTlN5VGZLUUhKa2RyZ1BDdUNlOVBxanpwNjNYUdIBxAFBVV95cUxPbFNtOHBUa1dQOS1DQ1B5Vkdjd1hub3ZwRk93emk0b2ROQmNNV1R2VTNELVNjamFSOEZ1RzNOVW9PU2w2RkJSY1Bld3ZaWFdpdDkxblJNT3l2OHpWNlNxTXJwb1hVZjNERXJ6dllNdlhKNGxWcTJSR2N5NVlNUm5hZDZwTEJRMDY2RXVBT0N3VUI5SG9ha005VnlPc0FIUEFVRWY1SkhyUmwyWUlsaHNfNXI0UjloQlNBQ1RRbi1Yb25tZnha?oc=5",
-      "source": "Al Arabiya English",
-      "published_utc": "2026-11-14T10:42:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz - Al Arabiya English",
-      "title_id": "Iran’s navy says oil tanker on fire after hitting mine in Hormuz - Al Arabiya English",
-      "translation_status": "unavailable"
+      "title_id": "Namun kapal tanker minyak lainnya yang melanggar terbakar di Hormuz timur - Kantor Berita Mehr",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM denies Iran's radar strike claim in Bahrain | Tap to know more | Inshorts - Inshorts",
@@ -197,8 +263,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM denies Iran's radar strike claim in Bahrain | Tap to know more | Inshorts - Inshorts",
-      "title_id": "CENTCOM denies Iran's radar strike claim in Bahrain | Tap to know more | Inshorts - Inshorts",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM membantah klaim serangan radar Iran di Bahrain | Ketuk untuk mengetahui lebih lanjut | Celana dalam - Celana dalam",
+      "translation_status": "translated"
     },
     {
       "title": "Another oil tanker hits mine and catches fire in Strait of Hormuz - Apa.az",
@@ -208,19 +274,19 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Another oil tanker hits mine and catches fire in Strait of Hormuz - Apa.az",
-      "title_id": "Another oil tanker hits mine and catches fire in Strait of Hormuz - Apa.az",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker minyak lainnya menabrak tambang dan terbakar di Selat Hormuz - Apa.az",
+      "translation_status": "translated"
     },
     {
       "title": "Iran Says Tankers Hit Sea Mines in Hormuz: What the Law Says - Diplomacy and Law",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BNVdGU2lTWG9WOXNKR016MlRhUnBaY2xWLXRKeWdGQkJQRHhiUzFwSXBmTVJMRTEtQVRpNkRsU2NsOW1PNUh0LUdGMkYwVTZOTXZQR2Q0MUJId0JoWnRaNDdEZkJYV3lzREFz?oc=5",
       "source": "Diplomacy and Law",
-      "published_utc": "2026-11-14T10:35:38+00:00",
+      "published_utc": "2026-11-14T10:38:39+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran Says Tankers Hit Sea Mines in Hormuz: What the Law Says - Diplomacy and Law",
-      "title_id": "Iran Says Tankers Hit Sea Mines in Hormuz: What the Law Says - Diplomacy and Law",
-      "translation_status": "unavailable"
+      "title_id": "Iran Mengatakan Tanker Menghantam Ranjau Laut di Hormuz: Apa Kata Hukum - Diplomasi dan Hukum",
+      "translation_status": "translated"
     },
     {
       "title": "Oil tanker on fire in Hormuz after hitting mine, Iran’s navy says - The Times of Israel",
@@ -230,8 +296,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Oil tanker on fire in Hormuz after hitting mine, Iran’s navy says - The Times of Israel",
-      "title_id": "Oil tanker on fire in Hormuz after hitting mine, Iran’s navy says - The Times of Israel",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker minyak terbakar di Hormuz setelah menabrak tambang, kata angkatan laut Iran - The Times of Israel",
+      "translation_status": "translated"
     },
     {
       "title": "Fire breaks out on Oil tanker east of Strait of Hormuz - وكالة سبأ",
@@ -241,19 +307,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Fire breaks out on Oil tanker east of Strait of Hormuz - وكالة سبأ",
-      "title_id": "Fire breaks out on Oil tanker east of Strait of Hormuz - وكالة سبأ",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Latest news on the war in the Middle East. Oil tanker ablaze in the Strait of Hormuz. Trump to discuss Iran with Xi and Putin - Il Sole 24 ORE",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3h3SWsyREUzelNiTURjM3U5cXRmOXNuYjd4ZkthU05kMUZ2Ymt5YktkX2FVYlNmYmJJWmVYWk8yQWJpTzFFV2taRERRSy10Y1VocWlmNG9vcElfWkdhWUxqSDFobGVRYTFYRUkwLTNNUXl3Tm5BQlRHS0tLSXdxNGp6V0JOeW0welEyXzd0ZWkydUIzMVE2SHVnSzZidEdXd245WVRrY3NVanA3Qzgyc2piQk9ycDVDWXVxV2hYWVlfYUREOHlGQkJKV3FOLUR6SXc?oc=5",
-      "source": "Il Sole 24 ORE",
-      "published_utc": "2026-11-14T09:53:24+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Latest news on the war in the Middle East. Oil tanker ablaze in the Strait of Hormuz. Trump to discuss Iran with Xi and Putin - Il Sole 24 ORE",
-      "title_id": "Latest news on the war in the Middle East. Oil tanker ablaze in the Strait of Hormuz. Trump to discuss Iran with Xi and Putin - Il Sole 24 ORE",
-      "translation_status": "unavailable"
+      "title_id": "Kebakaran terjadi di kapal tanker minyak di sebelah timur Selat Hormuz - Saba Agency",
+      "translation_status": "translated"
     },
     {
       "title": "Tanker catches fire in Strait of Hormuz after reported mine strike - AzerNews",
@@ -263,8 +318,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Tanker catches fire in Strait of Hormuz after reported mine strike - AzerNews",
-      "title_id": "Tanker catches fire in Strait of Hormuz after reported mine strike - AzerNews",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker terbakar di Selat Hormuz setelah dilaporkan terkena ranjau - AzerNews",
+      "translation_status": "translated"
     },
     {
       "title": "Iran’s navy warns tankers against entering restricted Hormuz zone after vessel hits naval mine, catches fire - ANI News",
@@ -274,8 +329,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran’s navy warns tankers against entering restricted Hormuz zone after vessel hits naval mine, catches fire - ANI News",
-      "title_id": "Iran’s navy warns tankers against entering restricted Hormuz zone after vessel hits naval mine, catches fire - ANI News",
-      "translation_status": "unavailable"
+      "title_id": "Angkatan Laut Iran memperingatkan kapal tanker agar tidak memasuki zona terlarang Hormuz setelah kapal menabrak ranjau laut dan terbakar - ANI News",
+      "translation_status": "translated"
     },
     {
       "title": "Iran Reports Three Oil Tankers Hit Mines in Hormuz - Yeni Safak English",
@@ -285,19 +340,19 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran Reports Three Oil Tankers Hit Mines in Hormuz - Yeni Safak English",
-      "title_id": "Iran Reports Three Oil Tankers Hit Mines in Hormuz - Yeni Safak English",
-      "translation_status": "unavailable"
+      "title_id": "Iran Laporkan Tiga Kapal Tanker Minyak Menabrak Ranjau di Hormuz - Yeni Safak Bahasa Indonesia",
+      "translation_status": "translated"
     },
     {
-      "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg",
+      "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONXlnM3BjMUpwcTRWWVRmMmlnYkpfczB1bVFkRURBcnE4UXA3eGhtVXZWajk3N1NGbm95VWIyNlREN1hWLXo0Y3ZGeGxWcmtXN2drOTBVWGN2R1lZS3k1YkJfZWlOSHFZMXpWX2w1OHFMRGliOVJTR1dMRGRRV0hPbkF0OUFURENSWmRCX0ZfOFh3Z0s2alFjUlFyWXJ4R21Ib0h3UV9ia2xRbUxZM1h5WA?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_utc": "2026-11-14T08:30:00+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg",
-      "title_id": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg",
-      "translation_status": "unavailable"
+      "title_original": "The Oil Market Is Brimming With Crude Despite Tanker Attacks - Bloomberg.com",
+      "title_id": "Pasar Minyak Penuh Dengan Minyak Mentah Meskipun Ada Serangan Kapal Tanker - Bloomberg.com",
+      "translation_status": "translated"
     },
     {
       "title": "Iran's IRGC says 2 \"violating\" tankers caught fire after hitting mines in Hormuz Strait - 巴士的報",
@@ -307,19 +362,30 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran's IRGC says 2 \"violating\" tankers caught fire after hitting mines in Hormuz Strait - 巴士的報",
-      "title_id": "Iran's IRGC says 2 \"violating\" tankers caught fire after hitting mines in Hormuz Strait - 巴士的報",
-      "translation_status": "unavailable"
+      "title_id": "IRGC Iran mengatakan 2 kapal tanker yang \"melanggar\" terbakar setelah menabrak ranjau di Selat Hormuz - Laporan bus",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Alafouzos delivers answer to traders and politicians plotting to send sanctioned tankers into Hormuz shuttles - TradeWinds News",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVWRWU0Y1RlViUmZDNU8wM3NlOUlESUxBaExWVTFVNVJBeUZLRFFudTluVWxlRUVHWWYtVmgwS2ptdnpvZ3hBclJVcEdzbTVFa0lzWkY4ZWFSMHp5Z1RHdjNfTWtSMkM0em1uclE0R1VKNjR4VG5zMlNBRnlNS2M1S291ZHJKdjhBcm1SYktTd0hhMHN4aWdfVXpPNWRxaDN2Z0hQTEthWWFQeVpzSThQRDVQWkc3TVJfWVBaY0pSV1FKMm1zM1FLSzZrTkUyOE1zS3J2YXNmSE9MYXdSdVFxN000LXVHdnBiTk1ycUpSSzR6QQ?oc=5",
+      "source": "TradeWinds News",
+      "published_utc": "2026-11-14T08:19:20+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Alafouzos delivers answer to traders and politicians plotting to send sanctioned tankers into Hormuz shuttles - TradeWinds News",
+      "title_id": "Alafouzos memberikan jawaban kepada para pedagang dan politisi yang berencana mengirim kapal tanker yang terkena sanksi ke angkutan Hormuz - TradeWinds News",
+      "translation_status": "translated"
     },
     {
       "title": "3 incidents of oil tankers hit by mines in Hormuz - Gulf Today",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmxzWFozTVlqaDVLS1lldHlQMERYU2lLajdoNVVoX2NXYXl4QkU1WldGQXhHOHdDY2V2b0FsMXJtU2F1MHRoZ0xUaTB2R1FDYk1ianhuRWNBcGNHMDY3Yk9YSDdpME1GUngzT1RMT1RyQ0x1SWcyS2lCZUVvaFVHQlI5UzBMWUdpX2JBc3dfMWlxcDE0?oc=5",
       "source": "Gulf Today",
-      "published_utc": "2026-11-14T08:15:29+00:00",
+      "published_utc": "2026-11-14T08:15:58+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "3 incidents of oil tankers hit by mines in Hormuz - Gulf Today",
-      "title_id": "3 incidents of oil tankers hit by mines in Hormuz - Gulf Today",
-      "translation_status": "unavailable"
+      "title_id": "3 insiden kapal tanker minyak terkena ranjau di Hormuz - Gulf Today",
+      "translation_status": "translated"
     },
     {
       "title": "Shafaq News..Iranian Navy: Oil tanker hits mine near Hormuz - شفق نيوز",
@@ -329,8 +395,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Shafaq News..Iranian Navy: Oil tanker hits mine near Hormuz - شفق نيوز",
-      "title_id": "Shafaq News..Iranian Navy: Oil tanker hits mine near Hormuz - شفق نيوز",
-      "translation_status": "unavailable"
+      "title_id": "Shafaq News..Angkatan Laut Iran: Kapal tanker minyak menabrak ranjau di dekat Hormuz - Shafaq News",
+      "translation_status": "translated"
     },
     {
       "title": "Iran reports fires on two tankers in Strait of Hormuz — Der Spiegel - UA.NEWS",
@@ -340,8 +406,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran reports fires on two tankers in Strait of Hormuz — Der Spiegel - UA.NEWS",
-      "title_id": "Iran reports fires on two tankers in Strait of Hormuz — Der Spiegel - UA.NEWS",
-      "translation_status": "unavailable"
+      "title_id": "Iran melaporkan kebakaran terhadap dua kapal tanker di Selat Hormuz — Der Spiegel - UA.NEWS",
+      "translation_status": "translated"
     },
     {
       "title": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13 - https://houseofsaud.com/",
@@ -351,8 +417,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13 - https://houseofsaud.com/",
-      "title_id": "Iran Reports 3 Oil Tankers Hit Mines in Hormuz on November 13 - https://houseofsaud.com/",
-      "translation_status": "unavailable"
+      "title_id": "Iran Melaporkan 3 Kapal Tanker Minyak Menabrak Ranjau di Hormuz pada 13 November - https://houseofsaud.com/",
+      "translation_status": "translated"
     },
     {
       "title": "Iran says three tankers hit naval mines in Strait of Hormuz - The New Region",
@@ -362,8 +428,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran says three tankers hit naval mines in Strait of Hormuz - The New Region",
-      "title_id": "Iran says three tankers hit naval mines in Strait of Hormuz - The New Region",
-      "translation_status": "unavailable"
+      "title_id": "Iran mengatakan tiga kapal tanker menabrak ranjau laut di Selat Hormuz - Wilayah Baru",
+      "translation_status": "translated"
     },
     {
       "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran - Al Jazeera",
@@ -373,8 +439,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran - Al Jazeera",
-      "title_id": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran - Al Jazeera",
-      "translation_status": "unavailable"
+      "title_id": "PBB mengatakan 25 pelaut tewas di sekitar Hormuz sejak perang AS-Israel melawan Iran - Al Jazeera",
+      "translation_status": "translated"
     },
     {
       "title": "Iranian Navy Reports Oil Tanker Struck Sea Mine East of Strait of Hormuz - ISNA News Agency",
@@ -384,19 +450,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iranian Navy Reports Oil Tanker Struck Sea Mine East of Strait of Hormuz - ISNA News Agency",
-      "title_id": "Iranian Navy Reports Oil Tanker Struck Sea Mine East of Strait of Hormuz - ISNA News Agency",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Tanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - تسنیم",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDVVOG9ubHVudUZMakpGWUlxT1o4a3h2Vmtaa1N5Z0c1Sm1xb0JNZXcxT3NpUjk0VF9QZFpaUWJGS0hYbjVWbVdaU1owNS1XbWhSbVJ3cXVQMzA1OU83LUpJRVVpcGFFUWZaLWw5b0FocUpJNkpMbVZfRTFFZUhQblBibmtySE9wUE05Y0RROUtyeW1nWWNobGJXLXJlVFBuaEZFRTJfWE5xbllfXzFHbE1FYUhOUdIBuwFBVV95cUxNRkVHZHAwYXotRjJBQkNRUU9CTDhKM0VHWTNMeHM4RTVvT3JxVnJRUGR4ZGRzRUdGVnRrMjRlM2lpVkdkUE1TQURFX2ktR2xXV1VRNGk1RzNOc0hRUVRwZEhxZTJQaE05cG5Ib0FoQnFoaGwzN1NveXhqbnFDWG5mSV8wZGJmVmVzZTI1bldwMVYxZUdQYjM0Rmd0VHBjTXJ1aXpoM1ZsN2FsRms2NGJyR1l0M18wNFphZGQ0?oc=5",
-      "source": "تسنیم",
-      "published_utc": "2026-11-14T07:26:40+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Tanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - تسنیم",
-      "title_id": "Tanker Catches Fire after Hitting Sea Mine in Strait of Hormuz - تسنیم",
-      "translation_status": "unavailable"
+      "title_id": "Angkatan Laut Iran Laporkan Kapal Tanker Minyak Menabrak Ranjau Laut di Timur Selat Hormuz - Kantor Berita ISNA",
+      "translation_status": "translated"
     },
     {
       "title": "Iranian Mines Horror; Another Tanker Turns Into Fireball In Hormuz; 25 Seafarers Killed Since Feb - The Times of India",
@@ -406,8 +461,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iranian Mines Horror; Another Tanker Turns Into Fireball In Hormuz; 25 Seafarers Killed Since Feb - The Times of India",
-      "title_id": "Iranian Mines Horror; Another Tanker Turns Into Fireball In Hormuz; 25 Seafarers Killed Since Feb - The Times of India",
-      "translation_status": "unavailable"
+      "title_id": "Horor Tambang Iran; Tanker Lain Berubah Menjadi Bola Api Di Hormuz; 25 Pelaut Tewas Sejak Februari - The Times of India",
+      "translation_status": "translated"
     },
     {
       "title": "Iranian Army Reports Oil Tanker Fire East of Strait of Hormuz - - WANA News Agency",
@@ -417,8 +472,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iranian Army Reports Oil Tanker Fire East of Strait of Hormuz - - WANA News Agency",
-      "title_id": "Iranian Army Reports Oil Tanker Fire East of Strait of Hormuz - - WANA News Agency",
-      "translation_status": "unavailable"
+      "title_id": "Tentara Iran Laporkan Kebakaran Tanker Minyak di Timur Selat Hormuz - - Kantor Berita WANA",
+      "translation_status": "translated"
     },
     {
       "title": "Iran’s Navy says tanker caught fire after hitting mine in prohibited Strait of Hormuz zone - ABNA English",
@@ -428,8 +483,19 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran’s Navy says tanker caught fire after hitting mine in prohibited Strait of Hormuz zone - ABNA English",
-      "title_id": "Iran’s Navy says tanker caught fire after hitting mine in prohibited Strait of Hormuz zone - ABNA English",
-      "translation_status": "unavailable"
+      "title_id": "Angkatan Laut Iran mengatakan kapal tanker terbakar setelah menabrak ranjau di zona terlarang Selat Hormuz - ABNA English",
+      "translation_status": "translated"
+    },
+    {
+      "title": "An Offending Oil Tanker Involved in an Incident East of the Strait of Hormuz - خبرگزاری دفاع مقدس",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE1LbWkyUDNJZExyVGRtSnBvQXBDWWxGNUZxUXZJejZfZlBzRDE2UlhsaHQzaEFrbl9lVTljLWtPSDBobFNTbHNWU2xUVlR6Sjc2OUlCRVFaWWl6RV9pbmo0RkxJbS1ZUnA3Tm84TVAxYkVsRDZ1N3NXRU5VWmp4NzdpSWtYTGFHV2N6RVp2VEI5NWs4QVVXSmVNaURzMVpoeUtOYzlXOGZ5OGpabDM5cA?oc=5",
+      "source": "خبرگزاری دفاع مقدس",
+      "published_utc": "2026-11-14T07:07:01+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "An Offending Oil Tanker Involved in an Incident East of the Strait of Hormuz - خبرگزاری دفاع مقدس",
+      "title_id": "Kapal Tanker Minyak yang Tersinggung Terlibat dalam Insiden di Timur Selat Hormuz - Kantor Berita Pertahanan Suci",
+      "translation_status": "translated"
     },
     {
       "title": "Iran says three tankers hit by mines in Hormuz catch fire - Middle East Eye",
@@ -439,8 +505,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran says three tankers hit by mines in Hormuz catch fire - Middle East Eye",
-      "title_id": "Iran says three tankers hit by mines in Hormuz catch fire - Middle East Eye",
-      "translation_status": "unavailable"
+      "title_id": "Iran Sebut Tiga Kapal Tanker yang Terkena Ranjau di Hormuz Terbakar - Middle East Eye",
+      "translation_status": "translated"
     },
     {
       "title": "Tanker catches fire after hitting naval mine in Strait of Hormuz - TodayPress.tv",
@@ -450,8 +516,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Tanker catches fire after hitting naval mine in Strait of Hormuz - TodayPress.tv",
-      "title_id": "Tanker catches fire after hitting naval mine in Strait of Hormuz - TodayPress.tv",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker terbakar setelah menabrak ranjau laut di Selat Hormuz - TodayPress.tv",
+      "translation_status": "translated"
     },
     {
       "title": "Iranian Army says oil tanker strikes sea mine in Strait of Hormuz - Trend News Agency",
@@ -461,19 +527,19 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iranian Army says oil tanker strikes sea mine in Strait of Hormuz - Trend News Agency",
-      "title_id": "Iranian Army says oil tanker strikes sea mine in Strait of Hormuz - Trend News Agency",
-      "translation_status": "unavailable"
+      "title_id": "Tentara Iran mengatakan kapal tanker minyak menyerang ranjau laut di Selat Hormuz - Trend News Agency",
+      "translation_status": "translated"
     },
     {
       "title": "IRGC says two oil tankers explode after striking mines in Strait of Hormuz - Rudaw",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tSjl4QjZza3RGdnpLblNYRmVGR0ptRUp0TmVobWdaeWtHWTBxWlB1SmxXN3hFd2U1aGdIR01nZ3MtMnZWQndfLUxOU2FEeWY4eEFBMUdvd0pGWWdLMkRsWDZMbw?oc=5",
       "source": "Rudaw",
-      "published_utc": "2026-11-14T06:04:20+00:00",
+      "published_utc": "2026-11-14T06:03:06+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "IRGC says two oil tankers explode after striking mines in Strait of Hormuz - Rudaw",
-      "title_id": "IRGC says two oil tankers explode after striking mines in Strait of Hormuz - Rudaw",
-      "translation_status": "unavailable"
+      "title_id": "IRGC mengatakan dua kapal tanker minyak meledak setelah menabrak ranjau di Selat Hormuz - Rudaw",
+      "translation_status": "translated"
     },
     {
       "title": "Oil tanker catches fire after hitting sea mine in east Hormuz - Mehr News Agency",
@@ -483,8 +549,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Oil tanker catches fire after hitting sea mine in east Hormuz - Mehr News Agency",
-      "title_id": "Oil tanker catches fire after hitting sea mine in east Hormuz - Mehr News Agency",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker minyak terbakar setelah menabrak ranjau laut di Hormuz timur - Kantor Berita Mehr",
+      "translation_status": "translated"
     },
     {
       "title": "UKMTO says seven Hormuz tanker attacks recorded in a week - Middle East Eye",
@@ -494,19 +560,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "UKMTO says seven Hormuz tanker attacks recorded in a week - Middle East Eye",
-      "title_id": "UKMTO says seven Hormuz tanker attacks recorded in a week - Middle East Eye",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran: Another oil tanker hit sea mine in Hormuz strait - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVlwRGxOMHdaYU5sc3U3eXNXRkVxRHlVNjBfdTk4XzBlMHJSVFRsY3VyWHRoUEJsQ2Y4NTNpdE1GT3lFU1NsZ2Z2eDNvSkwzTG15SkotTkpZQi1HLW5aX0Vyci1pYmhhX0VyZmlXc1pHUWo0eVNxcV95VkZkaUJsc05ZdDVuNGVNeldrZlZkNkxhR0htb1B2OTJhaTRINjZ0?oc=5",
-      "source": "Breakingthenews.net",
-      "published_utc": "2026-11-14T05:20:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran: Another oil tanker hit sea mine in Hormuz strait - Breakingthenews.net",
-      "title_id": "Iran: Another oil tanker hit sea mine in Hormuz strait - Breakingthenews.net",
-      "translation_status": "unavailable"
+      "title_id": "UKMTO Sebut Tujuh Serangan Kapal Tanker Hormuz Tercatat dalam Sepekan - Middle East Eye",
+      "translation_status": "translated"
     },
     {
       "title": "Iran reports three incidents of oil tankers hit by mines in Hormuz - CNA",
@@ -516,19 +571,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran reports three incidents of oil tankers hit by mines in Hormuz - CNA",
-      "title_id": "Iran reports three incidents of oil tankers hit by mines in Hormuz - CNA",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran Guards say two oil tankers hit by mines in Hormuz - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3gxTEpMbUFnM2dsQS1DTGR0WWthOEVSd2lGZURVVUh1ZkI5OVVCYm85OFpPOGZ3S1lMWUlnSTc4NFdIT0RTYmo3NmxyT3VvRncxUmhGSk5KVTY4RlVwRHpDdUk0ZHh6N1Z4b19MeGJ0YmJoYXprYlVKZm5tSUFjc19pbC1XUXcydUM3QlRiYTdubEhOUk50YmlKb2tDbG_SAbIBQVVfeXFMUHRPaFZ3bzdTdEwxUV9lSWxmbjFUUDFQeUF6UXF2VGs4RnRiV2NhTG02SWdLc3QyLXBobWtrRWt0bEY2TVJRbG1ubzB3NTBfeFd0MER0NHNkSFlTNFN1dVY0ekxCRHV3MlhIV1YzSkIzZ3hmVFdjektRazRicGRUM1lkQW5VWW5aMHhuTWNuR3NwRWtITGluVHN6QzRRbzdQMzVjM20tNEZoYjNEakRSR3N4UQ?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-14T04:11:43+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran Guards say two oil tankers hit by mines in Hormuz - Gulf News",
-      "title_id": "Iran Guards say two oil tankers hit by mines in Hormuz - Gulf News",
-      "translation_status": "unavailable"
+      "title_id": "Iran melaporkan tiga insiden kapal tanker minyak terkena ranjau di Hormuz - CNA",
+      "translation_status": "translated"
     },
     {
       "title": "Iraq resumed oil exports via Syria by tanker trucks after disruptions in the Strait of Hormuz – Reuters - Українські Національні Новини (УНН)",
@@ -538,8 +582,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iraq resumed oil exports via Syria by tanker trucks after disruptions in the Strait of Hormuz – Reuters - Українські Національні Новини (УНН)",
-      "title_id": "Iraq resumed oil exports via Syria by tanker trucks after disruptions in the Strait of Hormuz – Reuters - Українські Національні Новини (УНН)",
-      "translation_status": "unavailable"
+      "title_id": "Irak melanjutkan ekspor minyak melalui Suriah dengan truk tanker setelah gangguan di Selat Hormuz – Reuters - Berita Nasional Ukraina (UNN)",
+      "translation_status": "translated"
     },
     {
       "title": "US-Iran war news: Iran claims strike on US military radar in Bahrain; CENTCOM says drones intercepted, Trump extends shipping law waiver by 90 days - Top developments - ET Now",
@@ -549,8 +593,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US-Iran war news: Iran claims strike on US military radar in Bahrain; CENTCOM says drones intercepted, Trump extends shipping law waiver by 90 days - Top developments - ET Now",
-      "title_id": "US-Iran war news: Iran claims strike on US military radar in Bahrain; CENTCOM says drones intercepted, Trump extends shipping law waiver by 90 days - Top developments - ET Now",
-      "translation_status": "unavailable"
+      "title_id": "Berita perang AS-Iran: Iran mengklaim serangan terhadap radar militer AS di Bahrain; CENTCOM mengatakan drone dicegat, Trump memperpanjang keringanan hukum pelayaran selama 90 hari - Perkembangan teratas - ET Now",
+      "translation_status": "translated"
     },
     {
       "title": "US CENTCOM Denies Iran's Radar Attack Claim, Says Two Drones Shot Down Over Bahrain - Lokmat Times",
@@ -560,8 +604,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US CENTCOM Denies Iran's Radar Attack Claim, Says Two Drones Shot Down Over Bahrain - Lokmat Times",
-      "title_id": "US CENTCOM Denies Iran's Radar Attack Claim, Says Two Drones Shot Down Over Bahrain - Lokmat Times",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM AS Bantah Klaim Serangan Radar Iran, Mengatakan Dua Drone Ditembak Jatuh di Bahrain - Lokmat Times",
+      "translation_status": "translated"
     },
     {
       "title": "IRGC Says LNG Tanker Hit Mine, Exploded in Strait of Hormuz: 9 outlets compared - NewsCord",
@@ -571,8 +615,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "IRGC Says LNG Tanker Hit Mine, Exploded in Strait of Hormuz: 9 outlets compared - NewsCord",
-      "title_id": "IRGC Says LNG Tanker Hit Mine, Exploded in Strait of Hormuz: 9 outlets compared - NewsCord",
-      "translation_status": "unavailable"
+      "title_id": "IRGC Mengatakan Tanker LNG Menabrak Tambang, Meledak di Selat Hormuz: 9 outlet dibandingkan - NewsCord",
+      "translation_status": "translated"
     },
     {
       "title": "US CENTCOM Denies Iranian Claim of Destroying Radar Installation in Bahrain - Asianet Newsable",
@@ -582,8 +626,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US CENTCOM Denies Iranian Claim of Destroying Radar Installation in Bahrain - Asianet Newsable",
-      "title_id": "US CENTCOM Denies Iranian Claim of Destroying Radar Installation in Bahrain - Asianet Newsable",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM AS Bantah Klaim Iran atas Penghancuran Instalasi Radar di Bahrain - Asianet Newsable",
+      "translation_status": "translated"
     },
     {
       "title": "US CENTCOM Denies Iran Attack Damaged US Radar in Bahrain - VOI.ID",
@@ -593,8 +637,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US CENTCOM Denies Iran Attack Damaged US Radar in Bahrain - VOI.ID",
-      "title_id": "US CENTCOM Denies Iran Attack Damaged US Radar in Bahrain - VOI.ID",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM AS Bantah Serangan Iran Merusak Radar AS di Bahrain - VOI.ID",
+      "translation_status": "translated"
     },
     {
       "title": "Shafaq News..IRGC claims two oil tankers hit naval mines in Hormuz - شفق نيوز",
@@ -604,8 +648,19 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Shafaq News..IRGC claims two oil tankers hit naval mines in Hormuz - شفق نيوز",
-      "title_id": "Shafaq News..IRGC claims two oil tankers hit naval mines in Hormuz - شفق نيوز",
-      "translation_status": "unavailable"
+      "title_id": "Shafaq News..IRGC mengklaim dua kapal tanker minyak menabrak ranjau laut di Hormuz - شفق نيوز",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran's IRGC says two tankers hit sea mines in Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVUydG1mRVVtRzVScWR6N19NejF5VXVuUDlqaGxSSHdJN1hmYlBtZHRJMDNWbUJVSUMyRTBRM252dzFjSmtZOHlLYmg4Y2pqLXVrSndiS3dVLWVBa0tESWJtZW05MUprVkpXTE5sQXV0aXJRR1dQQ3FmWHk0SHpoSmQzRUZmRFZCaXdjLURicWxtRk1tSnZ1dEM2UTI1b1RmTzdwRw?oc=5",
+      "source": "Reuters",
+      "published_utc": "2026-11-13T21:14:55+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran's IRGC says two tankers hit sea mines in Hormuz - Reuters",
+      "title_id": "IRGC Iran mengatakan dua kapal tanker menabrak ranjau laut di Hormuz - Reuters",
+      "translation_status": "translated"
     },
     {
       "title": "IRGC: Two Tankers Explode and Catch Fire After Striking Naval Mines - - WANA News Agency",
@@ -615,8 +670,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "IRGC: Two Tankers Explode and Catch Fire After Striking Naval Mines - - WANA News Agency",
-      "title_id": "IRGC: Two Tankers Explode and Catch Fire After Striking Naval Mines - - WANA News Agency",
-      "translation_status": "unavailable"
+      "title_id": "IRGC: Dua Kapal Tanker Meledak dan Terbakar Setelah Menyerang Ranjau Laut - - Kantor Berita WANA",
+      "translation_status": "translated"
     },
     {
       "title": "Iran Shipping Update – November 13, 2026 - United Against Nuclear Iran | UANI",
@@ -626,8 +681,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran Shipping Update – November 13, 2026 - United Against Nuclear Iran | UANI",
-      "title_id": "Iran Shipping Update – November 13, 2026 - United Against Nuclear Iran | UANI",
-      "translation_status": "unavailable"
+      "title_id": "Pembaruan Pengiriman Iran – 13 November 2026 - Bersatu Melawan Nuklir Iran | UANI",
+      "translation_status": "translated"
     },
     {
       "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz - Al Jazeera",
@@ -637,19 +692,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz - Al Jazeera",
-      "title_id": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz - Al Jazeera",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain - WTOP News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1oyTEJaRTVCVVl5ZEZZTFVlR0RkVi1SSWVUeklDdVBuVXlNTEc5NWI5SjdCbUROaW9KQXA1eDNqLWJNNnlpSUFyUlk1MmFMcEg0QXZWR0pNZWVUUjlXbHB4dU94cF9fZ1FYc2JtZ09NYUpMcGpiZ1BPRWM5c2FEdXZoMlQ5NlYyejR6b0o3dTZPRzd4ZmlCbXFZNE0yWEtSN3dQMTA5UlRtdjcwNkRTczJMNzJVZkkzUVhJYi1mbUhpUQ?oc=5",
-      "source": "WTOP News",
-      "published_utc": "2026-11-13T19:30:14+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain - WTOP News",
-      "title_id": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain - WTOP News",
-      "translation_status": "unavailable"
+      "title_id": "IRGC mengatakan kapal tanker terbakar setelah menabrak ranjau di Selat Hormuz - Al Jazeera",
+      "translation_status": "translated"
     },
     {
       "title": "Iran Says It Hit US Radar in Bahrain; CENTCOM Says Drones Downed - JournalArta",
@@ -659,8 +703,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Iran Says It Hit US Radar in Bahrain; CENTCOM Says Drones Downed - JournalArta",
-      "title_id": "Iran Says It Hit US Radar in Bahrain; CENTCOM Says Drones Downed - JournalArta",
-      "translation_status": "unavailable"
+      "title_id": "Iran Mengatakan Mereka Menghantam Radar AS di Bahrain; CENTCOM Mengatakan Drone Jatuh - JournalArta",
+      "translation_status": "translated"
     },
     {
       "title": "LNG tanker hit mine in Strait of Hormuz, Iran's Revolutionary Guards say - Pipeline and Gas Journal",
@@ -670,8 +714,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "LNG tanker hit mine in Strait of Hormuz, Iran's Revolutionary Guards say - Pipeline and Gas Journal",
-      "title_id": "LNG tanker hit mine in Strait of Hormuz, Iran's Revolutionary Guards say - Pipeline and Gas Journal",
-      "translation_status": "unavailable"
+      "title_id": "Kapal tanker LNG menabrak ranjau di Selat Hormuz, kata Garda Revolusi Iran - Jurnal Pipa dan Gas",
+      "translation_status": "translated"
     },
     {
       "title": "us-centcom-iran-naval-blockade-strait-of-hormuz-open-commercial-shipping-2026 Archives - TV ONE USA",
@@ -681,8 +725,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "us-centcom-iran-naval-blockade-strait-of-hormuz-open-commercial-shipping-2026 Archives - TV ONE USA",
-      "title_id": "us-centcom-iran-naval-blockade-strait-of-hormuz-open-commercial-shipping-2026 Archives - TV ONE USA",
-      "translation_status": "unavailable"
+      "title_id": "us-centcom-iran-blokade laut-selat-hormuz-pengiriman-komersial-terbuka-2026 Archives - TV ONE USA",
+      "translation_status": "translated"
     },
     {
       "title": "Iran claims destroying US radar in Bahrain, CENTCOM denies - 巴士的報",
@@ -692,8 +736,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Iran claims destroying US radar in Bahrain, CENTCOM denies - 巴士的報",
-      "title_id": "Iran claims destroying US radar in Bahrain, CENTCOM denies - 巴士的報",
-      "translation_status": "unavailable"
+      "title_id": "Iran mengklaim menghancurkan radar AS di Bahrain, CENTCOM membantah - laporan bus",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’ - The Express Tribune",
@@ -703,8 +747,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’ - The Express Tribune",
-      "title_id": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’ - The Express Tribune",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM menyebut laporan media Israel tentang kemungkinan dimulainya kembali perang Iran sebagai ‘spekulasi murni’ – The Express Tribune",
+      "translation_status": "translated"
     },
     {
       "title": "Gulf Oil Exports Recover as Hormuz Shipping Struggles - gCaptain",
@@ -714,8 +758,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Gulf Oil Exports Recover as Hormuz Shipping Struggles - gCaptain",
-      "title_id": "Gulf Oil Exports Recover as Hormuz Shipping Struggles - gCaptain",
-      "translation_status": "unavailable"
+      "title_id": "Ekspor Minyak Teluk Pulih seiring Perjuangan Pengiriman Hormuz - gCaptain",
+      "translation_status": "translated"
     },
     {
       "title": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack - The Jerusalem Post",
@@ -725,8 +769,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack - The Jerusalem Post",
-      "title_id": "Iran claims strike on US radar in Bahrain retaliation for Sirik telecom attack - The Jerusalem Post",
-      "translation_status": "unavailable"
+      "title_id": "Iran mengklaim serangan terhadap radar AS di Bahrain sebagai pembalasan atas serangan telekomunikasi Sirik - The Jerusalem Post",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down - Middle East Monitor",
@@ -736,8 +780,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down - Middle East Monitor",
-      "title_id": "CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down - Middle East Monitor",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM membantah klaim Iran melakukan serangan terhadap radar AS di Bahrain, mengatakan 2 drone ditembak jatuh - Middle East Monitor",
+      "translation_status": "translated"
     },
     {
       "title": "Israel's Government in Transition: No Plans for Iran Strike but US CENTCOM Urges Prep for Renewed Fight - cbn.com",
@@ -747,8 +791,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Israel's Government in Transition: No Plans for Iran Strike but US CENTCOM Urges Prep for Renewed Fight - cbn.com",
-      "title_id": "Israel's Government in Transition: No Plans for Iran Strike but US CENTCOM Urges Prep for Renewed Fight - cbn.com",
-      "translation_status": "unavailable"
+      "title_id": "Pemerintah Israel dalam Transisi: Tidak Ada Rencana untuk Serangan ke Iran tetapi CENTCOM AS Mendesak Persiapan untuk Pertarungan Baru - cbn.com",
+      "translation_status": "translated"
     },
     {
       "title": "Iran claims attack on US radar system in Bahrain, CENTCOM refutes - DD News",
@@ -758,8 +802,19 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Iran claims attack on US radar system in Bahrain, CENTCOM refutes - DD News",
-      "title_id": "Iran claims attack on US radar system in Bahrain, CENTCOM refutes - DD News",
-      "translation_status": "unavailable"
+      "title_id": "Iran mengklaim serangan terhadap sistem radar AS di Bahrain, bantah CENTCOM - DD News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "U.S. says it in­ter­cepted Iranian drones headed for Bahrain; Tehran claims strike on U.S. radar - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjRTUUd5N0V4XzdWUTdJcHo0b21ZVHlyVjJ4WU1VbW0xTHYzNDR3YkU0RVFmNjVMN2NwQTZVM0k2bnVfV2RUV04zY1A0bkNGYk9nOGFLRXZyVnM0X3FyeGwwTlM5ZmFMNHV0YXpWTGpKc2Z1QTBIZWxMSVJjVUtmQU9Od3ZZR19fNURDMUd3ODVKV1RaMmoyYk0zbmZ1NGxJdnB5ODNael9zNnNwM0hyS2xBZm5henJCaUkxWlM2VVY?oc=5",
+      "source": "Spectrum News",
+      "published_utc": "2026-11-13T14:26:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "U.S. says it in­ter­cepted Iranian drones headed for Bahrain; Tehran claims strike on U.S. radar - Spectrum News",
+      "title_id": "AS mengatakan pihaknya mencegat drone Iran yang menuju Bahrain; Teheran mengklaim serangan terhadap radar AS - Spectrum News",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM denies Iran's radar strike claim, says US shot down two drones headed for Bahrain - Moneycontrol.com",
@@ -769,8 +824,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM denies Iran's radar strike claim, says US shot down two drones headed for Bahrain - Moneycontrol.com",
-      "title_id": "CENTCOM denies Iran's radar strike claim, says US shot down two drones headed for Bahrain - Moneycontrol.com",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM membantah klaim serangan radar Iran, mengatakan AS menembak jatuh dua drone menuju Bahrain - Moneycontrol.com",
+      "translation_status": "translated"
     },
     {
       "title": "Stockpiling for disaster: What does the Pentagon know that it isn’t telling us? - The Hill",
@@ -780,8 +835,8 @@
       "query": "\"Iran\" \"Pentagon\" military",
       "verification": "unverified",
       "title_original": "Stockpiling for disaster: What does the Pentagon know that it isn’t telling us? - The Hill",
-      "title_id": "Stockpiling for disaster: What does the Pentagon know that it isn’t telling us? - The Hill",
-      "translation_status": "unavailable"
+      "title_id": "Menimbun untuk bencana: Apa yang diketahui Pentagon namun tidak diberitahukan kepada kita? - Bukit",
+      "translation_status": "translated"
     },
     {
       "title": "Shafaq News..CENTCOM denies Iran destroyed US radar in Bahrain - شفق نيوز",
@@ -791,8 +846,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Shafaq News..CENTCOM denies Iran destroyed US radar in Bahrain - شفق نيوز",
-      "title_id": "Shafaq News..CENTCOM denies Iran destroyed US radar in Bahrain - شفق نيوز",
-      "translation_status": "unavailable"
+      "title_id": "Shafaq News..CENTCOM bantah Iran menghancurkan radar AS di Bahrain - Shafaq News",
+      "translation_status": "translated"
     },
     {
       "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain - 95.5 WSB",
@@ -802,8 +857,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain - 95.5 WSB",
-      "title_id": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain - 95.5 WSB",
-      "translation_status": "unavailable"
+      "title_id": "Militer AS menjatuhkan 2 drone penyerang Iran saat Iran mengklaim serangan terhadap radar AS di Bahrain - 95.5 WSB",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM denies Iranian claim of radar strike in Bahrain - Operativ Məlumat Mərkəzi",
@@ -813,8 +868,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM denies Iranian claim of radar strike in Bahrain - Operativ Məlumat Mərkəzi",
-      "title_id": "CENTCOM denies Iranian claim of radar strike in Bahrain - Operativ Məlumat Mərkəzi",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM menyangkal klaim Iran atas serangan radar di Bahrain - Pusat Informasi Operasional",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM denies Iran's claim of destroying US radar in Bahrain - Apa.az",
@@ -824,19 +879,19 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM denies Iran's claim of destroying US radar in Bahrain - Apa.az",
-      "title_id": "CENTCOM denies Iran's claim of destroying US radar in Bahrain - Apa.az",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM membantah klaim Iran menghancurkan radar AS di Bahrain - Apa.az",
+      "translation_status": "translated"
     },
     {
-      "title": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXdvbHV6NmJUR3NQSTd0dk93RlNPWTR1anR6c20xQVNWOTM5eDJaU2dDR3NCb3g3RGJYRVBWQ0tWczNiYUJpN2V4M1dDTkNSc1JVVWZOU0J5NDYyenQwM0NLT0pBVmxWaGVpUmtnZlByOUs2dW5hak9YQi02LTBrRHZKT2NlYlFJQ0hjVm93WWpXMkFXUmZOd1doT2xKRzMyTkwwVGFVYmTSAa4BQVVfeXFMTUVoUlBfQ3N1UzZpTEVyaXFGa1oyN19OQnhMLTlTNmYtQmtLSC0zZEpqdkNnNWxNY0JsOUp3Q0lMR3E3dFFMUVFnSGR5U2xtel9uT2RicWYxT3ppWmNxM2k1aGtJVWNpb2NFQWFnQzRITjdQdm1Ma0ZDVzFqZk0zNGdSNEF0NGxSTXVSS200ek9qU1R4TF93TjJobEFBeVBlbXNOOUlZM1g2eFFNbnNR?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "published_utc": "2026-11-13T12:45:00+00:00",
+      "title": "IRGC Says Gas Carrier Hit Mine and Exploded in Eastern Strait of Hormuz - https://houseofsaud.com/",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DYTBSZ2xBRWxRbE0xR0t4dzh1WFNhdzYwb2dncFVDRGRiUDZYYUs0blhtOW81YTVHYS1ZMjh5TWNmbDU1N3dnX0Y1V05tbURoWEloc3V1MXRCbHhIQUR3ZjBDZFo5WXV4VWZseUtiVUJNU3FRR2RaZg?oc=5",
+      "source": "https://houseofsaud.com/",
+      "published_utc": "2026-11-13T11:51:33+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-      "title_id": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
-      "translation_status": "unavailable"
+      "title_original": "IRGC Says Gas Carrier Hit Mine and Exploded in Eastern Strait of Hormuz - https://houseofsaud.com/",
+      "title_id": "IRGC Mengatakan Kapal Pengangkut Gas Menabrak Ranjau dan Meledak di Selat Hormuz Timur - https://houseofsaud.com/",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM Denies Iranian Claim It Struck A US Radar In Bahrain - Radio Free Europe/Radio Liberty",
@@ -846,8 +901,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM Denies Iranian Claim It Struck A US Radar In Bahrain - Radio Free Europe/Radio Liberty",
-      "title_id": "CENTCOM Denies Iranian Claim It Struck A US Radar In Bahrain - Radio Free Europe/Radio Liberty",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM Bantah Klaim Iran Itu Menyambar Radar AS Di Bahrain - Radio Free Europe/Radio Liberty",
+      "translation_status": "translated"
     },
     {
       "title": "Israel's Government in Transition: No Plans for Iran Strike but US CENTCOM Urges Prep for Renewed Fight - CBN.com",
@@ -857,8 +912,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Israel's Government in Transition: No Plans for Iran Strike but US CENTCOM Urges Prep for Renewed Fight - CBN.com",
-      "title_id": "Israel's Government in Transition: No Plans for Iran Strike but US CENTCOM Urges Prep for Renewed Fight - CBN.com",
-      "translation_status": "unavailable"
+      "title_id": "Pemerintah Israel dalam Transisi: Tidak Ada Rencana Serangan ke Iran, tapi CENTCOM AS Mendesak Persiapan untuk Pertarungan Baru - CBN.com",
+      "translation_status": "translated"
     },
     {
       "title": "IAEA raises alarm over Iran's nuclear program as tanker hits mine in Strait of Hormuz - Ynetnews",
@@ -868,8 +923,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "IAEA raises alarm over Iran's nuclear program as tanker hits mine in Strait of Hormuz - Ynetnews",
-      "title_id": "IAEA raises alarm over Iran's nuclear program as tanker hits mine in Strait of Hormuz - Ynetnews",
-      "translation_status": "unavailable"
+      "title_id": "IAEA meningkatkan kekhawatiran atas program nuklir Iran saat kapal tanker menyerang tambang di Selat Hormuz - Ynetnews",
+      "translation_status": "translated"
     },
     {
       "title": "Trump says \"we don't need a deal with Iran,\" as Tehran sticks to its demands - CBS News",
@@ -879,8 +934,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Trump says \"we don't need a deal with Iran,\" as Tehran sticks to its demands - CBS News",
-      "title_id": "Trump says \"we don't need a deal with Iran,\" as Tehran sticks to its demands - CBS News",
-      "translation_status": "unavailable"
+      "title_id": "Trump mengatakan \"kita tidak memerlukan kesepakatan dengan Iran,\" karena Teheran tetap memenuhi tuntutannya - CBS News",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM: New Iran war claims are 'pure speculation' - İlke Haber Ajansı",
@@ -890,8 +945,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM: New Iran war claims are 'pure speculation' - İlke Haber Ajansı",
-      "title_id": "CENTCOM: New Iran war claims are 'pure speculation' - İlke Haber Ajansı",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM: Klaim baru perang Iran adalah 'spekulasi murni' - Kantor Berita İlke",
+      "translation_status": "translated"
     },
     {
       "title": "Report: Centcom denies Israeli reports of possible renewed war on Iran - Middle East Eye",
@@ -901,19 +956,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "Report: Centcom denies Israeli reports of possible renewed war on Iran - Middle East Eye",
-      "title_id": "Report: Centcom denies Israeli reports of possible renewed war on Iran - Middle East Eye",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "IRGC Navy says tanker explodes after hitting a sea mine in Hormuz Strait - Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2dTUWdrVUVvWUlVWFFTS0JDMmpPbUw5SWoxUXZ1MUNySU9kUGdpVGk1UVJRWEg5elhqbXhZQzcxZEpwVHp3elNNR2loVnJLU05XTERYU2RzT0VyOGVDbVBLaGxjSmRVbFhFTXZjWm9Yd0F2ZTNsdng4U1ZPajFpOUJ2bDVZRTh6U1dBQWVvVWh3cW5kX0JJN05yak95M2RVc2tFbXpEaTdRS18zeHVvbTMtVzZoakRJbm1DMmRaRl9sZw?oc=5",
-      "source": "Middle East Eye",
-      "published_utc": "2026-11-13T07:17:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "IRGC Navy says tanker explodes after hitting a sea mine in Hormuz Strait - Middle East Eye",
-      "title_id": "IRGC Navy says tanker explodes after hitting a sea mine in Hormuz Strait - Middle East Eye",
-      "translation_status": "unavailable"
+      "title_id": "Laporan: Centcom membantah laporan Israel tentang kemungkinan perang baru terhadap Iran - Middle East Eye",
+      "translation_status": "translated"
     },
     {
       "title": "Two More Tankers Catch Fire After Striking Sea Mines in Strait of Hormuz - تسنیم",
@@ -923,8 +967,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Two More Tankers Catch Fire After Striking Sea Mines in Strait of Hormuz - تسنیم",
-      "title_id": "Two More Tankers Catch Fire After Striking Sea Mines in Strait of Hormuz - تسنیم",
-      "translation_status": "unavailable"
+      "title_id": "Dua Kapal Tanker Lagi Terbakar Usai Menabrak Ranjau Laut di Selat Hormuz - تسنیم",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’ - Anadolu Ajansı",
@@ -945,30 +989,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US denies warning Israel 'prepare for war resuming' as Iran 'fires at American ships' - The Mirror",
-      "title_id": "US denies warning Israel 'prepare for war resuming' as Iran 'fires at American ships' - The Mirror",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Pyxis Tankers sells product tanker that made it through Hormuz in June - TradeWinds News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3FiaW5QR1V2WURlcFhQM0xIY1I2YzlGTGtHWmF5aTVUZThrY0V2VDRValdlNHV0WEdna1NxLWZ0QkU4MTBpVWNOaHp3ZmtCVjRfdWtvY2NUWnhsMThZZHU0dnNvLWhyb3VUSFo1ZE1TWmczT05ORGEtWTExaEhudDExc0drOE1Pd215OXVEQ1BHMVk1bUNsaVV4UG53aUdfMFZNc3N0azZFOFgzWTByR29xMFpNNmhsRHYxYXp3?oc=5",
-      "source": "TradeWinds News",
-      "published_utc": "2026-11-12T22:40:32+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Pyxis Tankers sells product tanker that made it through Hormuz in June - TradeWinds News",
-      "title_id": "Pyxis Tankers sells product tanker that made it through Hormuz in June - TradeWinds News",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0V0VWxnN1hqSlppYUtiaEF0RlRpRjJ0RFVEdFJVNFBTdC0xWjQ2bzNtQ0N3MGZiR2txY3ktOUl3QVI3ZDZseGg4eXZOeGZVSlVGODluNEJZQjVtZjRqRWY5NzNTMHNJRi00ZDFxQ3JOU094akpodnNnZ0NFVTBranln0gGHAUFVX3lxTE16SXFJdjVORUprdWp5MGhjQW9nbjBGeGNxc2hmNTJXRWoyd19RYzVHZmtEcVpVaFczcEktTEl5ZUt4ZnlrWkVVbkhCbVh2VDRHRkNVa1lBODN3c2RYcnhrWGVhbXJZOG9hejhJd3lwM1lkODZzMUlWRWgyZ0JhTzJNTDd3Tjl4OA?oc=5",
-      "source": "NewsNation",
-      "published_utc": "2026-11-12T22:36:42+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz - NewsNation",
-      "title_id": "Iran says explosions disabled 2 oil tankers in Strait of Hormuz - NewsNation",
-      "translation_status": "unavailable"
+      "title_id": "AS membantah memperingatkan Israel 'bersiap untuk melanjutkan perang' ketika Iran 'menembaki kapal Amerika' - The Mirror",
+      "translation_status": "translated"
     },
     {
       "title": "U.S. Blockade Cost Iran $30B in Oil Revenue So Far: CENTCOM - Defense Mirror",
@@ -979,6 +1001,17 @@
       "verification": "unverified",
       "title_original": "U.S. Blockade Cost Iran $30B in Oil Revenue So Far: CENTCOM - Defense Mirror",
       "title_id": "Blokade AS Sejauh Ini Membebani Pendapatan Minyak Iran $30 Miliar: CENTCOM - Defense Mirror",
+      "translation_status": "translated"
+    },
+    {
+      "title": "NY Crude Extends Gains 2.6% as Tanker Attacks in Strait of Hormuz Revive Supply Fears; Gold Plunges 2.9% - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51NU0yQ05PeXFQUi1hYkRra25VSUlNN2czNFRiRDFxYmpkRlNXclhiRExReC1zeVR0UmxGb3FYQWY2UDFBUGszZV9tQkxlNlg3ZHdtS21iazRJc0h4RHA0anhfbGxBdHJJZHA4cklzYVFuQUZOU1E?oc=5",
+      "source": "BigGo Finance",
+      "published_utc": "2026-11-12T21:25:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "NY Crude Extends Gains 2.6% as Tanker Attacks in Strait of Hormuz Revive Supply Fears; Gold Plunges 2.9% - BigGo Finance",
+      "title_id": "Harga Minyak Mentah NY Perpanjang Kenaikan 2,6% seiring Serangan Kapal Tanker di Selat Hormuz Menghidupkan Kembali Kekhawatiran Pasokan; Emas Anjlok 2,9% - BigGo Finance",
       "translation_status": "translated"
     },
     {
@@ -1004,17 +1037,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "CENTCOM: Israel should prepare for a new campaign against Iran ᐉ News from Fakti.bg - World - Fakti.bg",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTFXUXpWaW5idHJXY3lCa3g1ZWdLQ0FrcEcza2RQM09idWQ1dTd5VzRvbGt5bkJ3aXJRaGsxRG85UWd1Qmswb1I3SGtIS2pEYWN1QnZhS3pwOVl6V1RpYU0td25PcDBxeFRFakgyaXBub3ZGVzZ0NVNYZnBwWkpUUkx2cjZTdlpfZDFNMEJ3UU1IVFNMd2VRdVFJQQ?oc=5",
-      "source": "Fakti.bg",
-      "published_utc": "2026-11-12T20:22:00+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "CENTCOM: Israel should prepare for a new campaign against Iran ᐉ News from Fakti.bg - World - Fakti.bg",
-      "title_id": "CENTCOM: Israel should prepare for a new campaign against Iran ᐉ News from Fakti.bg - World - Fakti.bg",
-      "translation_status": "unavailable"
-    },
-    {
       "title": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5",
       "source": "Reuters",
@@ -1022,8 +1044,8 @@
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters",
-      "title_id": "Oil settles $3 higher on attacks on Saudi energy sites, Strait of Hormuz disruptions - Reuters",
-      "translation_status": "unavailable"
+      "title_id": "Minyak menetap $3 lebih tinggi karena serangan terhadap situs energi Saudi dan gangguan Selat Hormuz - Reuters",
+      "translation_status": "translated"
     },
     {
       "title": "CENTCOM dismisses reports of preparations for renewed Iran war - Latest news from Azerbaijan",
@@ -1033,8 +1055,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "CENTCOM dismisses reports of preparations for renewed Iran war - Latest news from Azerbaijan",
-      "title_id": "CENTCOM dismisses reports of preparations for renewed Iran war - Latest news from Azerbaijan",
-      "translation_status": "unavailable"
+      "title_id": "CENTCOM menolak laporan persiapan perang Iran yang baru - Berita terbaru dari Azerbaijan",
+      "translation_status": "translated"
     },
     {
       "title": "Trump renews calls for $350B military funding package as GOP faces ticking clock - Politico",
@@ -1055,8 +1077,8 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US Tells IDF to Prepare for Renewed Iran War: Report - JFeed",
-      "title_id": "US Tells IDF to Prepare for Renewed Iran War: Report - JFeed",
-      "translation_status": "unavailable"
+      "title_id": "AS Memberitahu IDF untuk Mempersiapkan Perang Iran yang Kembali: Laporan - JFeed",
+      "translation_status": "translated"
     },
     {
       "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping - gCaptain",
@@ -1077,29 +1099,7 @@
       "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
       "title_original": "US CENTCOM warns Israel to 'prepare for Iran war resumption' as Middle East on brink - Daily Express",
-      "title_id": "US CENTCOM warns Israel to 'prepare for Iran war resumption' as Middle East on brink - Daily Express",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran’s IRGC Navy Says Two Oil Tankers Exploded in Strait of Hormuz After Ignoring Warnings: 15 outlets compared - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2RIVTlPbjc1a2hmTlBYZzVWX015V1otQ2FEYzVKMW8wanBwRkZ5dkdudzVaSHA1WFg1bmNEaTZFWEM2MWxCeHloVEN5NG8waFdCTlhFVDV5VVVTZDlYRTJ4RDEtRDlTdjVGcFp2UzloZlA1VlRaSVZjNzZuRk9FR3kyQWxOY2FndUR3VUtHczEwSVhCM3dZZVVjM1htdlZnSFAzcXVmRTBJeWtTS0pDcGxWTjRpcl93aDFvOC03ZDN0a20wSlh0QmIzVU9iTF91OFJ2T181bFRMR3VtUXpicG83STJtR29UQ1E?oc=5",
-      "source": "NewsCord",
-      "published_utc": "2026-11-12T17:36:33+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran’s IRGC Navy Says Two Oil Tankers Exploded in Strait of Hormuz After Ignoring Warnings: 15 outlets compared - NewsCord",
-      "title_id": "Angkatan Laut IRGC Iran Mengatakan Dua Kapal Tanker Minyak Meledak di Selat Hormuz Setelah Mengabaikan Peringatan: dibandingkan dengan 15 outlet - NewsCord",
-      "translation_status": "translated"
-    },
-    {
-      "title": "IRGC Navy Says Two Oil Tankers Exploded in Strait of Hormuz After Ignoring Warnings: how 18 outlets framed it - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUhoUEY0VHlrenRrblhnbEJXZ3RNd3BVeGx3d0ZVODg5ZXQxdF9UYTE0YU9sNlJlRnpSTzhORHpBV0VrRVhfT28zVVdfLV9MS1pJaVE1Y2tIV2laOHRKOXpvU1RXbzRTTmpaMGlBdWk0VjBQYnpUTThiZVhpdU5PZktoeFRTZUxYWWpJVjJUdDNVY1FiLXBoMVF1RHZ5UjFHUWZ1YllNclJpRkNaZFNvcG04bFd2aTlnZHlxa05nNktmRkQwV2p1N3VqN0oxZV9rY0l1TGV3?oc=5",
-      "source": "NewsCord",
-      "published_utc": "2026-11-12T17:34:34+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "IRGC Navy Says Two Oil Tankers Exploded in Strait of Hormuz After Ignoring Warnings: how 18 outlets framed it - NewsCord",
-      "title_id": "Angkatan Laut IRGC Mengatakan Dua Kapal Tanker Minyak Meledak di Selat Hormuz Setelah Mengabaikan Peringatan: bagaimana 18 outlet membingkainya - NewsCord",
+      "title_id": "CENTCOM AS memperingatkan Israel untuk 'mempersiapkan dimulainya kembali perang dengan Iran' karena Timur Tengah berada di ambang kehancuran - Daily Express",
       "translation_status": "translated"
     }
   ],
