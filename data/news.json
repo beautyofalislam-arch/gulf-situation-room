@@ -1,116 +1,28 @@
 {
-  "generated_utc": "2026-11-23T12:59:06.147531+00:00",
+  "generated_utc": "2026-11-24T11:03:19.689520+00:00",
   "status": "RAW_NEWS_NOT_VERIFIED",
   "articles": [
     {
-      "title": "Iran Reports Four Tankers Striking Mines in Hormuz - Caspian Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS3c3R3lOQ01hNXp1NVFKMXR2ME9UWkRNQnJDa1lieHE1eFNPTzdYOGo5WXFNWVA3eEJzdEFGRk9taEVQbkpfUE43akl1NXk1NzFJT0xRSEpOdTEtR3hCQnpubjI2UWhCUUpPZUY0YW1EcnpEV3BJbWFTWUl6TFI0dHZQb0Q5UQ?oc=5",
-      "source": "Caspian Post",
-      "published_utc": "2026-11-23T12:38:10+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "Iran war live: US investigates suspected Iranian involvement in cyberattacks on up to 50 ships - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+      "source": "Arabian Business",
+      "published_utc": "2026-11-24T04:18:51+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
       "verification": "unverified",
-      "title_original": "Iran Reports Four Tankers Striking Mines in Hormuz - Caspian Post",
-      "title_id": "Iran Reports Four Tankers Striking Mines in Hormuz - Caspian Post",
-      "translation_status": "unavailable"
+      "title_original": "Iran war live: US investigates suspected Iranian involvement in cyberattacks on up to 50 ships - Arabian Business",
+      "title_id": "Perang Iran langsung: AS menyelidiki dugaan keterlibatan Iran dalam serangan siber terhadap 50 kapal - Arabian Business",
+      "translation_status": "translated"
     },
     {
-      "title": "Three tankers struck in Strait of Hormuz amid further Gulf of Oman incident - safety4sea",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXc1WmdteUMzTUFjV2VpS2dxbVpIYS1vc05EbUE2bDE4d0N2TkZVbkdXSGY5bFRSVG9ZcXNqTlFpWVEtdU56bWVucmJaNnQtNTgxTmlMUnZlaEhZU056dThiMzloZmcwdDQ4cmUteTVjWXFRZGQ0WXNsWlQyT0JjUHRGaEtpUXZsMlN6MU00TDVVeWJaLWFOWHRFOUtSOTY5?oc=5",
-      "source": "safety4sea",
-      "published_utc": "2026-11-23T11:59:49+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "Middle East cannot afford renewed US-Iran escalation: Qatar - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16d3ZuQV9HT25GSnBBazVDNHZnMk83YmxoZU5tVlZmNE1UM1ZGTVE1dURWZFRUVS1hUFZQd1FuSGdYaGlFR3FWMHQxVXR2VDdveVh2ZXdVa3U?oc=5",
+      "source": "TRT World",
+      "published_utc": "2026-11-24T03:21:27+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
       "verification": "unverified",
-      "title_original": "Three tankers struck in Strait of Hormuz amid further Gulf of Oman incident - safety4sea",
-      "title_id": "Three tankers struck in Strait of Hormuz amid further Gulf of Oman incident - safety4sea",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran vows 'every means' to counter US blockade of Hormuz after Trump threat - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkM3TUFqQlhpaXJ0V0o5SVFIT3hzQXU1eXpWM1J5dFZiLUlGaXFKSnljazdUQldYNVlMdGJtQVVKbk9LYlF6N2ZHaFFjUWpoc3pxUmxXbWlyS1luY3l6U0U1UzZtVVBlQVdnb0dLdXkxSHMtZlZ2Vm5qSU9BOTBtVw?oc=5",
-      "source": "AOL.co.uk",
-      "published_utc": "2026-11-23T11:34:05+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran vows 'every means' to counter US blockade of Hormuz after Trump threat - AOL.co.uk",
-      "title_id": "Iran vows 'every means' to counter US blockade of Hormuz after Trump threat - AOL.co.uk",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "The Week in Charts: Tanker rates rising again as Hormuz flow falters, says Frontline | Non-Iranian ships continue to embrace Tehran’s Hormuz passage system - Lloyd's List",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQN3FBaUFlcUFkeTBOVEJnWWh2aEVtbFo4WjRBbzc0eTJBWXRVQVNLQ1dnc1hMN1liZ1hkXzJNNjMtQTFXcUI2UGtoazNhTWd0bEFlT0FiRW8wMkhjZEdWRUxkTDdfNG5DZ2xSLXNjVkdmaUxSZnlHYlphMTZMejRNT1lsMTFIS05wMUR5VHBxT0FjMFJreHBBMmxUUG5WcVUzejFRdVNnTU1oeGNVNjNqZDV6MFdoWXJSQUVTWmhkdEZ1YlBGN2tFbm5mMVRJaWc4bElVaWUyal93b1pRT3lCVFUxYVV1Y0UzMFZuYmpfMWs5dFl5QjFRMGFVMHl1Y3FicmNyRlVXUzZ4WUZZMkJRdWRlUkQ3Zw?oc=5",
-      "source": "Lloyd's List",
-      "published_utc": "2026-11-23T11:21:25+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "The Week in Charts: Tanker rates rising again as Hormuz flow falters, says Frontline | Non-Iranian ships continue to embrace Tehran’s Hormuz passage system - Lloyd's List",
-      "title_id": "The Week in Charts: Tanker rates rising again as Hormuz flow falters, says Frontline | Non-Iranian ships continue to embrace Tehran’s Hormuz passage system - Lloyd's List",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iranian attacks in Strait of Hormuz hit highest levels since conflict began - GBC Ghana Online",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VdndyelFfa0FiWkhYN2g2dG9sQkgwTlRXeGhfOTNlU2M2dVFUQXU5TzRORGlpelczNWhvVS1nZnhwd0lqY002U0FTV290Yi1tTlBldkNSeTFQSFY5Z0NvZEdqeVJadThmMnc?oc=5",
-      "source": "GBC Ghana Online",
-      "published_utc": "2026-11-23T11:05:55+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iranian attacks in Strait of Hormuz hit highest levels since conflict began - GBC Ghana Online",
-      "title_id": "Iranian attacks in Strait of Hormuz hit highest levels since conflict began - GBC Ghana Online",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Economic squeeze raises risk Iran will try to break US blockade - Lloyd's List",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVXUtclYwek9zaUtQWmp0bW5GWnJDbjFWdXBLazBEaS1IMHBpSnFKLVpVazNZblQ1N0M4d1FacHQ1WWhrWEZCaFBWV25KR1E3aUFkOVp4eXE1QVcwUlY0c0JxWlJGeHA5eC01WndPdzkwWl91dVhSdVZ1akFYN29Ld2J3OVpBWkdDRW9XWmRTQ1JhMTN1ak8zdk1NSVdzcVc0eGc?oc=5",
-      "source": "Lloyd's List",
-      "published_utc": "2026-11-23T10:51:50+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Economic squeeze raises risk Iran will try to break US blockade - Lloyd's List",
-      "title_id": "Economic squeeze raises risk Iran will try to break US blockade - Lloyd's List",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Lewis Pugh Swims Strait of Hormuz for War-Hit Wildlife - Nature World News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjAyU0doelZkR2U5cF92aUs4aHJ6Y1M5T2hzc1E1bEFSOFB1dFBiLUxEbjFxUzBRUHprWVZES1JNVmJqcXRnUjNlQThsXzFHZE0yMThrOXhCT1VJVWpIVXh2QnB3X0VQX2tuRnZlYVVheUlpVGNSZ0ZmUlFBdVdrNHpfVkJ6QUlVdFpoemxpc0gwLW82alFhYzVfamdwX3ROeHM4WGJJUHVhVm9uMkE4aExkeUJYR1ZZaERZ?oc=5",
-      "source": "Nature World News",
-      "published_utc": "2026-11-23T10:49:50+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Lewis Pugh Swims Strait of Hormuz for War-Hit Wildlife - Nature World News",
-      "title_id": "Lewis Pugh Swims Strait of Hormuz for War-Hit Wildlife - Nature World News",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSWDJ3dGtDQ1RaWjFnbXZ5VEdJZVR3T1IwSW5RaUpqSDdJOW5KN3h3QXFKY3Q3UW1IVUhEOXBienRvRlZLUDREaXlGSC1PM2N0aWc2eXEzMGdVS2xGeUFoX1ZSY09yUzhENmc?oc=5",
-      "source": "The Jerusalem Post",
-      "published_utc": "2026-11-23T10:49:41+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows - The Jerusalem Post",
-      "title_id": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows - The Jerusalem Post",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Singapore Shipping Corporation Orders Two LNG Dual-Fuel Car Carriers - Ship & Bunker",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUhmU0xxZm9fa25vd1lnN1dRbFR6dTduaEdRT1pOLWdwbXg1TzltNDNjTmItMDVUSVRMWk81eFR1TE1rUTl6WXNUU252Qi02UHVlcUF1RWhsOEk0RmVRbkRDWllYV3dBYUhkdEEwcjlnUzJlVmhoRXlsREhocjBaQ1djOWJlS251QWhyTm5tRFFDRkZDaVJTenNiWC1JVFp0aWhBMjZyaEpiSFFScV9fTw?oc=5",
-      "source": "Ship & Bunker",
-      "published_utc": "2026-11-23T10:39:52+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Singapore Shipping Corporation Orders Two LNG Dual-Fuel Car Carriers - Ship & Bunker",
-      "title_id": "Singapore Shipping Corporation Orders Two LNG Dual-Fuel Car Carriers - Ship & Bunker",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Greek owner Polembros sells oldest bulker as handy prices surge to four-year highs - TradeWinds News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcU5nR250Sk81TVJpaWZ4SFpzcjYwRlJGcW54NzFuY1A1dVNHQjE4aktuUjRTOWRVZExMeFh2cmNxOTF0d3I0eGtOZ0xzZF9VSDR4dlhaZlR0R3ZUN2w3MTUwMmNLRHZJQWh4NVROQ0dWNldfNG9PWDV0TUFyN2pDd1V2eTZxUGdRR0ZBakRYVVZSU0RxRzZNdTJJOFRvejAxeGNxczFuVWVCaW5xUkpJYmVEYnB0SE1WX2dBOUU5Zkcwa3Z1S1RvaU1SSFN5UQ?oc=5",
-      "source": "TradeWinds News",
-      "published_utc": "2026-11-23T10:19:26+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Greek owner Polembros sells oldest bulker as handy prices surge to four-year highs - TradeWinds News",
-      "title_id": "Greek owner Polembros sells oldest bulker as handy prices surge to four-year highs - TradeWinds News",
-      "translation_status": "unavailable"
+      "title_original": "Middle East cannot afford renewed US-Iran escalation: Qatar - TRT World",
+      "title_id": "Timur Tengah tidak mampu menanggung kembali eskalasi AS-Iran: Qatar - TRT World",
+      "translation_status": "translated"
     },
     {
       "title": "UKMTO reports tanker incident with military forces in Gulf of Oman - Yeni Safak English",
@@ -120,249 +32,18 @@
       "query": "\"UKMTO\" Gulf incident",
       "verification": "unverified",
       "title_original": "UKMTO reports tanker incident with military forces in Gulf of Oman - Yeni Safak English",
-      "title_id": "UKMTO reports tanker incident with military forces in Gulf of Oman - Yeni Safak English",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Middle East latest: New attacks have failed, claims Trump, as Iran imposes power cuts - The National",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5",
-      "source": "The National",
-      "published_utc": "2026-11-23T09:55:02+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Middle East latest: New attacks have failed, claims Trump, as Iran imposes power cuts - The National",
-      "title_id": "Middle East latest: New attacks have failed, claims Trump, as Iran imposes power cuts - The National",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran blockade row deepens as Trump warns tankers will end up on seabed - DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IUF84OFpBeDNOcEhIamZsQ3lMWEJlOFc0UURnY3ZtdzQ5OU5tWV96SkxDV0prcU1QWmNMQ01sQWZMbXdwLVpKRHFMYUttMV9Sc3JNUC1qM0ZjaEdC?oc=5",
-      "source": "DNE Africa",
-      "published_utc": "2026-11-23T09:48:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran blockade row deepens as Trump warns tankers will end up on seabed - DNE Africa",
-      "title_id": "Iran blockade row deepens as Trump warns tankers will end up on seabed - DNE Africa",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWVEyRmNLVDhuM29lbl9Cd1ZYUXc1YnViSEdycW5teDJ6ZHpNM25xQkEwdmIycUxkMU9pdlJxTGhYc1FYYnRINm15YkNZeTFKVno4SmhiRG1VeUY2TEQzX0ZDMElhTUJCdlNyQnhveXZUczI2bXVpc1lIeGR5NGZNaXVjWks5dTdjVm01dDFueGFhQVk?oc=5",
-      "source": "Yahoo",
-      "published_utc": "2026-11-23T09:35:56+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met - Yahoo",
-      "title_id": "Iran live updates: Tehran says Strait of Hormuz will be safe if its demands are met - Yahoo",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iranian MP claims Iran hits about 10 tankers a day in Hormuz - IranWire",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUUhwLWEwbkdmZDJ3b3B0OWxnUy1aZExXNlAta0o3endpUFZKem1uOGZVbUxqZU1tdHJtYThaX2lqRGtlaEdmVC1TaXNMQmtOQzI0cURzanhqdVRtVXFTem5mRU9jNk8zQURhZjVPQzhlMEhjN055QVlsTmxWTElQUk5lUlhTQ0hFN0lLU3NZMlIzelIweFp6LVpTSVBvZw?oc=5",
-      "source": "IranWire",
-      "published_utc": "2026-11-23T09:22:23+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iranian MP claims Iran hits about 10 tankers a day in Hormuz - IranWire",
-      "title_id": "Iranian MP claims Iran hits about 10 tankers a day in Hormuz - IranWire",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "British endurance athlete Lewis Pugh swims the Strait of Hormuz - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm9qa2llenU1R1VUblR3TjNXcDJIMlYwb1JjZWVhYWlDc05HbHA3b3JDcHNhSm85bFlhODc0a2Y4OTM5YXhsU0lZc3hQQkJWUHlyZWZvZWlxdnVEUkRLQy0xaEFBbWRUS055WVo2SUhQRWRoWjNIR0hZdGEyY0ZOd1p5VFpQNmloc080aTBFRWJJSnhxcXc5UVdhMHJlSmFYbXl0eEp4a18?oc=5",
-      "source": "The Independent",
-      "published_utc": "2026-11-23T08:54:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "British endurance athlete Lewis Pugh swims the Strait of Hormuz - The Independent",
-      "title_id": "British endurance athlete Lewis Pugh swims the Strait of Hormuz - The Independent",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjhUVlhiN1o4Y294bTNYVmxvSXZYWWJGUXNYNGVzY1h5Tms0Nkh1VmFCdkdIeWxRd2FQZG1va3BuUW9EanM5b1RTYU1ZZlAxQ3dzWnNVdkJhXzBjazRybXg4REI4NmFSc3p4WldYT0tGT1BGXzhFamtmYmpWR29xdFdoOXNpdXhlWE9mb2xVQVNZUDRTd0wwRG1jLXhuVDZ1dTI5elF4T0NGTUR5cmxwV2xB?oc=5",
-      "source": "Bloomberg.com",
-      "published_utc": "2026-11-23T08:09:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic - Bloomberg.com",
-      "title_id": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic - Bloomberg.com",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Tanker inferno greets UN oceans advocate’s swim through Hormuz - Splash247",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHJXaVBaTmpHRnNrZVBvbXE4d2xSVEs1UVo4Qk9aY0lReHJYNS1NdTlpUEU3Q0RYUmdxWHd6ZHJ6OFhvQXFWYUo5U1dzNE9YLVFrZG1MdnZaVll4Zm5ONndqYmprU3FGeC1UeUI4UUMtdm81alF0YWFiaEY0OWJzUmR5THdnaXVyM0NjaA?oc=5",
-      "source": "Splash247",
-      "published_utc": "2026-11-23T07:31:17+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Tanker inferno greets UN oceans advocate’s swim through Hormuz - Splash247",
-      "title_id": "Tanker inferno greets UN oceans advocate’s swim through Hormuz - Splash247",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Iran attacks on Gulf shipping hit highest levels since conflict began: Why Strait of Hormuz is on alert - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWC12eVNzX3JDYnB5TGd1NWZkX3NmMUdEM3FZcHN3SEhZdVVPVkVJU19OTWdkSTJxOU1JSW05MnFhTmVrcVM5MlMtTWF4U25rOFk2cG5WT1JOUldWWEdINUtLdTFnWHg5cFNsWVBpc2FrbHhma0hIMzBoYWZENUs0UmZEdzQtMEJ5RnZwbHNFTzdnQ3VIbXBKdVFLc3hqbXJvQVlfckd2dVRfVVhKR1dVczAzN1ZfaEoyQ3djQnFTSTFZY3BhZk5Jc3VxQjlrc3libkhlVDh2MEJBY3EyX0hB0gHyAUFVX3lxTFBCdlZ4VHFmM0RWUU9BLU5SYVVaZG9WVi1zMU9VU2pZYmtDTGRXMjZjdjJCaGhSY1JHdnZkQi1pdnZ2STR6cHpjX0V1ekZKZVFkZ1ZCSU1DQkpEQjc5WWk2dlB4YmhvRm1Gc3dXWU5ZSDFXaldzT3R6SWY5MGZHQXVYWndJQ01SSGZkbFc2VDB4UVVCMHVwU3h5Y012STJHOEVxZFJWLXdKOEFIVHQ2Q1dpU2EtdFo5b0RPVXV1Q21pVHhtaUx2RU5NOWFhUzNQUkl4MWI5cEZsTUZ6WmowektjYnZQRV83NEk0aGNXVzJveXh3?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-23T07:22:49+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran attacks on Gulf shipping hit highest levels since conflict began: Why Strait of Hormuz is on alert - Gulf News",
-      "title_id": "Iran attacks on Gulf shipping hit highest levels since conflict began: Why Strait of Hormuz is on alert - Gulf News",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "IRGC Navy says two oil supertankers hit naval mines in Strait of Hormuz, issues warning to shipping firms - خبرگزاری بین المللی قدس",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uTk9TWUNUamlGcVVTSGpPakYwQjBiQnREa0dCakxrcl9qcWNycm1OakJtZnphdXYxYXYtNHNqYXRXdw?oc=5",
-      "source": "خبرگزاری بین المللی قدس",
-      "published_utc": "2026-11-23T06:54:05+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "IRGC Navy says two oil supertankers hit naval mines in Strait of Hormuz, issues warning to shipping firms - خبرگزاری بین المللی قدس",
-      "title_id": "IRGC Navy says two oil supertankers hit naval mines in Strait of Hormuz, issues warning to shipping firms - خبرگزاری بین المللی قدس",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Two Supertankers Hit Sea Mines in Strait of Hormuz - تسنیم",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnpZUk1Sc2lyTVhGZXRjZFcyYkViMkhoMlV6RDRtWVlWSUhNWDdVZElqYVBxS251eUNFQWVXQTBBX2czME4zNzg4WWtmVnQwOGVicU1wRGh5T2FlLUZYSVFGWk9TUHJ1S05acTBFQ1FvVFJGVC1DY2tGc2hLX1NPYUFuWG1aVGdIU0ctNHJnSWxJZXNTUmtBdlJ3M0NvdlNfbHhJQVBR0gGrAUFVX3lxTE5tSl93Skhxc3VuXzFrdkZBWThWM1gybWlLRXJGeWNUcEN4eXdFNW8teWNvZVJBUDlodTh6MlZiZjJpX2tmMVZ2SnhkclIwWWdSWjl0SjFjTERqSXBqdnk3bzR0Zzd2WThsS056VURuZXFsWC1GVFpLNGtzNnhDSEN1MFIweDExYUlCTktkUnk2T3A4WjRucmdid3pIcGN6REZ6cXNxODNFc3dQMA?oc=5",
-      "source": "تسنیم",
-      "published_utc": "2026-11-23T06:35:15+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two Supertankers Hit Sea Mines in Strait of Hormuz - تسنیم",
-      "title_id": "Two Supertankers Hit Sea Mines in Strait of Hormuz - تسنیم",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Video: British athlete swims Hormuz to highlight war’s impact on wildlife - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHIwRFJ3dmd3Wnkxdk0xTFFwNHFIOS1GMm8teE14bVVtWGt1bnRBN1JPUG9lNDdFWlM4YUMyOElBMTVwYXZBX1F6cFFQMmtZRmttbXFKMmpSR1g1ZXE2VjI5bFlWLWJScU1ESXNfZXdaNVB5ZmdWaDVvT3RrMkROU2RubUZNM29MOFdoVGJ2X0M3R2lCN2tkVk9ONlhvbTBOT2xnbmFzeE5ybXBNNjBR0gHCAUFVX3lxTE1mWldjTWZJeUVnTEVqOWJzamtyUHFGcXpYNHRxdzJRYWYyay1OaW1yZzFlMndYU2N5NWo4YVhWZFNOM1JfOE9ORG1hbzR0cG5ONUdqMk1XQjFMRXpJbV9HTWpBYjVVN0F1M0pULS1lWGJlZ2lJYUJmQlN6RElSNWhXaENiRlNfWVhSQkVzQnBZMzdyS21MU2ttTzYtQ2JEWGt1alZLUTBxMHRkN2ptQ0djVDgyOUtyZWZKbEN3WFZCOWJR?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-23T05:55:58+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Video: British athlete swims Hormuz to highlight war’s impact on wildlife - Gulf News",
-      "title_id": "Video: British athlete swims Hormuz to highlight war’s impact on wildlife - Gulf News",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "2 violating supertankers catch fire in Strait of Hormuz: IRGC - Mehr News Agency",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTV3OWxWcHhjQTBKZW5SR3FqMHI0UnQ2RXFJUUNGWmhjOUh4NXZSTm9tdjl2cHJhZ2hlbWxfNWNTZ1BTc2Y5eHoyb2paYW4tSUdsc09aOTNieTFVZEluZTNZX3RGbk9WTWxNRDdRdDI4REZaZTlwcFRFWU5yR1VlbHV2SkNUN0hkdk9DTkwxQ0c1d09qcC0zTHpicjI?oc=5",
-      "source": "Mehr News Agency",
-      "published_utc": "2026-11-23T05:40:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "2 violating supertankers catch fire in Strait of Hormuz: IRGC - Mehr News Agency",
-      "title_id": "2 violating supertankers catch fire in Strait of Hormuz: IRGC - Mehr News Agency",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "UK maritime agency reports incident involving tanker and military forces in Gulf of Oman - Saudi Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd0hjSE5PODF2Ri1fZ2hzU3RSZ0tISVk2YXJtOE5ySjBUVTluQ3RLY19jeG9RT09FOXdhOEdiSjZ3TWNpbHZLNC1wZFpCY2JyUjk4LVN3dVY0MGZndFhNdE1rVFFSNHZQRVdySmtwa2RUbF9OQWhmQ0hBUTVQblF1ZDFTYXBkQ3lxWmlRbGk5c08yQV9EMzgzYUtSeWVydGdFWm9BcEliT1ZBclg4NDZnUFNYMnh5WnZDeER2S2hjQXNEQzZvRENLVjhPQ0VoM09OaW53?oc=5",
-      "source": "Saudi Gazette",
-      "published_utc": "2026-11-23T04:58:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "UK maritime agency reports incident involving tanker and military forces in Gulf of Oman - Saudi Gazette",
-      "title_id": "UK maritime agency reports incident involving tanker and military forces in Gulf of Oman - Saudi Gazette",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Tankers Attacked Over the Weekend in Gulf of Oman and Strait of Hormuz - Ship & Bunker",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1RPejg4dTJzYjRpYmp0ejRKM0dQMnY4VXM1emJlRkozLUV2Y0dxNFVnTjQ4RUZhUzVvZ2NmalU1cmdqVlMycWRwQ1Q4RGxlWUZfQkJwakFaNVBkRkFfT3dtSndiLTQ0Vm1VMm5QX3IwZXRTUXZwbWU0VWZnSG02Z1B6RUQ1eGNkT3NlNHktWVdiVWVqV2ZaTUJBeEJROVVHZjZENldPTnM5aDh1WElwU2kwbw?oc=5",
-      "source": "Ship & Bunker",
-      "published_utc": "2026-11-23T04:44:44+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Tankers Attacked Over the Weekend in Gulf of Oman and Strait of Hormuz - Ship & Bunker",
-      "title_id": "Tankers Attacked Over the Weekend in Gulf of Oman and Strait of Hormuz - Ship & Bunker",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Two More Tankers Hit Off Oman, Houthis Threaten Saudi Red Sea Ports - The Maritime Executive",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWRheEp2TTBZbWE0WkFQTlozZm5mVy1Hc3BuOEVvYzNLdEdTWVFUUHYyUHVONGZ5VVVZTG5HRU45ZW5YQ1YzVFdSaGVud1ZScjB2OTBYVXprcTBoLUZxMkdncS1fN0RBVkJVclhwV3JQUjU5cTAtUVo2MmdNZWtjXzN2RmhPOXZrUE9ZcFdybnl5cG5oemU0VTZabVRkNV9hbHJZa0YxVDFMTF9m?oc=5",
-      "source": "The Maritime Executive",
-      "published_utc": "2026-11-23T03:03:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two More Tankers Hit Off Oman, Houthis Threaten Saudi Red Sea Ports - The Maritime Executive",
-      "title_id": "Two More Tankers Hit Off Oman, Houthis Threaten Saudi Red Sea Ports - The Maritime Executive",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Pentagon Blocks US Senators From Gulf Bases, Hegseth Hiding Iran's Devastating Strike Damage - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPa0lwV21SN2VWVmtQamZNb19rYnlZSlpiMmp5VDRMTWd3UUtQY203WTc5Tm9kck1Pc2NmWXdRNVFzemlEdDY5QnNvTU8wYkx0UFFrOTRvX2oxSVZCNmFhLW52OTZiYnU1Mks3QWtWUDJMdG9GQWQxRk9PTHBlcGYyVnU4VWVrUTdWWmhtU1ZQem5lYm5XWmxXNmxLMVpSU0R0T0dYUUFHNWFSdmswSW1QOTlZNXlLMFBjTGV6LXdXb2lYeGZGbVNIWUFETGtSVEViRkgweXBDTURaQjVfX2xiaVZ6dkZUZi1VRkpvUFREeHJNR2Z0TFk1Q2t4dzJ6UG9Z0gGGAkFVX3lxTFB2Z21JZllLRllDcDZqX0VYQ3VaMFMxdE81X3pLTXJDR1JCMFV5Vl9EbmdzNzh2TkYzcjNlSFRxdDNmd1R0bEw5Z3VJdnAyMmoxVTdZTXhqTWtUVVMyVjRPQU05dFFzTGVESGVEV3FkaDhGbjV4NUdqbWRLSkx4Z1ozendPR2w0Si16VmowSnRodEpENTRqWlhRT1RzbC1BcmV1M1BwSkktbzhiSXRKYVVobmZGYV8yOFptLUdYT3NiSEd1Wk16OWFnMWtENGFFY0U4U21sSk9IMmMzTlVPMmxRSWdlWGdaRWI1YlB4V3VwR3V3eVhEUElYeFZ3c3BqVmUtR0hxSVE?oc=5",
-      "source": "The Times of India",
-      "published_utc": "2026-11-23T02:20:38+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "Pentagon Blocks US Senators From Gulf Bases, Hegseth Hiding Iran's Devastating Strike Damage - The Times of India",
-      "title_id": "Pentagon Blocks US Senators From Gulf Bases, Hegseth Hiding Iran's Devastating Strike Damage - The Times of India",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Mystery mines of Hormuz - The Australian Naval Institute",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1COWYxQ1Q1LUFjWklWUXdZRzN3Z25JWlBxUlRJay0zZEpRczQyd3N4ZGItUXFRcmNXNlZLRnktMzY4a1BXNnByVGxsYVlsZm8?oc=5",
-      "source": "The Australian Naval Institute",
-      "published_utc": "2026-11-23T02:14:14+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Mystery mines of Hormuz - The Australian Naval Institute",
-      "title_id": "Mystery mines of Hormuz - The Australian Naval Institute",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Bahrain Says Two Injured In Iranian Attack On Industrial Site, As Tankers Hit In Hormuz - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklpYktzVDBrbEhyM0IxbFBXQW03ek1tYUgzZXFPR3RJUWJhcWRwb3NyV0d3WFUwY010YzNLeHRCQWRZY0M5Q1dWYjlQbjR2Unl1VEdIUFVES3YwUVNMVEhacWJOZGMyM2dub29TbnRFdzJSVElSbEw0dGp3Vm50Z3VGdUVwWVhfY2dOa3JTb0ZWVFpXSjM1NXhiZVNWTC1BT1Z3NE4waTloaVg3QWx1OHlnTHItSFdyTXl3SXAzNE9VRVNq?oc=5",
-      "source": "Eurasia Review",
-      "published_utc": "2026-11-23T01:47:47+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Bahrain Says Two Injured In Iranian Attack On Industrial Site, As Tankers Hit In Hormuz - Eurasia Review",
-      "title_id": "Bahrain Mengatakan Dua Orang Terluka Dalam Serangan Iran Di Lokasi Industri, Saat Kapal Tanker Menyerang Hormuz - Eurasia Review",
+      "title_id": "UKMTO melaporkan insiden kapal tanker dengan pasukan militer di Teluk Oman - Yeni Safak Bahasa Inggris",
       "translation_status": "translated"
     },
     {
-      "title": "Iran’s Revolutionary Guards Say They Shot Down Another US MQ-1 Drone East of Hormuz: 10 outlets compared - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdFVvZE1uMnVGZVcxUnlTeVBtam45NjJHVGw3TWsxYldvZVZRcGc4YnB5bm5NRF9Qb2NNTkNZd0xIY1RDRTJOZkVzOFBUWG5BaHdjY2NMSEhHN2wyOVhRbjlkREhXY2VoN2xOUkRDaFYtVmxYbjNGRFU2VTduQkR2S0xtdWhpQUFjZ0pnY1BsNXE0WGE1OTAycWZPWHBYOXlDMWJsekp3UGpMTUg0WDVhR1huMTZwMDFHT3JRRHR6V1pwN2lFSWZoVlZpYjFiN2JLZkNmemFQRUlDMlA3Z2VWNFRLTEo5azVEWXc?oc=5",
-      "source": "NewsCord",
-      "published_utc": "2026-11-22T23:23:50+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "Iran Claims 2 US Patriot Radars Hit in Bahrain, Bahrain Says Civilian Site - https://houseofsaud.com/",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81UzkzbXJOUzNIN0NsQVExZkpzME9aMTBsYm0zQTNIZE9OelZFUTdfcE1xSGFJWTdlOTNLOTVNTDRoRENqVmR6VllXVEx0ZTEycUFITUhuMV9QUUxzc1E?oc=5",
+      "source": "https://houseofsaud.com/",
+      "published_utc": "2026-11-23T07:53:09+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
-      "title_original": "Iran’s Revolutionary Guards Say They Shot Down Another US MQ-1 Drone East of Hormuz: 10 outlets compared - NewsCord",
-      "title_id": "Pengawal Revolusi Iran Mengatakan Mereka Menembak Jatuh Drone MQ-1 AS Lainnya di Timur Hormuz: 10 outlet dibandingkan - NewsCord",
-      "translation_status": "translated"
-    },
-    {
-      "title": "US naval blockade of Iran: Tanker incident reported near Strait of Hormuz - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY3dvQTY1cnRrWV9zbHJMQk0xM1NRc2daTm1JbEt4MUJud3ltYmxGV0IwOUxFTXhmbHR5RzJrSi1CZlJzSHFacW10Slc3NXFPSWJBNVRBUnNPNmxyaWZteGp2SnRZWmJvVi1ZRGpxT05WVXp2M2JfdlNUWHJuRUctZlQ5cnhCSkFuaDI2RmFDVnZLYzJKVXdzaUJjdU53VkVM?oc=5",
-      "source": "Beinsure",
-      "published_utc": "2026-11-22T23:18:41+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "US naval blockade of Iran: Tanker incident reported near Strait of Hormuz - Beinsure",
-      "title_id": "Blokade laut AS terhadap Iran: Insiden kapal tanker dilaporkan di dekat Selat Hormuz - Beinsure",
-      "translation_status": "translated"
-    },
-    {
-      "title": "UAE, Oman continue search for missing Jordanian sailor after Hormuz tanker attack - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUJvTGhGakJibUo3WUlWTmpyOHVDY3JQamViMERpUWVwVE1PMTg1ZlhDLWtLbUZfaEJTcjFrUlpUUzdtZmo1a2ZWSkg3WmdvUklKeFhyVEN4UU95NWNEeDBBaDRqTXM1c2k3TXhKVzlrVzctX05qZndpalhKd2hxTnB2b1FiVG5XYXFVOHEyNkg0S3BnVWd3Z3B6QWR4RXR6NjJ0TzhtR2xRVU1mUF9xVlA2SkltcUVBZVR2MkZVOU4zb1JD0gHXAUFVX3lxTE45VG5UMENvU01RVnBWLWg2VlRMMURQNnZnSVZKR1JTZ3p1OXNvbUY1ZTJfTmRqX19vMTAyOEM1dEQtekkyOXo4eWh0U2ZPMXN3SWFLbDRzNjRYUnkwT2JaUXJNM1RQWjFVSFR2bm8xXzVrV21fRUdSeGF0MkFwQk9INzdfNGxKeXZDLUE4ckRFYkRBMDJLR0s5QnJPZEJUb0c0cmp6OUVHYXppREJpSHM5YUF0eTRURXJ4SVp4M1dCOEx3WGhOQVRRVWhGNFFMMllSbHFZWlNZ?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-22T23:01:53+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "UAE, Oman continue search for missing Jordanian sailor after Hormuz tanker attack - Gulf News",
-      "title_id": "UEA, Oman terus mencari pelaut Yordania yang hilang setelah serangan kapal tanker Hormuz - Gulf News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1BjTGRmMGRRNmNZZnFiZEc1eV9WNU1oTzR1TXh6NDZ5aTFZMkhWN1ZVb1lwOFFybjE5V3dIbDAxbjRCQ2wzV3NBU1BGTE42U0xXMkFRMGItdjk4RHdLVUhUcl95MkdtVllUU2xCN3lZYk1oQk03MUxYcmxnZVNteWgwLWJ6NUItSGFvY1A3TzZHYTZqelRfcWh5eUQzUVllYUkteEhOREhiaHFETWVfVNIBtgFBVV95cUxOemFJRWtRTGk0YVVad3pyc0tYRExXN2QtdlZQdUN6dTJXM2J2UTZwNWZYRUczemtyaHpTRkQxb092YThXR3ZrOUprUHRzbE41VGtyQWl3SU1TT3JTcHctSlVvVk43WkZsM3JxRHZVWG5qZWNpN2hkMjFHVndLbnQySTFwWHVsSE5YbTBvdTlLRkNtSGo2Mm95ajl2a1c1Wm9BMjg1T0Nobms5cG1ydWM3TUxHRXYzZw?oc=5",
-      "source": "Fox News",
-      "published_utc": "2026-11-22T22:43:24+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers - Fox News",
-      "title_id": "Trump menantang Iran untuk melanggar blokade pelabuhan AS saat Teheran dilaporkan menyiapkan 14 kapal tanker minyak - Fox News",
+      "title_original": "Iran Claims 2 US Patriot Radars Hit in Bahrain, Bahrain Says Civilian Site - https://houseofsaud.com/",
+      "title_id": "Iran Klaim 2 Radar Patriot AS Dihantam di Bahrain, Kata Bahrain Situs Sipil - https://houseofsaud.com/",
       "translation_status": "translated"
     },
     {
@@ -374,28 +55,6 @@
       "verification": "unverified",
       "title_original": "Iran Claims US F-16 Forced To Abort Mission, CENTCOM Denies; Is America's Stealth Edge Fading? - The Times of India",
       "title_id": "Iran Mengklaim F-16 AS Dipaksa Membatalkan Misi, CENTCOM Membantah; Apakah Stealth Edge Amerika Memudar? - Waktu India",
-      "translation_status": "translated"
-    },
-    {
-      "title": "CENTCOM commander concludes weeklong Middle East visit amid heightened Iran tensions - Roya News",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CNE4xN3hmN2ZRdUtkOGhyVEFTX29fV1Rkd2pBbkFGenpmTzkwRkc1SXpieEVNcFlyRUcxYk53Y2hFV2E3NTVtVA?oc=5",
-      "source": "Roya News",
-      "published_utc": "2026-11-22T21:53:17+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "CENTCOM commander concludes weeklong Middle East visit amid heightened Iran tensions - Roya News",
-      "title_id": "Komandan CENTCOM mengakhiri kunjungan Timur Tengah selama seminggu di tengah meningkatnya ketegangan Iran - Roya News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "‘Hegseth’s Big Blunder…’: U.S. Senators Join Canada’s Military To Revolt ‘Secret’ Pentagon Memo - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaDZoWk12VkJaM19GMU5nbG1MZHkyN2lWWnk3UjJUZkZ0alJiQ0VwQ3pESlJrV2QwZUZDeEstWU13ejRUcFZGVU5QMkJnU05xTjVTd0h3WFJCX3RrRHJITU5MU1pXLUNrTWZPbVRZMmEwUVl0Ull5V2VuRHN3VTZUelNzeTFsNU1IRWE2VmlacVBEQXNJQTMyNDZFV3lSR05pWkg3QWQ4ajlGa1RJR2JIc0ktX2JxZHJaSW5MOTZJR2VvWG04NHVJMWF2bnlMNlVIR2NRTmFjWC1VX3FWM29pZTJVcjNLNktFVE53UzE5VVcyYXJ5NEhTSUlJY9IBgAJBVV95cUxOcXkwanFMYXg4U3d1cndYbUNJal85WHRSc3JienotTVpRWmViczNSR0hDTlVuUXRPZlM2S3N0aGdKR19EM19VMXlINmY5ZE14SEJoWlpfZ2lVMm9NMkZucXJmd2VNc2lPNmNvR3l6RG5ZMG9yRzhncU11TEtFeTU1LWlrQWNiY285VFZlWWYwOWNDYng3M2ZJbVQwbWx1aXEtTU1zNE14VWdSWXFqbndrNW13djRJUHdSNVhkcm1jUGFVU2dwYXExNkJTT25xbzNuTnNGQ1lYS21BeW5vWEY2VjBxa2ttZHBfTEltZ21TaWJ5UWpXODZyVTcyQ2tjTmoz?oc=5",
-      "source": "The Times of India",
-      "published_utc": "2026-11-22T21:12:03+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "‘Hegseth’s Big Blunder…’: U.S. Senators Join Canada’s Military To Revolt ‘Secret’ Pentagon Memo - The Times of India",
-      "title_id": "‘Kesalahan Besar Hegseth…’: Senator AS Bergabung dengan Militer Kanada Untuk Memberontak Memo ‘Rahasia’ Pentagon - The Times of India",
       "translation_status": "translated"
     },
     {
@@ -421,61 +80,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Two oil tankers explode in east of Hormuz: Iran Army - Mehr News Agency",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWpwVWgxTFlPb2dMVjFHRGZOVXlmZW1oVGFHRXJyZHJVZHVNVDUtbkQwTDlaUWFxX1NaMHNGMDZlWkZlSk5mTF9hY3FDeS1Yc1ZiMFBNNXRRbXdNVjQyZ0JHcWVWM0s3OFhlQklTSVhZZ1JvS1lJdzk5OW90dmxNWFlzaC02Y05ZWWJaNjloTnA?oc=5",
-      "source": "Mehr News Agency",
-      "published_utc": "2026-11-22T18:09:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two oil tankers explode in east of Hormuz: Iran Army - Mehr News Agency",
-      "title_id": "Dua kapal tanker minyak meledak di timur Hormuz: Tentara Iran - Kantor Berita Mehr",
-      "translation_status": "translated"
-    },
-    {
-      "title": "3 Oil Tanker And LNG Shipping Stocks In Focus After Strait Of Hormuz Disruptions - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGRvRW9qeHhsMzJ6NWdCU3gtZTBrSm9BVDM5RWh4d3ROcS1KbU03UlVBZ0JEWTA1NkxYbTNPZnZHYWJlSmEyQkZ4M3JhSFlueDg4aXBtU3hFVFRlRjdRT1dtRndXWTltcTV0dl9Ob0RhUDNJOEtKa2tTWWc3VEhTT2czY3J3ZTVzWVE?oc=5",
-      "source": "Yahoo Finance",
-      "published_utc": "2026-11-22T18:08:44+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "3 Oil Tanker And LNG Shipping Stocks In Focus After Strait Of Hormuz Disruptions - Yahoo Finance",
-      "title_id": "3 Stok Kapal Tanker Minyak dan Pengiriman LNG Menjadi Fokus Setelah Gangguan Selat Hormuz - Yahoo Finance",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Tanker incident “involving military forces” reported in Strait of Hormuz - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm96RExBbGw0OERZX1lMWGxhczRYS00yOXR6Rlg0XzJ0VHk2bEhZVHVFNmFRYllVUjZvZUhqYzFQSnNULTNhRjNhcE5IOXFNQmFOU2RlZlRZYWxrUnVZbWJrWGEyQWF6T1Z4MUUweHVKTmsyNnMtSS1KeHhxeWdoUWlZYU03eUR0X242RVdjNUp5dnU1R3hXRmNwOV94Nkx5UGtySXZMVnV2QQ?oc=5",
-      "source": "Euronews.com",
-      "published_utc": "2026-11-22T18:07:13+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Tanker incident “involving military forces” reported in Strait of Hormuz - Euronews.com",
-      "title_id": "Tanker incident “involving military forces” reported in Strait of Hormuz - Euronews.com",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Tanker incident “involving military forces” reported in Strait of Hormuz - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMnpPUnBCR1RtcERhUVlHb1hHb3d0bXNzTVFPeEh0cnE2bVd3UzRvTHBXSGhURVlwYnoxcGM5czc2bmYycHdEUEVqVTJwMEZIa3N5TFJEa3NmWV9oSC1salhHOUEzcV9rZVJxRXQ4UXhjcEkxVE0wWHNzZWdRV2QtWk9qX2lPUVVsNzllRkgtOW0?oc=5",
-      "source": "AOL.co.uk",
-      "published_utc": "2026-11-22T18:07:13+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Tanker incident “involving military forces” reported in Strait of Hormuz - AOL.co.uk",
-      "title_id": "Insiden kapal tanker “melibatkan pasukan militer” dilaporkan di Selat Hormuz - AOL.co.uk",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Lewis Pugh Completes 15km Strait of Hormuz Swim Highlighting Iran War’s Wildlife Impact: 14 outlets compared - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajJZdTJIeTdIZHNpdVdmRzdvV3VXZkVEczZKamhxS01uMWtTWmNadE1zU2JlejVrOFFaTUJId1B3WUE4OW5aMk4tUkxGQXJZaWxsdzJCSHZBUjE2ZUJITTdSMFlRbk85bGhSNTh4VjkwV0dHazhhSmFuYUNMeXhUbWZab0owVmxjR0kySmlCSDRkaVZvWThubzJCdUNCVGJ6TU4ySmd1QXh2WTlFdUR2RGZhWmIzakVxV2E3MDhmT2dFTlFCM1BCWURPYURHcjczNjJJTnh4U0M1dC15b1NOVQ?oc=5",
-      "source": "NewsCord",
-      "published_utc": "2026-11-22T17:47:09+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Lewis Pugh Completes 15km Strait of Hormuz Swim Highlighting Iran War’s Wildlife Impact: 14 outlets compared - NewsCord",
-      "title_id": "Lewis Pugh Menyelesaikan Renang Selat Hormuz 15 Km Menyoroti Dampak Perang Iran Terhadap Satwa Liar: Dibandingkan dengan 14 Outlet - NewsCord",
-      "translation_status": "translated"
-    },
-    {
       "title": "British service reports incident involving tanker in Gulf of Oman — Anadolu Agency - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzNqeG9zOEczYmExa3FPTVZuZVJTMlkyVFdlYnhDLWdyMkY4NnJXbUh6ZDVVeXFmaERvRklnQVFYNWN0XzNOWnRnNzE5Y29GMkx4YkhyRVFpY05VY1l3VThjNEFucHF3NkN6dU90R0RnNWV2NmFXajZraGp0ODBXUEZGelNMU0ZHOTNjWm9MUEhXYTRnWFlSejdVTlNSNXFMYVg2MVFWempaVEQyRlBJcEY2SEZ6UQ?oc=5",
       "source": "UA.NEWS",
@@ -484,61 +88,6 @@
       "verification": "unverified",
       "title_original": "British service reports incident involving tanker in Gulf of Oman — Anadolu Agency - UA.NEWS",
       "title_id": "Dinas Inggris melaporkan insiden yang melibatkan kapal tanker di Teluk Oman — Anadolu Agency - UA.NEWS",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran says two tankers hit mines near Strait of Hormuz — Anadolu Agency - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEFTTFpERGRGWGwtQnhLYV91NlhlSllULWM5T1k5LW0xWXg4dDhGN0xkeDkweWZjMmdnc0VPX1gxeGpJS3FpVlZIckxLY3I0bGR1eHB4LVFvVkhwWDlJOW5FOHRicDR1VFRkQ0ZDM0JwUTYxR0Z2b0xmdUtQTW1qSVY0MmNhS3JVbmlKXzJGMGxMdU8wUndsQkM2dnJwbUFYMkFFblRScnZvN01PZndscTJ1bTNOUlcwNW00Ug?oc=5",
-      "source": "UA.NEWS",
-      "published_utc": "2026-11-22T17:25:09+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran says two tankers hit mines near Strait of Hormuz — Anadolu Agency - UA.NEWS",
-      "title_id": "Iran mengatakan dua kapal tanker menabrak ranjau di dekat Selat Hormuz — Anadolu Agency - UA.NEWS",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran says 2 supertankers struck naval mines near Strait of Hormuz - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFhqV2wzWDlORHFmRFE1cW1KZ0R6Z2M1Q3FjTXI1c3RORHNGQmlweEVJZE5iODVJRGpRNU1QRkxHdFE0WjZFNHVXX083Tnp1MnVUYklMaWFBbFBMamVLWEZEcjdjRnQ4OUowX1k0bVRjRF94UWJsek5hN0pybmV2OUtJbURTcU1weE9ETXRfSFphN2RIWU9UYm1MM2ZnUDBiWFBuV1V4M2hMQQ?oc=5",
-      "source": "Anadolu Ajansı",
-      "published_utc": "2026-11-22T17:14:15+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran says 2 supertankers struck naval mines near Strait of Hormuz - Anadolu Ajansı",
-      "title_id": "Iran mengatakan 2 supertanker menyerang ranjau laut di dekat Selat Hormuz - Anadolu Agency",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWI2WWllMnpmMUEwTnp1VERkbjNRRmRBNUluVzl5ei1CNnQ4MzMxOV9rVzRyQ3NVZTVzWWZ4WHBTbWZPZlBkZENld1VidkV4R0pidjZocFJETzVXYWkxemtlTEtrUVR4SHJEU2o5TS1zRWo2UWtFU1UtX29iSmM0aFYzTmlhRXZqYzFyVDdXWGU4SUhXVTJoZXlfRjZNRHMteXVmUHZIY0lXNTYtT2R6M2xiUTZvX0M1dnNKNGowZFJQZGkzYXM3N2FVT0JDUQ?oc=5",
-      "source": "New York Post",
-      "published_utc": "2026-11-22T17:11:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran amasses 14 oil tankers at key export hub as Tehran weighs challenge to US blockade: report - New York Post",
-      "title_id": "Iran Mengumpulkan 14 Kapal Tanker Minyak di Pusat Ekspor Utama Saat Teheran Mempertimbangkan Tantangan Terhadap Blokade AS: Laporan - New York Post",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Two Super Tankers Explode After Hitting Naval Mines in Eastern Strait of Hormuz - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2ZYQkRoQ3NpNTNYaU9mWHYzMlFDdTJhVllLbVRfU2ZjYmVndUp6d3hJZndfbWRZU0hoNGdra0o4UlFLRW1uNjNfSG45SENibmpFRGV3bEl5V3pjbGpFNUxNWDhUaFdZQmR3ckdadEllV2poOU53aW5RU2dsenFGVndBRkZrOW1SeGI4clIxRmZVWndteEExWnRXS2lUbFg5?oc=5",
-      "source": "WANA News Agency",
-      "published_utc": "2026-11-22T17:06:47+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two Super Tankers Explode After Hitting Naval Mines in Eastern Strait of Hormuz - WANA News Agency",
-      "title_id": "Dua Kapal Super Tanker Meledak Usai Menabrak Ranjau Laut di Selat Hormuz Timur - Kantor Berita WANA",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Two more oil tankers catch fire in Strait of Hormuz - TABNAK",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUE82U1oyQlNvYW9DTXE5ZTV0MXNkMDVGNTRiellGU0NlM244N3FLdmFUN3hPRVJiZEM0ekFMXzNqTlFQOUhqRnVPc3hUZnJWeG9VNUpDVnBhRFQtbWRKRXpuSWZQMVl3a1JtejFHUk5QMjlzWURnM19ubXpnR2xoa0pUX0RxbExDVTlTaUE1VmZTSldrMW1MTDIydng5Rk9jQkd6YTZoNC1KR1ZkNGl3?oc=5",
-      "source": "TABNAK",
-      "published_utc": "2026-11-22T17:00:03+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two more oil tankers catch fire in Strait of Hormuz - TABNAK",
-      "title_id": "Dua kapal tanker minyak lagi terbakar di Selat Hormuz - TABNAK",
       "translation_status": "translated"
     },
     {
@@ -553,28 +102,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "UKMTO Reports Incident Involving Tanker and Military Forces in Gulf of Oman - ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHFzc0FYWjNVbEtqV3E4djRhVGR4RTNja2R2T2NKUUd3end4T1BhV2QxejNwU1lMM2VuakpOWkhKM2VXZktoZVJITWdFTjV0OXE2Z1BqM1Uyc0FoLWdqZHBSS0g1TWt4c2I5U0VpVVZSQjEtd0hQSzdoUTkycnlpX0s5TlJCUlZ0TldKMy04WDVfMkhDVDhXNnNKSFRZbWo0VzBnajFWUGNHc0QxLWc?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published_utc": "2026-11-22T16:33:00+00:00",
-      "query": "\"UKMTO\" Gulf incident",
-      "verification": "unverified",
-      "title_original": "UKMTO Reports Incident Involving Tanker and Military Forces in Gulf of Oman - ASHARQ AL-AWSAT English",
-      "title_id": "UKMTO Laporkan Insiden yang Melibatkan Tanker dan Pasukan Militer di Teluk Oman - ASHARQ AL-AWSAT Bahasa Indonesia",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Two Oil Tankers Catch Fire After Striking Naval Mines East of Strait of Hormuz - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnlqaHBGN1dGMjVPb2VvdzVaQWl2Q25QZnpSbGVmdFlTVk5Nc3M4MDdPc1NsckNRdVhuVF9mbmd2SXgybmJZY2E3UFo0ODhoUmRlQ1BrbVhtakZSV0RNUEF2NmktM1hGRTYycEx3THB0NDV6ZTFGaFcybjlCRjFUTWVPN3MydFVnWmlpTmVqVndPVmVEeTY0M0tBSk94c0E?oc=5",
-      "source": "WANA News Agency",
-      "published_utc": "2026-11-22T16:31:46+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two Oil Tankers Catch Fire After Striking Naval Mines East of Strait of Hormuz - WANA News Agency",
-      "title_id": "Dua Kapal Tanker Minyak Terbakar Usai Menabrak Ranjau Laut di Timur Selat Hormuz - Kantor Berita WANA",
-      "translation_status": "translated"
-    },
-    {
       "title": "UKMTO reports incident involving tanker and military forces in Gulf of Oman - Arab News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVhEUmlUQkZxc2VvUWFjWVZBM2JQMF8wR0xnQ2hXcUI0T2ZQQm1lejBSX20taG5MZ25pSWQycHJHVGduTUdoV2Jlb2syQ2JSN3R4YWVoZWNTQjE0cnRGNGNMaGtQcWVXSm1LUkVqNlk1WS1sdjFTSW1MR0ZxRDhxRTJmZ0x1T0FPZTdaUUhPUGk0d01GOUNvUm1WcE9rVlkyYTZvSnRtRnV2OXNYOVNPSHpNQm9PMkxCVUFZTQ?oc=5",
       "source": "Arab News",
@@ -586,25 +113,14 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began - KOMU 8",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORGtPWmxKTElPRDA5aDRCcWttd2NxY2MxNXdLaVRqZTRUR0tLQ3lsNDVFVy1MQk9GU1NhMmIzcm9OU2RIbGxlcGRMa1JDcm5Sa0kzTEhxeUNVWG1fekI4OEVQZW4zc3BEcnBmMmJmVXA3YllNTVNsNmZWSGg5bThfMlpCNlM1NWdvWjBaSXdSV1NPOGp1NDhyTzJkVE0xSXVCcHNORVNIWGZXdVRPNW1CX1ZMZUp5WlBkUVE2RDJMblRWV1NEbXJiUWt0d1hWZkF5Z21wZC1Wb0VwTEx2d2Q1NHg2cHcxM3dRRTRzZzFVOG81RHZQVkN6TEI1YWd2LV9jQjdF?oc=5",
-      "source": "KOMU 8",
-      "published_utc": "2026-11-22T15:47:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "UKMTO reports incident involving tanker and military forces in Gulf of Oman - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3VmUXNFSWN0Um03c0ZzaGNISlV2d2NWUVRWdWFYeVMtcW4wTDFlQTZUTDBPd3lYRDF4bm40TUFCcmlHTXF4cERjaElEOGUxcGxXT1NnQ01MZzVfelJFX2NVMmhZZWF0QjZPbENzM1dCOE1YbnZ2SEY4N2ZIeW9FVUctQkwyMXJHTDFFdDN2cHFLOHBBOExMWF9YQUNIbzFQeWFtV0pvWU1peUM0eFRLdDJUN0ZrTktSa1VzLUo0WmtqemxwclJZdmpERlQtcHPSAdQBQVVfeXFMT1ZrSC1XbFRfVUo3cVBOWHU5Z0VKSUNtb24yYmR4UDhEWUdXT3hTSnh3azdaZlNIcWNwMUFIcEMyOTJTSm9ZNmNvLUxibDBfRWxZR1R2dWEzcFFWeXJRQlc2SWFLdG8yeDlzRnc5YS1YaEZrczhZY2RHa2hlVldpOTNhdFg2a2F2aU1tSHE3WVV4UFlDTHRFWmFqb0gwY3d0MU9RUFZxNi15cDdRRjhaeXZNTDN3N2Y3V1M3VnFGYjRxb1UyQ3hfcmVrQWRaLVE3dHVqVWw?oc=5",
+      "source": "Devdiscourse",
+      "published_utc": "2026-11-22T16:05:18+00:00",
+      "query": "\"UKMTO\" Gulf incident",
       "verification": "unverified",
-      "title_original": "Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began - KOMU 8",
-      "title_id": "Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began - KOMU 8",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Briton dodges tankers and bombs to swim through Strait of Hormuz - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWE1GdmlyNHlHZTFieE5Rb3RyZHdteTdhTUlxWDdiNHJKZFY2R2NZcTlxUzhBdjZXUE1hSktkekJKQzVQMm9yUjhiQWY1cC1yZkVfUm80WXA5VHdOS2VrUmY4VktEM2ZDU1VfTzRncmtzMDNxY252bmluaFppQmd0aTh0WkpaTzFQcTk5TFNxYjdSZmI1d3haZ2JvMkpPa0tNQTdGcGF3dw?oc=5",
-      "source": "The Telegraph",
-      "published_utc": "2026-11-22T15:27:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Briton dodges tankers and bombs to swim through Strait of Hormuz - The Telegraph",
-      "title_id": "Warga Inggris menghindari tanker dan bom untuk berenang melalui Selat Hormuz - The Telegraph",
+      "title_original": "UKMTO reports incident involving tanker and military forces in Gulf of Oman - Devdiscourse",
+      "title_id": "UKMTO melaporkan insiden yang melibatkan kapal tanker dan pasukan militer di Teluk Oman - wacana",
       "translation_status": "translated"
     },
     {
@@ -616,28 +132,6 @@
       "verification": "unverified",
       "title_original": "Saudi Arabia, Qatar join condemnation of Iran attack on Bahrain - Middle East Eye",
       "title_id": "Arab Saudi dan Qatar ikut mengutuk serangan Iran ke Bahrain - Middle East Eye",
-      "translation_status": "translated"
-    },
-    {
-      "title": "What We Don’t Know About the Iran War - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0RCaVNESHIyME5LaU1tX3F0NjNKdDhKX2xmNVhXRWxWOF80U3J0Wm1YNmNSdmFlNEh4YlJ2NFVfaEJVVHEwWnBveFdyekJHVDI5N0VHWGZTaGtxdFA5OUJ0WFFmMVV3ajltU01OamstbFNhMHNFSm5jWGQ2MTlQa3FsM0pFdGZLaEJ5NnJRNXZXU0FkS251WnF2NkRwb2s?oc=5",
-      "source": "The Atlantic",
-      "published_utc": "2026-11-22T12:00:00+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "What We Don’t Know About the Iran War - The Atlantic",
-      "title_id": "What We Don’t Know About the Iran War - The Atlantic",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
-      "source": "Al Jazeera",
-      "published_utc": "2026-11-22T11:49:36+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "What’s behind Iran’s escalation of attacks in the Gulf? - Al Jazeera",
-      "title_id": "Ada Apa di Balik Peningkatan Serangan Iran di Teluk? -Al Jazeera",
       "translation_status": "translated"
     },
     {
@@ -674,39 +168,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JOVRoYUNVZVJDcERjLXExdHcyQ2x1bXVycWs5Zl9ZUTAteXZDNEFfbU02LUVHN0Fyb0VqSFVvM1RiSzlocnE1eE8xMUJWWm5yNEFmWkdiQzRBRzhGdml1Qk5UVEhBS2RjUFJONi1R?oc=5",
-      "source": "Ynetnews",
-      "published_utc": "2026-11-22T10:04:33+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame - Ynetnews",
-      "title_id": "Pertaruhan besar Iran: mematahkan blokade angkatan laut AS untuk memaksakan penyelesaian yang cepat - Ynetnews",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Tankers struck in Hormuz as Iran hold talks with Qatar - Hürriyet Daily News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVR0OHdOTTRXUkVDazF3elV3OUlKTHVIY3pNbll3TExxcUgyM0hzdi1ra21BNGUzM0xiR2E3YjRhdHFaV0RfQWsxclBjZjMxYjljVE5PSFo3Mk1DM0E3RXdFc2pyWkZvRXNWREFBY09IZzdFblZ1U0owN0ZtczE5SmZwX01PdHZKX2E4ZkFqSGlXZmFELWtQUG1vUQ?oc=5",
-      "source": "Hürriyet Daily News",
-      "published_utc": "2026-11-22T09:38:07+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Tankers struck in Hormuz as Iran hold talks with Qatar - Hürriyet Daily News",
-      "title_id": "Tankers struck in Hormuz as Iran hold talks with Qatar - Hürriyet Daily News",
-      "translation_status": "unavailable"
-    },
-    {
-      "title": "Israel, US agree to develop joint plans for possible escalation against Iran: Report - Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmg3Q2V5TzdFTG5GM201aERtU1VmRVhDeGZfN184LTl2aE44NEtLOTVxUDh5R2VxTFBxWmdicDZlbmMtT003N2IwZ1R3Ukw2NlUzSTJzOU80Q1pDSzdsSkxwZDFZVlg3VUxOYnJBa1JNWk44elFlM0RjNUZUZm1VRXpjREVsLVhlMUpIay14YW82TzRSTEdnM0NGNk5iMmxLZFlUYjZ0d2NmWFF3T2FOUzRWOXJIUDVwWkx3WE1wMldjclVR0gHKAUFVX3lxTFA5SlQ2cW9vTU1ZckZnT1VBdWllU2E0YWo0ZndLSG5SNi14ZlpScG5WZ0pBX1VvS2VLQjV6M3Y3ZE1ocG0zOWlfZGk1NFJJSXYyV0R0QVRvSkg1bWFJVHVEZXRIV1V4QmZVaU05YlliVnYtYWlRMllQRkczcmlHeTBYOFo1cF9GMXJqOEEtaXo3TU90TmJKX1FxMEk1b01tTk92N0prYWJvMHdDSno0YW4xRUw3b1dQd25kd19IdGhiQ090N1ItY1RGNGc?oc=5",
-      "source": "Middle East Monitor",
-      "published_utc": "2026-11-22T08:57:00+00:00",
-      "query": "\"Iran\" \"CENTCOM\"",
-      "verification": "unverified",
-      "title_original": "Israel, US agree to develop joint plans for possible escalation against Iran: Report - Middle East Monitor",
-      "title_id": "Israel dan AS sepakat untuk mengembangkan rencana bersama untuk kemungkinan eskalasi terhadap Iran: Laporan - Monitor Timur Tengah",
-      "translation_status": "translated"
-    },
-    {
       "title": "Middle East war: Key updates UAE residents need to know today, November 22 - Gulf News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDdKYkFCZjBmZWtNcWR1YWZGS3lHZHBVdERvWkVEX1JXdEl2TGxDZE80QWYydm9iNjFOc3M0S1V2THAwQ3FLdWxCVFotMGVyQzVpTlR4c0o5d3NpcTB1c1RheFVVNkc2Q29Jd2dlRkRjU2RTdjhCdUE2d1pUUHRvb3I2ZUFkeG55SVN6RUpGVWxMcWhDOW9mZm4xTXE0Mnc5Mk5XNm9VSl9PWnY1RlBFT25vbVhQUknSAcoBQVVfeXFMT1NyZ2l3QTBib2dBNFNOYkxzanlvMW83N28zQ3k2Wk9PWWNESVRPV3dYRVRRMVRpbDQtdkJJYmRHUGRYMDJHblZxTnMzR3gxeUJSS2hURXFwVHU0aUh6VlFaQ29NcnFJWHdlbHpKWWI1enk5bHJxSHZhcFpVYWR2UDZKcXhCR29CQ0plaFVONThXNXctQzVjUVFBWWNFd0Rsa3o4Q0doVlozWlBFVTR2RHJsalcySlB1eDVzWmd4R3NBZms3SERUczBrQQ?oc=5",
       "source": "Gulf News",
@@ -715,17 +176,6 @@
       "verification": "unverified",
       "title_original": "Middle East war: Key updates UAE residents need to know today, November 22 - Gulf News",
       "title_id": "Perang Timur Tengah: Pembaruan penting yang perlu diketahui warga UEA hari ini, 22 November - Gulf News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "As tankers explode around him, British swimmer braves Strait of Hormuz to expose war's hidden toll - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HTVVaR3hYVG9MbWk0T3lKUFlpZTVMVVJ0SUNKYTJib19jc181V0o2dVVCWEVNaEtUc1VZMEJhX3NBWGpIV2tucFR6bEFZa29fLWxQcGNrSHladnB5aHpWTDFlbkZqZw?oc=5",
-      "source": "Ynetnews",
-      "published_utc": "2026-11-22T08:22:35+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "As tankers explode around him, British swimmer braves Strait of Hormuz to expose war's hidden toll - Ynetnews",
-      "title_id": "Saat tanker meledak di sekelilingnya, perenang Inggris menantang Selat Hormuz untuk mengungkap jumlah korban perang yang tersembunyi - Ynetnews",
       "translation_status": "translated"
     },
     {
@@ -740,28 +190,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "‘Line-breaker’ tanker signal near Hormuz was fake, tracking firm says - Iran International",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRS1FVjd4RlhoeGJTWTZxNnVKbW1FMS05Ull1WW9xWmRINVh2NEhNVXhFSF9IaEtHZHMtZUlzNzRTd0pGM1I4eHRxV3ViU2pWOGc?oc=5",
-      "source": "Iran International",
-      "published_utc": "2026-11-22T04:14:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "‘Line-breaker’ tanker signal near Hormuz was fake, tracking firm says - Iran International",
-      "title_id": "Sinyal kapal tanker 'pemutus garis' di dekat Hormuz palsu, kata perusahaan pelacak - Iran International",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz - AFP.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3l4aTVzUmYtSFhfZjVJdjlMalBiZGFfdXNCV3hjSWpZM0dScUNwbHB2dHEtYjA1RU83amM4Sm5Kd1JZNFVWWDEtYVlYbVpCYnRkb2ZjWmdjejBKUzRTTFNZUTMtVFBKMW1MbkVGNnhyLWVhSGtKZjRqOG8wSUtsOWZtejdzeUNYZmc?oc=5",
-      "source": "AFP.com",
-      "published_utc": "2026-11-22T04:03:24+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Bahrain says Iran struck industrial site as tankers hit in Hormuz - AFP.com",
-      "title_id": "Bahrain mengatakan Iran menyerang lokasi industri ketika kapal tanker menyerang di Hormuz - AFP.com",
-      "translation_status": "translated"
-    },
-    {
       "title": "Iran says air defense forces damaged US F-16 over Persian Gulf, CENTCOM denies claim - 巴士的報",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamh1RUZ1a0NNckRzSXFIUnpodjF4YWlEU0g3bkdpc2Z2REZzS2JfTC1lQmk0elV0RGZTSDJOendwdk9CaG15SmJ1YzVzYnhzdzJLYlVrZUh6d3JtTWN0X2J1WXlmZm9HbHBMZHVmRkF0UkdGM3FDY1h5OHhaLVpTLURsWHVTbEczWkZtRUo5cGVUcEJBdU1SdmpZUnVGNy1GWTNZdlFKSUlFZzFvVWlfcjR1cEx5LXdWOHFzSHpLT3h0YjBxSXJMVXUwRHhCZU5m?oc=5",
       "source": "巴士的報",
@@ -773,37 +201,15 @@
       "translation_status": "translated"
     },
     {
-      "title": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz - France 24",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2JDZ1FhbWU2VzFfcU5TbWgtb0JMRUhDTjhIb1ozRnlMS3FVZU5RTXQwZ18zOVV5aVpkWm8xUmo3bFRTZm8xaHdNcklITGUxd2pnekktekFqLUxZX0xvZXpnQlAxbnF2NUpRSlBENEhlcEo3d3dOSllxWjk0SVc0QUtWbnZmUXkxV18zdjhUd3UwUS15NG5ZSGN6TXdpVl9aNThfLVZ1SENwLXAyc2wyUjdNS0lFaVZjY3dtWlVOcw?oc=5",
-      "source": "France 24",
-      "published_utc": "2026-11-22T03:24:14+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "Iran Claims Missile Strike On US F-16 Over Gulf: What CENTCOM Fact-Check Shows - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUJEZUdzUk83THctdUVvZGRVbGxBTGViN2ZLb3VLT2xnemlROVQ3VDlNYl9KY1dadUxucVlPTl9tREhXYllyaldGZXlLVGpKYm1lR25iVUI4UFhMcGtFbm4zVGoxMzBQRjVydUNJT2RPWGZKZ2FXb25Tb09STlhiWm45MzlRWG1VaFhsSEh2QkJqY2loeDQ3Y1ZrTHVCU3cyMkJXZ19tYzFvWWMxSWR1VFhNNF9RdTQxMXl3?oc=5",
+      "source": "NDTV Profit",
+      "published_utc": "2026-11-22T03:19:14+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
-      "title_original": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz - France 24",
-      "title_id": "Bahrain menuduh Iran menyerang lokasi industri ketika kapal tanker menyerang di Hormuz - Prancis 24",
+      "title_original": "Iran Claims Missile Strike On US F-16 Over Gulf: What CENTCOM Fact-Check Shows - NDTV Profit",
+      "title_id": "Iran Mengklaim Serangan Rudal Terhadap F-16 AS di Teluk: Apa yang Ditunjukkan oleh Cek Fakta CENTCOM - Untung NDTV",
       "translation_status": "translated"
-    },
-    {
-      "title": "‘We’ve got to stop the war’: Endurance athlete swims in Strait of Hormuz - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1JzcjVOdlZuMjNES21VNHh0cmV5V2ZGWUtoaHZQck8xYnBmaGstLU5aUEJ6WEdRM1Q1MHA2cFhMdFh1dnNaYTJBVkczTU5rVHY5emFUVXFrZ2RNUUhyZkJIV2dqOS00MFIybENGdFFSSmhFbkFFZ0l3YUNBWTY1Y2t2VnBVQW93Ujdfai1pVVExNFV5OWUyYlZVX2dtOVpKSmZGeGVDakxRd3Ryc0NyUmN3?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "published_utc": "2026-11-22T02:47:18+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "‘We’ve got to stop the war’: Endurance athlete swims in Strait of Hormuz - ABC News & Headlines – Australian Broadcasting Corporation",
-      "title_id": "‘Kita harus menghentikan perang’: Atlet ketahanan berenang di Selat Hormuz - ABC News & Headlines – Australian Broadcasting Corporation",
-      "translation_status": "translated"
-    },
-    {
-      "title": "UKMTO reports two tanker strikes near Khasab as Iran cites mine blast - Marine News Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXNTS19RZG5RRG1PVm9VX0hnSEM2c0VoTlN0d1dPVEFBUlpsLWVlVEd5NnAwZ0JQOVQ5MVNIOXpDS2tIRXMwWjlnQlBZNnYtYWFZZTBFUjZ6bDRManlHajZTS3ZzNU5oZFZXeDBjbXU4VXJ2SnhvWUtXWTZqNm9OekYxVzBmU3h6VXB4TTdIeEozUW9BUjlneUcyLWsxVjBfeHpjamJCZDAyUzV3?oc=5",
-      "source": "Marine News Magazine",
-      "published_utc": "2026-11-22T02:28:14+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "UKMTO reports two tanker strikes near Khasab as Iran cites mine blast - Marine News Magazine",
-      "title_id": "UKMTO reports two tanker strikes near Khasab as Iran cites mine blast - Marine News Magazine",
-      "translation_status": "unavailable"
     },
     {
       "title": "Did Iran hit a US F-16? The US military says no and calls Iran's claim false - Nacionale",
@@ -814,61 +220,6 @@
       "verification": "unverified",
       "title_original": "Did Iran hit a US F-16? The US military says no and calls Iran's claim false - Nacionale",
       "title_id": "Apakah Iran menabrak F-16 AS? Militer AS mengatakan tidak dan menyebut klaim Iran salah - Nacionale",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Hormuz showdown? Cash-strapped Iran readies 14 tankers to break US blockade. What happens if they try? - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeU1sUkRpN3NDLUFSZmpDUkFzQ21OQ05uekRlMTY3SWpvYlFLOTJ6UWtQd2RYT01ONW1kSW9kRmJocTQzS0dsbUpKTzFvSjI1UnZFTlQ2OUc4RHBvc3lIVU5VMVQ2RlE2ZFp0Z2l5VWxPanhhcmpLU3JZSEV3QS1rdkNuN2xMZHV3bDZiWmhOODRSUTNyX0hBSEFIS0VaM0ktbE9xOXNnVlhab1NkWDkwNFVLc9IBxgFBVV95cUxNdmRGQXJnTG5sUkpUeW03VnRTRVc3US1wRlVsVXZwTlYtaUoyYWQzRWNmdjNMWnNpQjIzVzZ2c1hsS0ttLXF1YmZsRS1VVWJpY1FpVDZqYmViSnFDOHRKb2ZYYlBnQl9iN2M0aHk0ZGpKeHREMWN3RlljUlZObVN0ZGt4NGlXQnRuOGx0NV9kTzd1bndEQnQ4a2RGaDRBeFZIOGsyblEwUkdjbUF6NEZtRVFleUxsLWUwcU00RWFHeFk1aTkxa1E?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-22T01:01:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Hormuz showdown? Cash-strapped Iran readies 14 tankers to break US blockade. What happens if they try? - Gulf News",
-      "title_id": "Pertarungan Hormuz? Iran yang kekurangan uang menyiapkan 14 kapal tanker untuk menerobos blokade AS. Apa jadinya jika mereka mencobanya? - Berita Teluk",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran strikes two tankers in an hour while transiting Strait of Hormuz - TradeWinds News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMldqZEpCTTE3WmswLXJpU3g2Umpic3lOODJKOFNxV0FfdHVpNTNMTFN2NU9TRmViOVpFLWREWm9OLVNUNnQ5VW9wMEVhclNmUFFnZ2RuRUJidmdqWkYzV29lUUZFTWMwU0xXY1pxX0phTUt6d0dVMVUzR1EyMzl1ZEVzSGdJNGJ2ck9DbDM2QzUtS1prV2NPNTlTTUNxbUt3SDdSS3IxdjZxZ3lkY0xZb1hjSTQ1d3laNVBMeA?oc=5",
-      "source": "TradeWinds News",
-      "published_utc": "2026-11-22T00:23:48+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran strikes two tankers in an hour while transiting Strait of Hormuz - TradeWinds News",
-      "title_id": "Iran menyerang dua kapal tanker dalam satu jam saat transit di Selat Hormuz - TradeWinds News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Strait of Hormuz Attacks Hit Highest Level Since U.S.-Israel-Iran War Began: how 17 outlets framed it - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLU15RFlwS2NabF9pUlVrN3MyOU9CYjFQWmZuMFYydWhHR3daQW1oaHFXSjNKcy1tVkMtbGI1bUZaWHpPUXkyaWZYRzlBb1NsZ3MtalV5Y0ZzR1doeXowb3ZWSUI4aDJKQU5PYXpMSWhVcDd6N0QyQjI4TzY4N0ZFY2pjRmxHd1ZuWGcxa2M1NURQbjVNY0N4NG00dlpWZF80ZXFXdnNQOU1GMVlEVkpJc3pEbTJVT3FTZkQ4U0ZpbVlDRXRfN1E?oc=5",
-      "source": "NewsCord",
-      "published_utc": "2026-11-21T23:23:08+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Strait of Hormuz Attacks Hit Highest Level Since U.S.-Israel-Iran War Began: how 17 outlets framed it - NewsCord",
-      "title_id": "Serangan Selat Hormuz Mencapai Tingkat Tertinggi Sejak Perang AS-Israel-Iran Dimulai: bagaimana 17 media membingkainya - NewsCord",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran launches attacks in Bahrain, Hormuz and moves against US blockade - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUJYOUdFdXlpMHE3RUhFVzFQTENEc2pUcEJ5WDZuckZlQjN1bF9aX055VUZUelpSSGVwT2dHLXFVQmR2Yk9IYUxPU1d0MlJhS2lWRDlWaTRleFZkeXlHTExaVTNTamZ0Y216QTJEVXpEYkdfN2pGN0xYSXZ5Y01Yb05FRE1qOVpXMW1yUWgtcEt2RVBzRURyOHJhRnZWcjNDbmh4aWI5RWE1ZDFVQW5UaTAwZFhmOVp0TEE?oc=5",
-      "source": "Euronews.com",
-      "published_utc": "2026-11-21T21:32:51+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran launches attacks in Bahrain, Hormuz and moves against US blockade - Euronews.com",
-      "title_id": "Iran melancarkan serangan di Bahrain, Hormuz dan bergerak melawan blokade AS - Euronews.com",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Oil Tankers Hit Near Strait of Hormuz as Farm Energy Risks Rise - AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2M4TWlQTVJRSFZkdTB3WEdLblQ3MU5lUXE1aWdHcFVOXzhFQ1ZBcC1PM0tSaGVDSjcwUW92RWl1anpnMHAwTXV5MmExaE9PZkZmb2p4MExTYnA0TElJYVRzSkdGdWdMbmFuaHpOZi1sQTZlZXdYMGd6ckhYZVZzWnJrVERWM0RpcFQ3ZndHb3JHS0lvX0sxcmlGQkktU0pa?oc=5",
-      "source": "AgroLatam",
-      "published_utc": "2026-11-21T21:09:04+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Oil Tankers Hit Near Strait of Hormuz as Farm Energy Risks Rise - AgroLatam",
-      "title_id": "Kapal Tanker Minyak Menghantam Selat Hormuz seiring Meningkatnya Risiko Energi Pertanian - AgroLatam",
       "translation_status": "translated"
     },
     {
@@ -883,28 +234,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rV0VMYi1lUFA3MTFvdG1tZzhnLThNMElNajh4eF82d2J3SDlXU3p1RlBzdTNGakFPaG42cmxuRjRWaXlCVGtkMV9HUU1BTEdKV19fZUgtUGM2QnJ2bUdTeXFpNnBrRGFWclE?oc=5",
-      "source": "The Jerusalem Post",
-      "published_utc": "2026-11-21T20:07:30+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran prepares oil tanker convoy to break US naval blockade, threatens Gulf facilities - report - The Jerusalem Post",
-      "title_id": "Iran mempersiapkan konvoi kapal tanker minyak untuk mematahkan blokade angkatan laut AS, mengancam fasilitas Teluk - lapor - The Jerusalem Post",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Why I braved flaming tankers to swim the Strait of Hormuz - The Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWROcGRiXzVaUHJFbGgzNVNjenRhTkdTWFl1ZDRVVEhqRWkwenlzaVE2bjYzbGFhcjF4dVQ5OGQwU1FwYjJQc0haMWVoN2VrVVM4VmFsNFpPMkd0cklKTnE5eWFGYjZ3SGlCUWpZWWs1NG9sZlBfS1JUUnJ6LXpsSlBtdkI0cGFHMkl2Rzh1bnlyX0lSNUNVM3NIQXJvZw?oc=5",
-      "source": "The Times",
-      "published_utc": "2026-11-21T20:00:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Why I braved flaming tankers to swim the Strait of Hormuz - The Times",
-      "title_id": "Mengapa saya menantang kapal tanker yang menyala-nyala untuk berenang di Selat Hormuz - The Times",
-      "translation_status": "translated"
-    },
-    {
       "title": "Iran’s Army Says Missile Damaged US F-16 Over Gulf, CENTCOM Denies - https://houseofsaud.com/",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MSlhZRVVEYzNCb2VONnBZcjFtcjJWMEJLOV9MNm5oTTlfTzVDOWI2U25vb3ZvTkJpY05SdW1oZVVxWmhnaWlPRXhOTVhoeWhoanpwdU1RbmxJT0dYVS1xV1V2cnQ3LUpo?oc=5",
       "source": "https://houseofsaud.com/",
@@ -913,50 +242,6 @@
       "verification": "unverified",
       "title_original": "Iran’s Army Says Missile Damaged US F-16 Over Gulf, CENTCOM Denies - https://houseofsaud.com/",
       "title_id": "Tentara Iran Mengatakan Rudal Merusak F-16 AS di Teluk, CENTCOM Bantah - https://houseofsaud.com/",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Hormuz tankers hit in apparent Iranian attacks as Qataris visit Tehran for mediation talks - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGliQ3BMSXMzTWJYZ25wa1NuRE5GQmVMOTRDWXZPajA3TDFtSHZNVXNRdVpweVJOb3JTSDRJZVZXTlZ2WDgwODc1SGpldGhjOGpuWlZrbFZKWWlNY3BaTktPMG5QV0UtSTlLRlpDeHdoZlVpWVBqZDRlUzlkWUVsWkRoVFN3MEFQTUxGOGQyQmtyOGZZOThDaU1OV3hWZl9tZEtBa08wZnRYZ1FZZjZ1REZOMktFdGVrYnYtQ1ZR?oc=5",
-      "source": "The Times of Israel",
-      "published_utc": "2026-11-21T19:30:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Hormuz tankers hit in apparent Iranian attacks as Qataris visit Tehran for mediation talks - The Times of Israel",
-      "title_id": "Kapal tanker Hormuz terkena serangan Iran saat warga Qatar mengunjungi Teheran untuk melakukan pembicaraan mediasi - The Times of Israel",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran Intensifies Military Activities in the Strait of Hormuz - WANA News Agency",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2Z1QjdtTVhrbnM2T3ZqZkplQmpzZ0xtR3lpdlNRMWZVd1dMUTNBNFdkVHN2ZFV6ZERUQkpPY3N1SldCMEhSOVdQWkpiekl4aFl1T21wcE1UVk9Vb3dzTjJra2NwZzd3NDNMRWNpc1Z1R19QZXVZbC1yOE1YUmtkTzc5QjJIUHc?oc=5",
-      "source": "WANA News Agency",
-      "published_utc": "2026-11-21T19:26:25+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran Intensifies Military Activities in the Strait of Hormuz - WANA News Agency",
-      "title_id": "Iran Intensifkan Aktivitas Militer di Selat Hormuz - Kantor Berita WANA",
-      "translation_status": "translated"
-    },
-    {
-      "title": "World news today: 2 tankers attacked as Iran shows launcher - DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NYUNqSEJHNHI5ZGxpWEVGTVFOYXdvV2VZS2Fod0lTMHZsQmZiY3RfWENHUzk2T0FYTlB3THhTbGtmMmxDcmxrWGpDWW9Qamh1TkxuZUxOQkJJQmJEa19idHlNMW5zUDFUSVpuZmVJc0NuNnNs?oc=5",
-      "source": "DNE Africa",
-      "published_utc": "2026-11-21T19:23:20+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "World news today: 2 tankers attacked as Iran shows launcher - DNE Africa",
-      "title_id": "Berita dunia hari ini: 2 kapal tanker diserang saat Iran menunjukkan peluncurnya - DNE Afrika",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0VzSEdkMFJlclR3UnhCVFVBa0dKWVF4SEd2Zzk3M0t1NW5GZWI4U2Q4T28xS1dtNXdVTl90VzJfQ0RCVE9rdENDWk93MHpTTGtzaU9lQ29BS2ZaVklnZzhMY2tYeTBhV3hnWlhNYmdWRE1yd0N5X1hELTNubmtiU2k4bXI5T3BHTGlONjRyajFsckY0MVZUSmFicWhQazBuM1dkRlU2OEI0MXpUWUZvM2tkVWpWUUxzR2U3TUJR?oc=5",
-      "source": "New York Post",
-      "published_utc": "2026-11-21T18:57:02+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes - New York Post",
-      "title_id": "Dua kapal tanker menyerang di Selat Hormuz saat kelompok garis keras menekan Trump untuk melanjutkan serangan terhadap Iran - New York Post",
       "translation_status": "translated"
     },
     {
@@ -971,25 +256,14 @@
       "translation_status": "translated"
     },
     {
-      "title": "Two Tankers Attacked in Strait of Hormuz - ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlBMMWpGOUdxanh0UVhPYU9sZ1NfQnVFcURuaFY2cHBXOGpoYmswZkx1U1BDNldzeVBCc0xtU01fRGk5OEg3LWc4bW5TdVVITkdFb3NsX2hyWXo2NGVULUlwZUhwMnU2SERXS2FlOE93QnRXOW15ZElvek1JUXNBWg?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "published_utc": "2026-11-21T18:03:57+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "Centcom Dismisses Iran’s Claim it Shot Down US Fighter Jet As Tankers Struck in Strait of Hormuz - Mediaite",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS3JlTzd0V0o2TF9oWmZZazI0b1VlOXVIZUk0bVkwM0hhYUVWVUExbDhsVFJKbklNazA4em41b0dUUWxVWjZzR3hndTR1SmNIOWNFdDVxel9VcUpMOTlqN3Vxbks5Nkx0WDFSNy01NVNZLUEwX0pueUpRUjhRN1c5MWIxZ182cjNQUnJjMUhkc3M2MGZCRmJNTjZHTzlkaVc3NHpOTzZ1aDg1S29uVUt3eURiam1mQkhKcS04ZkhXb0FFZlFIZ2F3M1BROEY?oc=5",
+      "source": "Mediaite",
+      "published_utc": "2026-11-21T18:27:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
-      "title_original": "Two Tankers Attacked in Strait of Hormuz - ASHARQ AL-AWSAT English",
-      "title_id": "Dua Kapal Tanker Diserang di Selat Hormuz - ASHARQ AL-AWSAT Bahasa Indonesia",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Who Swims Strait of Hormuz as Tankers Get Attacked? This Guy - Newser",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnB5NDVEbUd1eDlBTUJmVW8waW16MHZmLTYyNHlieV8yNjV0TllZRW8zaE5Lenc4MWZiLWJ3NlZoSWw0R1RyZmYzWTIxWjBTc2hpTmJ1RThfNFlQLVZXNHBCUDZOMk02c0Q4eFNob3Y1WmRvZTRtYi03YW05MzFOajlWZ1lkYndhaklVanN1eUFGb1BoeWp3Q3FtSE9Fd3JNd2c?oc=5",
-      "source": "Newser",
-      "published_utc": "2026-11-21T17:30:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Who Swims Strait of Hormuz as Tankers Get Attacked? This Guy - Newser",
-      "title_id": "Siapa yang Berenang di Selat Hormuz Saat Kapal Tanker Diserang? Orang Ini - Newser",
+      "title_original": "Centcom Dismisses Iran’s Claim it Shot Down US Fighter Jet As Tankers Struck in Strait of Hormuz - Mediaite",
+      "title_id": "Centcom Menolak Klaim Iran bahwa Mereka Menembak Jatuh Jet Tempur AS Saat Kapal Tanker Menyerang Selat Hormuz - Mediaite",
       "translation_status": "translated"
     },
     {
@@ -1004,37 +278,15 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran strikes 3 tankers as it shows off missile launchers - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQXp4dVpGeGlxVHNEZnRQQTZxTzlCNmlEc3EwTXp5Y0cxZUstd25tVTFsNG5FbE15bzF5WUpGb1hYNGQtQU4yR3dlRU13TGZ6S2sxMGxnZGVZTlFGb2NfaFVjVlBqSkNwVHpaXzJ5UTN0TlBodzJ2SGJhSy1ZRzBReFNzYVhVWXllYlA3NUZhc3o4bzFRa1JmVUNBT3FfQXotOElBelpQbXhqaUNlREtF?oc=5",
-      "source": "Los Angeles Times",
-      "published_utc": "2026-11-21T17:22:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "'Did not — at all': CENTCOM rubbishes Iran's claim that it hit a US F-16 over the Persian Gulf - WION",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWE42a2JKSGlCU0pxMnhpZWJSVnl4RDE3TDk3aFlzTWVtc000TEYwRF9qSThaQjc0OTZlYjBMZ0NZaWdPZUtDR0RUaWVlcF9lNzZfRHdqZlRLMUw2MldPUDI5ZHd6Sl93MG52V29YUHhQLUNJTlJBS0pnNXNPMVNhTENIRU1TVFJ2dDYwRlhHNjdkMXVTb2VQS3RrVmFWRmc5MVVUUnFoYlUzakR4WW5wRTJWRndVRC1qZ3BBWXM5YWVUSk54OWFPMS1ieDJnZ9IB0wFBVV95cUxPYmtYbVkyaUZLTWRwYlBJX1AxdFprMm5WMEJlbkhtOThiY1NrRWtGRlp0SFJaT2dFN3YwLU02OHh3b3lUZkp2TkJ2WHlvckpQYnRiLXQwSEhHX2pzUmUxZ1M3YVZ4NDJVZENyUVdNTGotd254bFRpckEyS0JmTXI1RTRDWnB1aGVMeFdtNU5tNUhYTjI2ZGhsajdtY3RUeUIwdU5rUmpwTzFfZGZjdWJIQkpZako3cHd6dGEyUHhjcUswaUJidjFYbGJtWlc0Y1JTblhN?oc=5",
+      "source": "WION",
+      "published_utc": "2026-11-21T17:04:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
-      "title_original": "Iran strikes 3 tankers as it shows off missile launchers - Los Angeles Times",
-      "title_id": "Iran menyerang 3 kapal tanker saat memamerkan peluncur rudal - Los Angeles Times",
+      "title_original": "'Did not — at all': CENTCOM rubbishes Iran's claim that it hit a US F-16 over the Persian Gulf - WION",
+      "title_id": "'Tidak — sama sekali': CENTCOM membantah klaim Iran bahwa mereka menabrakkan F-16 AS di Teluk Persia - WION",
       "translation_status": "translated"
-    },
-    {
-      "title": "Tankers Hit Near Oman Amid Murky Reports Around Strait of Hormuz - Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTRUWlBiNldoaDNuTzZpOFNBSnh0R1JBNEVkNXNyNm9WVnc4RUtxclhNMFdVbWZ5NlZkcHc0YWtBSjl0X0V5cmtfSzQ5WGxRNHR1bWhwV0wyMU4wOC1PZGhPdE9rM0trMUZqSm1zQ0ZSb0VnQlptMnIzTjhEWW5fS3JQN3VrU2FpeEhUVElid0ctZw?oc=5",
-      "source": "Briefs Finance",
-      "published_utc": "2026-11-21T17:15:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Tankers Hit Near Oman Amid Murky Reports Around Strait of Hormuz - Briefs Finance",
-      "title_id": "Kapal Tanker Menyerang Dekat Oman Di Tengah Laporan Keruh di Sekitar Selat Hormuz - Laporan Keuangan",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Gold Star families frustrated with Pentagon investigation into Iran drone strike that killed 6 soldiers - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFlHd1lLa29JeElZX3p5aXdWU1JQZU1mMmVvQndCb2lGbHNsaGJmV1ZyUjZBdEd3aG9XRUF1a1dyWkJxOGRvZnZJQ044Wm5jSmxBalBQbmJManAzdHZYaFBCczJncUdTdjh3V3FtUnF1UUpTbXdHZFVVc09XMWRKRlZqcjd0RUNsRV85eXRUMA?oc=5",
-      "source": "CBS News",
-      "published_utc": "2026-11-21T17:02:37+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "Gold Star families frustrated with Pentagon investigation into Iran drone strike that killed 6 soldiers - CBS News",
-      "title_id": "Gold Star families frustrated with Pentagon investigation into Iran drone strike that killed 6 soldiers - CBS News",
-      "translation_status": "unavailable"
     },
     {
       "title": "CENTCOM denies Iran's claim of striking US F-16 fighter jet - Apa.az",
@@ -1048,17 +300,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRX05leU91eDNOcGU0ZjVxQ0N2MVpwQ3lCZXFsNUVDcDlySkJ5RFZfLTR5QkwyUF91TzFkSDNpYTlPMzZTaFhfWmJ4TEpKTVAzTEJhNGVYRFltRmRMVDJfdUVpcFoyYnRRRGNEX3ZKRU96bjVxYjZEQ2V0WWFZOXhDb3dTT2FfTGpVTWtjX1JLeVpXUzN3OFlSdm5DdXJ1YzlHSnNJa3pjT0FDX3c?oc=5",
-      "source": "WSJ",
-      "published_utc": "2026-11-21T17:00:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ",
-      "title_id": "U.A.E. Apakah Mengangkut Minyak Melewati Iran dalam Operasi Hormuz yang Berisiko - WSJ",
-      "translation_status": "translated"
-    },
-    {
       "title": "Iran claims it struck US F-16 fighter jet over Gulf, CENTCOM denies attack - Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX1BnMmY1a0lFVG52SkhuSnRjYkdfcnVzYWtDSzVQajJuMDM1SUM3WGNhM3JENEhBYVV3QmplRW11QVA3TURoR25mQy13ZXBUR0YtUFBLaTVwbmNLcFZvTHBmVG5DT0dWWnBWNlBzVFJvUmR3RnJuMXJIeTFUZjBfV3J0YVZsQWtUYzhkVzVWbURlbVRKWFN2RTNiVFRvdjhoUzNMbE1UOWJNcTRrU004LWMtcFNwUmVvTVRPbjBMcXFsbVRnbHhaWTRR0gHPAUFVX3lxTFBIWUNsYkpQVTRFSUpsdExITFJYN3JjdHdLdkhLZkJsalplRm5TN29ybFJjbjVqUDF1Z0Fab25aYmhfcFlJZFJuRkdPZE9qNzJXN3M4QlZ2NFQxTkh5YU5WRkVOU1d5YkJvWU9zbDVXSzkySFRCeUVLTFN2a05laTNsTjNvUHI5RnpBSF84Z2J0WkhPVzFJYXZEaUZwUGFSWW4tZjB4d0JfeUIzWG96bWIzdG9LNDJZdjJnN3ZTQU1EajJpUk41OXVfdy1DeldCTQ?oc=5",
       "source": "Moneycontrol.com",
@@ -1067,17 +308,6 @@
       "verification": "unverified",
       "title_original": "Iran claims it struck US F-16 fighter jet over Gulf, CENTCOM denies attack - Moneycontrol.com",
       "title_id": "Iran mengklaim telah menyerang jet tempur F-16 AS di Teluk, CENTCOM menyangkal serangan tersebut - Moneycontrol.com",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Endurance Swimmer Lewis Pugh Swam the Strait of Hormuz as Tankers Were Attacked Nearby - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd19zb3ZIZWs0U0JuSnQ4eUdEZkFaOUZ0WF9wNmkzeDR3MTJvUDctaDN2Znk0ZTlzRXJMSTJpRjc1UjM1eEpSZW44ckJQU3VuZHhISDBwTlRuVUpUNzBCRzZGc2RVU0MyY09DYkY2TVMyU3lkQWJKTDhrSnlHeE92MUd5NA?oc=5",
-      "source": "AOL.com",
-      "published_utc": "2026-11-21T16:39:40+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Endurance Swimmer Lewis Pugh Swam the Strait of Hormuz as Tankers Were Attacked Nearby - AOL.com",
-      "title_id": "Perenang Ketahanan Lewis Pugh Berenang di Selat Hormuz saat Kapal Tanker Diserang di Sekitarnya - AOL.com",
       "translation_status": "translated"
     },
     {
@@ -1101,7 +331,780 @@
       "title_original": "Middle East war: 8 things UAE residents need to know tonight, November 21 - Gulf News",
       "title_id": "Perang Timur Tengah: 8 hal yang perlu diketahui warga UEA malam ini, 21 November - Gulf News",
       "translation_status": "translated"
+    },
+    {
+      "title": "US CENTCOM denies Iran’s claim of shooting down American F-16 fighter jet - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS085VkVEUVRoaFJTMnN1RmpHT25IOFoza0pESXNZN1U4RGpRbzRRX2UwNnh2N3d1RHFuVmxnNFFpbjBna0MtTTdlQ1FtUHRyb1lPdmFWYm9ndmRWbGUxeDU2V0VyeHdSaF9rMnlxbkM4T0FJWEVJajBIUkVDYl9rMnczRHZOZXpnWlhSVWJ0TTZoVWloSWxKbTl2ZlVXdW9QWXNyWlhwOUx3Wnd5U25GVw?oc=5",
+      "source": "Gulf Business",
+      "published_utc": "2026-11-21T15:39:04+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "US CENTCOM denies Iran’s claim of shooting down American F-16 fighter jet - Gulf Business",
+      "title_id": "CENTCOM AS membantah klaim Iran menembak jatuh jet tempur F-16 Amerika - Gulf Business",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran claims it hit an F-16; US denies report - Israel National News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFUVZvR0ZzUTlLVjZMckVvbWVveF9ZNG1rNlE2RnBjb2dLc0V1bGRBVHVfdTlEei1jaTVlTWp4amxUZ2NwU1EwVTB1UDBCVGFZejJQTnFJWjZXdw?oc=5",
+      "source": "Israel National News",
+      "published_utc": "2026-11-21T15:38:53+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Iran claims it hit an F-16; US denies report - Israel National News",
+      "title_id": "Iran mengklaim telah menyerang F-16; AS menyangkal laporan - Israel National News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "US denies Iran damaged its F-16 fighter jet - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVB6Rl9TUUlSd0pSb0dYNmcwUElETHRJTWE2SDhIVEJEclpCblB4NGc4Uk4xcEVteGlIOTRGS21tbTJFMjJTSTlPc3dYcXp4b05JUU9kcXAyOTcxM3YxLXdIaE5haVMtanJncmRJUlVwRjRycC1QampUZDFVN0tBMmZRb2pVdVJGRm9WQ05OQzFNZw?oc=5",
+      "source": "Breakingthenews.net",
+      "published_utc": "2026-11-21T15:25:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "US denies Iran damaged its F-16 fighter jet - Breakingthenews.net",
+      "title_id": "AS bantah Iran merusak jet tempur F-16 miliknya - Breakingthenews.net",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM denies Iranian claims of attack on F-16 - Al Arabiya English",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDVQVjFhRHF6aTVJbzlTOHN1cTZNRk4tbFFQSnpnYU5YTGFIejFtMVNRenFoQ1E4LUdVVDR5SXRJb0NlUk4tc24xaUNSQVZOVC03cGk5eGVTUlNaMXdtYTFac0FYTzJJNXBnejNZeXdGQlR4OVBqUW1sc0I4TzhTam5qOXlkTkN1RmZuV0FkeVpqd0dvUVI2UDFpaG01UndST0lKN2V3WdIBrAFBVV95cUxNRUdMZU5OcHFxelVNbFNoZUJneU9iLU82Q3Y2R1FEOHA5UnQyckNLRXNhYzlaYllqb1duSU1yc0VNZWpHa293SnU1NTZ3XzdaYl9YeFRPbUROUmgtcktuaklCcnplVFNHNnRFek9ZbG1IWFltcWNoNXVscGR3N3JqVmdscnBndGdNb0E1OVlVaGd3NTBpMTkwMTQ1R1NQMTg1ZFliN0E3dUo2N0R6?oc=5",
+      "source": "Al Arabiya English",
+      "published_utc": "2026-11-21T14:57:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM denies Iranian claims of attack on F-16 - Al Arabiya English",
+      "title_id": "CENTCOM membantah klaim Iran atas serangan terhadap F-16 - Al Arabiya English",
+      "translation_status": "translated"
+    },
+    {
+      "title": "🚫 CLAIM: Iran’s Islamic Revolutionary Guard Corps claims it targeted and damaged a U.S. F-16 fighter aircraft yesterday, forcing an emergency landing. This is FALSE. ✅ FACT: Iran did not attack a U.S. F-16 fighter aircraft yesterday — at all. All U.S. military fig - Forth.News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzd1JERU5ESXRQM2FsUExCVlFGbjV6eGpzcUt2cUlPd0IwTXBMbVZab1RyS0k3U2UyRjFEYnEzaU9pMzZiVFgzNmlwNnhONXgzSHF0S3FwT0djTDhyX1JrTGc5Z3lWb2xiWHc?oc=5",
+      "source": "Forth.News",
+      "published_utc": "2026-11-21T14:44:50+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "🚫 CLAIM: Iran’s Islamic Revolutionary Guard Corps claims it targeted and damaged a U.S. F-16 fighter aircraft yesterday, forcing an emergency landing. This is FALSE. ✅ FACT: Iran did not attack a U.S. F-16 fighter aircraft yesterday — at all. All U.S. military fig - Forth.News",
+      "title_id": "🚫 KLAIM: Korps Garda Revolusi Islam Iran mengklaim mereka menargetkan dan merusak pesawat tempur F-16 AS kemarin, sehingga memaksa pendaratan darurat. Ini SALAH. ✅ FAKTA: Iran tidak menyerang pesawat tempur F-16 AS kemarin — sama sekali. Semua ara militer AS - Forth.News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "US says Iran blockade reaches 130 days - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmprUW0yT3dGd2FKYmltSWxOUDZVTFV6em9fTVcxWVVQYTFKYzR2S1pQdzdKM1ZkblNQLVd4OEliMll1aklnWlNtX2p5eFVWT2F4OVQ3NEFzSTJaa1hoTkg1ZVVmUjctaFFPem1FQ0ZMSDdQNUNtei1tVHR5akVrWjA1dG5qTF9Xc0Y0?oc=5",
+      "source": "Breakingthenews.net",
+      "published_utc": "2026-11-21T13:55:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "US says Iran blockade reaches 130 days - Breakingthenews.net",
+      "title_id": "AS mengatakan blokade Iran mencapai 130 hari - Breakingthenews.net",
+      "translation_status": "translated"
+    },
+    {
+      "title": "US and Israeli Pressure Mounts on Trump to Resume Iran War... - Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjZCRmdjbU11Yk1QcTVRcGVKQnk5Z05LbTVpcUhJRkppOW10RHdtMDl0Y2VwQjZSeHc4VlBkWmFsUzN6bHdxSUo0OE00dEJQREVHb3QzajVncHJSUUV1QnI0VFVwTnlrUTFmdklqbFMwdXNQWGplNTE2WjBNeF9xSVhka1owYVM1Wl9FVmpvaFVMcGVIZllIYjlNVF9JaG9IdnQwQW8yT3JKZw?oc=5",
+      "source": "Jordan News",
+      "published_utc": "2026-11-21T13:20:26+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "US and Israeli Pressure Mounts on Trump to Resume Iran War... - Jordan News",
+      "title_id": "Tekanan AS dan Israel Meningkat pada Trump untuk Melanjutkan Perang Iran... - Jordan News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM Warns Trump Administration Iran Standoff Beyond December Could Erode US Readiness - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQkVVRlR1WFRzbU83dzBndERzSUxscW1WYmFDMVQ2Mk9LRjhYeS0yT0w3OGxoOUdLMVBoUmlfNFlBTXhKU2hOa2FtQ2RJNmE1eXlxemdDMnNCYlRvT1V2R1E0NDBjX3ZUM3BMTkFYRUIzN1U0TXpqSmNfNU5fSHNvYkFSby1pS05sNlVUUXdIT0RtNVZSbHBUWXl1TWdlLV9YZTlsOFQ4NkZxZVpKeTlGdHkyanY4MHBQZHVaZEtmY05IaDRxd3hUd2hla2JMekpWRzZzUUVucVRkbEVDeTM3elJCV0dlbHFH?oc=5",
+      "source": "NewsCord",
+      "published_utc": "2026-11-21T11:19:51+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM Warns Trump Administration Iran Standoff Beyond December Could Erode US Readiness - NewsCord",
+      "title_id": "CENTCOM Memperingatkan Kebuntuan Pemerintahan Trump di Iran Setelah Bulan Desember Dapat Mengikis Kesiapan AS - NewsCord",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Live - Bessent says Iran's leaders are panicking, vows to 'bury the head of the snake' - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-21T05:57:23+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Live - Bessent says Iran's leaders are panicking, vows to 'bury the head of the snake' - Iran International",
+      "title_id": "Live - Bessent mengatakan para pemimpin Iran panik dan bersumpah untuk 'mengubur kepala ular' - Iran International",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Trump weighs fresh Iran strikes as Centcom warns of force strain - report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3VvRzZPUnYxMU1mdUF4OFZTSTRZLWpJUzU0MmhoSmt4SmtIeFR3WVpXRll3bDB0VlZoSDE5b0dXLXJsV25XNWFzdFhnTl9OVTZJNEowbDZnTlpaUzVpckJRdVF5dklldkxiYXRabTktWWFhdkVNTHNRZk9YN0VldUZOQlJpSTNHSENjb1hsZ2FIVS15R1VfeUhGb3BzcFhzX29wMWU5Nkp5d193MlE?oc=5",
+      "source": "Seeking Alpha",
+      "published_utc": "2026-11-20T21:51:25+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Trump weighs fresh Iran strikes as Centcom warns of force strain - report - Seeking Alpha",
+      "title_id": "Trump mempertimbangkan serangan baru Iran ketika Centcom memperingatkan ketegangan kekuatan - laporan - Mencari Alpha",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Trump considering new Iran strikes as US military warns of strain on forces - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQ0hRcVQwczY2Q0dMRXNtM1IyTnU1VVFMM0haY1ZCTEFEb3VPTUpEN0NLejMxMm5zbE9MVmFuc2VSaGJzbl9vMEE3UGJ2bnFndlE3cmZmUUM4T25nNWo2aWNVcnJGVTdYeFl2NEpHaXQ?oc=5",
+      "source": "Financial Times",
+      "published_utc": "2026-11-20T20:19:49+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Trump considering new Iran strikes as US military warns of strain on forces - Financial Times",
+      "title_id": "Trump mempertimbangkan serangan baru terhadap Iran ketika militer AS memperingatkan adanya tekanan pada pasukan - Financial Times",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM shows US F-35 fighter jet refueling over Middle East - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQM3lJR1JqaFdhYThqenM2enhlSF92QWFOejFWQnRGZTAtaHZqbjVZSGI5Nlg0QTRjN05WQUVDQWlHc2FkbjRsUjU3RHZUQ0x2akE?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-20T18:22:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM shows US F-35 fighter jet refueling over Middle East - Iran International",
+      "title_id": "CENTCOM menunjukkan jet tempur F-35 AS sedang mengisi bahan bakar di Timur Tengah - Iran Internasional",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar’s Turkish Security Hedge Exposes the Limits of America’s Guarantee - Middle East Institute",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2kxMXBMRGZVSklRNEQzdG54TU42VmwyNHVIeUc4bU9iblB4SWlMRE9YTldmNko5bWFzZkZyTWlLazF3bWUxVjRjNVdybEs0eTEtNno5OE1RNlNWMndUVnhqWEFZVjloWkpKaUdkMnhZYzVuQXN6NktqcHo0WU4tRmhUV2wyYl9HOEM5SnpnTVV2MlhQTmtENFQzaVdNc1NU?oc=5",
+      "source": "Middle East Institute",
+      "published_utc": "2026-11-20T15:49:57+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar’s Turkish Security Hedge Exposes the Limits of America’s Guarantee - Middle East Institute",
+      "title_id": "Lindung Nilai Keamanan Turki Qatar Mengungkap Batasan Jaminan Amerika - Middle East Institute",
+      "translation_status": "translated"
+    },
+    {
+      "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUpfdWFVN1RtcXA2YUJqWXhOUGRsdnY3VGR1SnJBX20zUExFTnA5c3RYVWhudXktd1RmQm95c2dpUE04QXdiU2dIb3YxakQzeVctc1c5cDZRZlZWLThzSmFQVnZXelBjaF9BZU1tZUJScGdXWGZXdS05aHFoZHdBbzhMZVpncDgyeTFvUm1NRWxoYkRONHhjVVJ5NjZIeEZuZHFtREVtSHVuTllranJBY9IBtgFBVV95cUxQUDQwdHJ3VzRYcEZhNjNkdGM2X1VtRy10R1RRVmR1NEt1dFU5bzRvZGJiZXo5bjVENmdjUlgzLTJyVm1ZdUdORF82d0hSRTVvcURLeTA1UGJiUFRrbFJUWmliOUNzRXdCb3hpNDNvMm1RWF82ZWg1LW5WeFZVbzlGQm4zRmp1UWJWQzZFNzNVS2haaGpnQWsteXNqTHRaQ1ZLNGRXMWh5WUhVOVNPQzV1RnNyaTJ2Zw?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-11-20T13:27:05+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade? - Al Jazeera",
+      "title_id": "AS menargetkan transfer kapal-ke-kapal Iran: Bisakah Teheran mematahkan blokade? -Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Another Iran war looms – Netanyahu should explain what is at stake - The Jewish Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2FWcVpWbkxoQ2E5aWZ2NENCUWQxY3lGdjY0LUxNNnVvTFpsM010VXNVZ29NQ1ppekZRaVZ2blZQd2diVnhBTy1vcExnb1EyeGhmZVFkT1A4NW9hZnpqdThrN3YyVUc0Szh5WlRpanZ0d0VEN3BWZ2N2SmVpRlEwcXNGcWJkeW5ibjliOXIydnFHR1Fpa2lQa3dwbWNjUmRGeW50QmRR?oc=5",
+      "source": "The Jewish Chronicle",
+      "published_utc": "2026-11-20T09:18:16+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Another Iran war looms – Netanyahu should explain what is at stake - The Jewish Chronicle",
+      "title_id": "Perang Iran lainnya akan segera terjadi – Netanyahu harus menjelaskan apa yang dipertaruhkan - The Jewish Chronicle",
+      "translation_status": "translated"
+    },
+    {
+      "title": "U.S. Tightens Iran Blockade With Curbs on Oil Transfers at Sea, CENTCOM Advisory Shows - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2tNTTBXU3BlM0M4NUI5bEc4LUUxdVZQMUhlNVpQLTJuOTlha2JPSzViUTRVTEdiYXJCSW02Y19oVklaeEhCcGVELWppVWg5bnNYd2FXajk4REVzSk9JZUctcmR2b3ZyU3pnMXIyNzJnQzJ0QXIyZGVSOTFzMy1GQ0ZyY213bUhGNmw4SGItVVQzSUhVUkpWdlNXbGdHdlZadGY2UjBPb3hyN1ZZSUhxVzI4d0VrbXJTeFk5RFBPNFRvU2FZRXMwSVJKTlluMndtem1XZGJiME1DdEoyVTdzeg?oc=5",
+      "source": "Homeland Security Today",
+      "published_utc": "2026-11-20T08:00:33+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "U.S. Tightens Iran Blockade With Curbs on Oil Transfers at Sea, CENTCOM Advisory Shows - Homeland Security Today",
+      "title_id": "AS Memperketat Blokade Iran dengan Membatasi Pengiriman Minyak di Laut, Penasihat CENTCOM Menunjukkan - Keamanan Dalam Negeri Hari Ini",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Trump Delays Iran Strike Decision Past Year-End - https://houseofsaud.com/",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GWHBvVHh5eVR5cnNOZGFsSEY2NjJybUFtOXVCNE5YQkVfLVQ0bjBadnZJc3otaWdOc1FCenV6enkzYUJJRGJEc0g3eVhGUzhmN2pKaVhZNjJHWDQ4ZzhHejFRX2VWNHNDVXRMVllRUVMyQQ?oc=5",
+      "source": "https://houseofsaud.com/",
+      "published_utc": "2026-11-20T06:22:13+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Trump Delays Iran Strike Decision Past Year-End - https://houseofsaud.com/",
+      "title_id": "Trump Menunda Keputusan Serangan Iran Akhir Tahun Lalu - https://houseofsaud.com/",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM Chief Cooper Meets MBS in Riyadh for 3rd Time Since July - https://houseofsaud.com/",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OdVB6RUZlSDFVREZpUnBTTzNlTnpNMi14MFhGNmxyWEhtU0lJdVNMUXJQVU5kamVuc2hIYjlTVzh0bUFTZWdsdmt5U20xRjBOZ2NHTURCS0J4Y3loWUtsUmozU2V4b3M?oc=5",
+      "source": "https://houseofsaud.com/",
+      "published_utc": "2026-11-19T19:47:50+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM Chief Cooper Meets MBS in Riyadh for 3rd Time Since July - https://houseofsaud.com/",
+      "title_id": "Ketua CENTCOM Cooper Bertemu MBS di Riyadh untuk Ketiga Kalinya Sejak Juli - https://houseofsaud.com/",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Centcom chief visits Israel amid Iran tensions - The Jewish Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHcwTURFbFlVaUJJbUZKdndGdmY4MlpYaVFISGZYbFFGdVZHTzNMaTB0ZWZ4czJwd3NJWVBnTUNfMXJpMkE0VFZ4b0lna2JpNDQ4ZnRYZF9BWHVBLWM2eGFKbGFDdU16aG5GV3p5bzBUS0pTMEJ1WTgzU016ZkxBbnVyRm5wS21oeU5rQ3VWVQ?oc=5",
+      "source": "The Jewish Chronicle",
+      "published_utc": "2026-11-19T18:23:04+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Centcom chief visits Israel amid Iran tensions - The Jewish Chronicle",
+      "title_id": "Kepala Centcom mengunjungi Israel di tengah ketegangan Iran - The Jewish Chronicle",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar-Türkiye Defense Pact: Another Alliance After Iran War - Al-Akhbar English",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemtXcUFaS0xqdkx0NU9tdktEMF84YTFsVFZfQ3BaOWZ5ZE9YUDNFd3FFNG90WS0weDExLXZJQkxuTkVSNkNFaXRSSURCU3JBcjZCUEN5VHZOWThlZ1FpaWhYcmtmRXJvazZKYUpmcmNoLUFGUmFLSWdONjh0eDNHam9uSzBfU252V2tzZUxlcUtOWjVKSzltRA?oc=5",
+      "source": "Al-Akhbar English",
+      "published_utc": "2026-11-19T13:23:50+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar-Türkiye Defense Pact: Another Alliance After Iran War - Al-Akhbar English",
+      "title_id": "Pakta Pertahanan Qatar-Türkiye: Aliansi Lain Setelah Perang Iran - Al-Akhbar Bahasa Indonesia",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Pakistan, Qatar sign security cooperation agreement as both pursue US-Iran mediation - Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW9Ldlk4bXUtNjRJR0N4YXZFNWRJS0s1eFpzU3hUVVZIenZVY1F2TW1LZ0N5aFU1TldhaFVoN0dNSWpKV1BjUG50SzM0MGNma1ZJaWR2dTlwMmI2SF9idlNCQjJsQVhuR2ttWDlaWkFFejg4dmpHRUdwSV8yaFdTNnZzbFg4RjN0eHpxc2hwRm1hNGxhQVR1RjE1TUFxRGdQQV9NLWs0bXFfTWRTRXRqa1lCc25MeU52T0c3YVphTTE0Zw?oc=5",
+      "source": "Arab News PK",
+      "published_utc": "2026-11-19T12:01:30+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Pakistan, Qatar sign security cooperation agreement as both pursue US-Iran mediation - Arab News PK",
+      "title_id": "Pakistan dan Qatar menandatangani perjanjian kerja sama keamanan saat keduanya mengupayakan mediasi AS-Iran - Arab News PK",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM chief in Israel following US, Iran strikes in Gulf - The New Arab",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnZmYzJGNUNhRGMxLUFkVkc5TUFOZUZfSlMwR0NyRE1QeVdDVi11UU1nc3djWlBxVGpVRTRONWttelRyeHFtUEc3OTFOLXJmNXdoS1pyRkkzdWVYME5sQWRQTHNlaW9Db1UyUEtPRU5WaEVtV0FrUFdLTFRwR2ZuU3VrcjNaZFXSAYwBQVVfeXFMT3UyUU1Kay1wZFl6OWZPaEh2Sm5CMEp5Zks5bUxnamxuSnJER011bnZpNkRkSUk3TTF4Mm5YZFlUZ0lwU1NYVGxqbmRkQWRlaGVaLW91elA4SWRVNHRxQ2w2Y2ZZaTBvSlhWRkp5cG9SYVNVbmRUQUh5UU9Qc2N0dzVWN0Fyb2txODJyakc?oc=5",
+      "source": "The New Arab",
+      "published_utc": "2026-11-19T00:01:31+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM chief in Israel following US, Iran strikes in Gulf - The New Arab",
+      "title_id": "Kepala CENTCOM di Israel mengikuti AS, Iran menyerang di Teluk - The New Arab",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Tanker hit by unknown projectile near Oman in latest Hormuz attack - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmdhTDBxR2xVLXdReDQ1SU13cWc5cHhsRFVtY1lpVzJPTWQ4ZmdvajlJazVVd3lFWUlQSjBMaDNfNk5aa1RvbUl6ZzZDdkdNNWVsSEpUWkwtN3d5SEhYSUZDWDJlZzE2OXplb2dRSnk4QXNVZWtOY21UazVXUTE5TUlrZGhpdU5WNFRpV2lkZlFwUTZwT1ZDTEV1S3hJNlJYLThESV9FOEY4MHRLSXdKV3NWdW5lZ9IBywFBVV95cUxPMVRiamZQeTJTbGVxbmxPNi1GbW1kNlhyOGF5R296Q1JjLU5KQVVQbTVScXhXWDBaZ0hhTGJpQzJwMWdxbkM4VGJQN216eHdueUZURU9fMEdjV3JVZF9Bc05OaG45amRFVmQxVG5PSGFqcE02bDh1eWhPaERPQ0R2NnFlTmZGV3hjWGFKNHBqU251X3EwRDA3MVQzTllBWDIwODc5Vl9rT3pidGN6Mm9GOG04enhCOV9ObGU2ZEtaaXV0UGtSakZCdk9Ucw?oc=5",
+      "source": "Gulf News",
+      "published_utc": "2026-11-18T23:55:55+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "Tanker hit by unknown projectile near Oman in latest Hormuz attack - Gulf News",
+      "title_id": "Kapal tanker terkena proyektil tak dikenal di dekat Oman dalam serangan Hormuz terbaru - Gulf News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM chief visits Israel as Netanyahu pushes new Iran strikes: What to know - Al-Monitor",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHNMdkF2Y2VnZk1UdGFJemN5YnJpbXM0RXJOUElxcmh3MHl1UERxVG9HRE1hV3MzSnlEOEYtVXNDQ1ptdkF5RnV4TGZvTFFxTnhYOUZubjhWb2h0d1ZYM1liWXp2eUhUVUZtbkdub0VhbG5sMEMtWE5ZT2VublVvRnZNM2QxWFdtN29sOHZUcjZZZWdGaVhhZHJ3SkkzZnZlaVlodFk1SXlRUEZabHNHREdMa1pnajg?oc=5",
+      "source": "Al-Monitor",
+      "published_utc": "2026-11-18T19:48:53+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM chief visits Israel as Netanyahu pushes new Iran strikes: What to know - Al-Monitor",
+      "title_id": "Kepala CENTCOM mengunjungi Israel saat Netanyahu mendorong serangan baru ke Iran: Apa yang perlu diketahui - Al-Monitor",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM chief visits Israel as IDF prepares for renewed war with Iran, awaits Trump's decision - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80SlU1QlRTVWwyRlRjMHhEcXVXdUhRODYybUYwaWkwQTJfYlFqRm8xd3JLV1VKNUpFN1VkbDNEWHgtQUMyMXdaZHFrTVU1OXdSc29Kc2VR?oc=5",
+      "source": "Ynetnews",
+      "published_utc": "2026-11-18T17:56:21+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM chief visits Israel as IDF prepares for renewed war with Iran, awaits Trump's decision - Ynetnews",
+      "title_id": "Kepala CENTCOM mengunjungi Israel saat IDF bersiap menghadapi perang baru dengan Iran, menunggu keputusan Trump - Ynetnews",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM's Cooper, IDF's Eyal Zamir, Mossad's Gofman meet amid Iran tensions - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yTnFCakd1bUVLUUFTNzJDZzMtQkt1d3RoWGNmWHZxVXJKOGVkVXkycU9pdmg0TGdHbFg1WnF3ajV1YVJmaFVmUDBLVXZGaDRteV83VXlIdkEwZnJma0dtRk03QkpVcEEyMWxKbmlR?oc=5",
+      "source": "The Jerusalem Post",
+      "published_utc": "2026-11-18T17:45:27+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM's Cooper, IDF's Eyal Zamir, Mossad's Gofman meet amid Iran tensions - The Jerusalem Post",
+      "title_id": "Cooper dari CENTCOM, Eyal Zamir dari IDF, dan Gofman dari Mossad bertemu di tengah ketegangan Iran - The Jerusalem Post",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM: US Strikes Iran Missile Targets as Trump Pledges to Raise Iran Issue with Chinese, Russian Leaders - CBN.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0xwM0NlSG5tMFJjT1Z1RktBekxpRjJ5SlNwVjEwZTVBQlJJMjRQbURsTUpyWXhaUG1oem1sdUtaLUJGZHQ3U3ZTR29McnJIRlNtalYxS1ZzcGVoWlBxMXR0dlZNNHlncHV1QmdSV1ZqU1hDd1QteTdEUmozZElMX2pHQjhRRm5vekpHRlp0SWl0QVBHRjdlSTFzM3lkUlpJYy13QmgwX1JVVjdRSWs4ZV90ODM?oc=5",
+      "source": "CBN.com",
+      "published_utc": "2026-11-18T10:35:22+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM: US Strikes Iran Missile Targets as Trump Pledges to Raise Iran Issue with Chinese, Russian Leaders - CBN.com",
+      "title_id": "CENTCOM: AS Menyerang Target Rudal Iran saat Trump Berjanji Angkat Masalah Iran dengan Pemimpin Tiongkok dan Rusia - CBN.com",
+      "translation_status": "translated"
+    },
+    {
+      "title": "UKMTO: Naval incident in Gulf of Aden near Yemen - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHFyN0ktSkJPSVluaWRYYjNra2tCT3RlMXpTNjFoSGdwaHZZdE5UeU5FYWNWS2lMZnpqcG9lVUNUOEFENlpmbmo3Z3VVaUpDMDgxSmxjNkx5YTJLMkFLVEMwbEdDWjdWc083M3BwUEJlZ3FFWDk1bVRrb0IwSm13aTRvOGhLNVdkOHdVeXFUOHg5aUN1SEFiNw?oc=5",
+      "source": "Breakingthenews.net",
+      "published_utc": "2026-11-17T16:05:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "UKMTO: Naval incident in Gulf of Aden near Yemen - Breakingthenews.net",
+      "title_id": "UKMTO: Insiden angkatan laut di Teluk Aden dekat Yaman - Breakingthenews.net",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran launches new Bahrain attacks just days after F1 commits to Qatar and Abu Dhabi finales - Grande Prêmio",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPay1OcHpWUVN5VFBWc0xlLTRSODdkV0N2NjhLS3F2bndzOXVScFpzWGRqckRaMjdsLTQ0djdjZDlhd0k4VU8xZEdYRkRnakNWaXd1MlVxT0NTNVF5NWpqQ0ZsT0V3bHJ3a2tQOEpNOHdGZWxIOEhVV3R3clZ6cklJTHR6ek5TbU1VN2VPVElMTGdWZWR5QThOb04zaGg1Q2dxRld3c3lwVklfc2JycGdfck82NG8xV29TbExYclduTjgyQWpwTlE?oc=5",
+      "source": "Grande Prêmio",
+      "published_utc": "2026-11-15T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Iran launches new Bahrain attacks just days after F1 commits to Qatar and Abu Dhabi finales - Grande Prêmio",
+      "title_id": "Iran melancarkan serangan baru ke Bahrain hanya beberapa hari setelah F1 berkomitmen pada final Qatar dan Abu Dhabi - Grande Prêmio",
+      "translation_status": "translated"
+    },
+    {
+      "title": "How President Trump’s Iran war comments, Qatar meeting impact the FIBA World Cup - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnBWc3RkbW4tZXBaejhYRHh4eFozQnpqWkduX2dYeGQ5OEtURW9PcXdQZjZPSkYwV2QzU25naUxseEJWRkRqQ0IxYnE3SzBhWHZxWUdablM5emw3bnFUaU5zRVVQT2FJOWhhOTJqbHNuUGtUcjFkYVZWWlJnY0xjYW1FVEtwbjcxN2FhSlhBN3JfeTl1MmlldHhHbk45a2NsdTgyR0dTMA?oc=5",
+      "source": "The New York Times",
+      "published_utc": "2026-11-11T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "How President Trump’s Iran war comments, Qatar meeting impact the FIBA World Cup - The Athletic - The New York Times",
+      "title_id": "Bagaimana komentar Presiden Trump tentang perang Iran dan pertemuan Qatar berdampak pada Piala Dunia FIBA ​​- The Athletic - The New York Times",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar intensifies U.S.-Iran peace efforts as Gulf security fears persist - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDdWZ1Q2blBmdmtCQW5nbzlKb0tKS2pVZkRudmVsLVdvWjVzQ1phTmpzQUVpN2tNMUxxVEZ6YXlFVmdhdGVuM1dZNXd3YTBsTGtRem1qbVNNWTJGOG5PZUVDOWpzQ3YzNGhmSFZ5b1VrMjJBMkwxbGVyaFRzV2ZZWEdXRUl6UjNJU3gtaFB2bm43MkRh?oc=5",
+      "source": "Fortune",
+      "published_utc": "2026-11-11T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar intensifies U.S.-Iran peace efforts as Gulf security fears persist - Fortune",
+      "title_id": "Qatar mengintensifkan upaya perdamaian AS-Iran ketika kekhawatiran keamanan Teluk masih ada – Fortune",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran’s security chief: US claims of Qatar talks ‘pure lie,’ meant to lower oil prices - خبرگزاری بین المللی قدس",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0FLLUVVTzBSdF9waXFsVkhIcWh3VVhUOV9POWtoN256ak1LLTNiWWdhTmdvaWwwdkpRWmo1VFU3aXdpYlZQX01VRkVreVp5WHNUaDNjS296MVUzNjgtOVZpS1BlZU9KX201ZC1sR3RXdVRUVVFsOEtncXJOTm1haDBqMjVWUEhnemVYeHY4dWtEZzRMeGRBcXBrVTVvSTBMSi03SzFGd3dWZUJIeFJ5X1JDejlYTmZ6b01VQlkySjc3OUV1YW9SS2lnX2ZseDR6Y1dOX3RR?oc=5",
+      "source": "خبرگزاری بین المللی قدس",
+      "published_utc": "2026-11-11T06:32:41+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Iran’s security chief: US claims of Qatar talks ‘pure lie,’ meant to lower oil prices - خبرگزاری بین المللی قدس",
+      "title_id": "Kepala Keamanan Iran: Klaim AS mengenai pembicaraan Qatar 'kebohongan murni', dimaksudkan untuk menurunkan harga minyak - Kantor Berita Internasional Quds",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran denies ongoing talks with US, planned meeting in Qatar - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTdGWEtfV2RTc3lPaVRKT3d6ZFB6T1NwQXBZNUc5M2xsTVJTTW1DWEUxNTF6Z0hFMTRhNi1SV21VRUoybmZLUjNNSDlRQnU4dm5sQ3J4TnEyd1NmekgtQ2ktOTlJZ0F2SFFnTklvTXdfMTE3X1dyX3FfU1Y5WUhiSjJQY3k3OERfRGdUcGdLYTRacXFPcjFzNGlnZkwtd1FqanNz?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_utc": "2026-11-10T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Iran denies ongoing talks with US, planned meeting in Qatar - Anadolu Ajansı",
+      "title_id": "Iran menyangkal pembicaraan yang sedang berlangsung dengan AS, rencana pertemuan di Qatar - Anadolu Ajansı",
+      "translation_status": "translated"
+    },
+    {
+      "title": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz - gCaptain",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2x6eGtJcW9sblp3bU9KUkZpdFprRl93NXMyVGdKc0p1NS1EbW1Bd01Hek90NUdCTjdYT3pXdFZZc1pXMlN6enNnOUgxVGp1aUxObW02eWJ0M08xem56M2tpcXhYOFMtVkZ0SUNjako3RE40M1ludWczOGhNVXBvRUY3WHpfN3pPOVVfOG0wdmY4R01qVlZHSWtCSGszU0FGMi1LRDJZUUp1QQ?oc=5",
+      "source": "gCaptain",
+      "published_utc": "2026-11-10T08:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "ADNOC Vessel Damaged in Gulf Attack as UKMTO Reports Fresh Tanker Strike Near Hormuz - gCaptain",
+      "title_id": "Kapal ADNOC Rusak Akibat Serangan Teluk Saat UKMTO Melaporkan Serangan Baru Kapal Tanker Dekat Hormuz - gCaptain",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar takes Iran mediation to Trump as regional peace efforts gather pace - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04U0t5Q1FZaUgzQkRVTG96UGk1a3BhR1QzVzdITXFOMU5PRG9NRDU5V20yQjd1MWhVWGY4bEpFTzUydWlmVE1kMFhZUS1EUjM5NkE?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-09T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar takes Iran mediation to Trump as regional peace efforts gather pace - Iran International",
+      "title_id": "Qatar melakukan mediasi Iran terhadap Trump ketika upaya perdamaian regional semakin cepat - Iran International",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Bulk carrier, military forces involved in latest Gulf of Oman incident, UKMTO says - アラブニュース",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWd5MzZHd293bDR0LVhFNXRyOEZDYzFJUTNnTXhtZUVzb215dFhiUEIxVHlJNUJzOG90TXQ2MlRTSldwTk1BSU5Bek12d2MwMjNFVm1TUHg5ZWtGRDYzWThNdVJjdHNydUVQNFR3cDR5aVpYcHlQaWJxWk5WRHREQWJLbFQwNURJRjdtRUlSRGFJSWc1YmNLLUFuUXhaTERHb0tnSXRvX2VyREpoN0FIOGJoenlDRzBqaWtCRDg0OWNOa0NpYmc?oc=5",
+      "source": "アラブニュース",
+      "published_utc": "2026-11-08T08:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "Bulk carrier, military forces involved in latest Gulf of Oman incident, UKMTO says - アラブニュース",
+      "title_id": "Kapal induk curah, pasukan militer terlibat dalam insiden terbaru di Teluk Oman, kata UKMTO - Arab News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "UKMTO Reports Incident Involving Bulk Carrier And Military Forces East Of Khorfakkan: how 5 outlets split - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdF9JU2VBMnl6OC02VjRybzNIMzVQZ0hlMWd1Zk93NndjdXI5WHpUY3U4cnZqUjZJVFRZSDl6dG4xMVlJODkxdFNPQlQ3alZYcEN5VGgzdlU0Q1RWUFVHcVpWVWhuTGhFYzRDdmVzVHlzdTVSTUExTWZVcklENXFLYXl1eXloVmdubUtSajZPTVNfS3JoSWkxQWlYLVNXcWpqTG40b3RiTjNjQnpiQ2FHQWJFMlNsTlYwdFZETTZCZlJQN3psMHl1a0JfUWptNHRCaUMxMXJUVTNCbmUyNEd5MnJZTjhfa2VGUWc?oc=5",
+      "source": "NewsCord",
+      "published_utc": "2026-11-08T08:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "UKMTO Reports Incident Involving Bulk Carrier And Military Forces East Of Khorfakkan: how 5 outlets split - NewsCord",
+      "title_id": "UKMTO Laporkan Insiden yang Melibatkan Pengangkut Massal dan Pasukan Militer di Timur Khorfakkan: bagaimana 5 gerai terpecah - NewsCord",
+      "translation_status": "translated"
+    },
+    {
+      "title": "UKMTO reports incident involving bulk carrier and military forces off UAE coast - ABNA English",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGN0N1RuU3dUTV9xZzBDSXk1UVhzZVowNlJCZ2FRemdwZ1NpNTFYRXNWM0prYXZOaVNTZ3c2UHV3Q1RIMmpCRHo2TC1pTHM3MjFONHVidmY0WlFmYm1LQkxSMDc4T3JraE9oMWpSbDBJUHUxY3AyZlY3ZXVyY0xURUVtY1gyU0w2dE4tTkVhMGJaelRKajRBazBiVG9jVmxRY2c?oc=5",
+      "source": "ABNA English",
+      "published_utc": "2026-11-08T08:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "UKMTO reports incident involving bulk carrier and military forces off UAE coast - ABNA English",
+      "title_id": "UKMTO melaporkan insiden yang melibatkan kapal curah dan pasukan militer di lepas pantai UEA - ABNA English",
+      "translation_status": "translated"
+    },
+    {
+      "title": "U.S. Central Command Media | Official Photos and Videos - Central Command (CENTCOM) (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8zSldiNktYS3ZEX2VabGQ0aDQ0aU1vcy1uaW8wbjJ2TnY4R2NIcTRlRnJqLUV1Tzk2R25MY29IbFF5ZldJ?oc=5",
+      "source": "Central Command (CENTCOM) (.mil)",
+      "published_utc": "2026-11-07T08:00:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "U.S. Central Command Media | Official Photos and Videos - Central Command (CENTCOM) (.mil)",
+      "title_id": "Media Komando Pusat AS | Foto dan Video Resmi - Komando Pusat (CENTCOM) (.mil)",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments - Central Command (CENTCOM) (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYkw0c2xJSUhHdGE0dWFDTUlxc2toODYzUWFuN1Y1aGpSVGJ3akJQYU1SUkZKR095eHhvNy1zNkdVamdUeTVyeVVKZlpmNlEtQXoxcTZDWENzRDZ4Z2NLcGlsZXhOaXBJbzBoeWFzYzVtN3A4bTZpX3k4eTVTWjFFN0M2YzlfdUp2WnZBV0RoUHdkTkpvYVZzR1o3d3RZZENBd3gzX0JtY25QWTNfd19jMTZ6QmRKN1l4MlI1NGdEY3kwWWc1RnN0dmVhLUFDRjZJamQwbi1qUmM2UQ?oc=5",
+      "source": "Central Command (CENTCOM) (.mil)",
+      "published_utc": "2026-11-07T08:00:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments - Central Command (CENTCOM) (.mil)",
+      "title_id": "CENTCOM Meluncurkan Satuan Tugas untuk Mengganggu Rute Transit Darat Iran yang Mendukung Pengiriman Ilegal - Komando Pusat (CENTCOM) (.mil)",
+      "translation_status": "translated"
+    },
+    {
+      "title": "U.S. Central Command Video Gallery - Central Command (CENTCOM) (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdUZpaEJ4VVFlR0lXZEx4Sk83c2RnN2hWVnl2WTZfaHo5MWNURElXQUVHd1VTS1lDMGtIOGhPZ2dPS2h5ZXlSWElqRndEV1RuWjJMNXZxaTdyUUJEVGdtQlIxV212UQ?oc=5",
+      "source": "Central Command (CENTCOM) (.mil)",
+      "published_utc": "2026-11-07T08:00:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "U.S. Central Command Video Gallery - Central Command (CENTCOM) (.mil)",
+      "title_id": "Galeri Video Komando Pusat A.S. - Komando Pusat (CENTCOM) (.mil)",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Security Alert: U.S. Embassy Doha – November 7, 2026 - U.S. Embassy Doha – Qatar (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ySF93VGt1ZENiVDROa2ltTzZUMnVnSkVnemNJZzlfWjJqRGdyaUxtbGM3OGlHME9qcGpOTzZsREVzb3U5ajhHcDM4ZUNVT3pOczhpVmx5Q0I5dExZaDBGZUdrR3Z3c0dZaWpwZ29hMUh5akZtRjRMeWdCdzRkQQ?oc=5",
+      "source": "U.S. Embassy Doha – Qatar (.gov)",
+      "published_utc": "2026-11-07T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Security Alert: U.S. Embassy Doha – November 7, 2026 - U.S. Embassy Doha – Qatar (.gov)",
+      "title_id": "Peringatan Keamanan: Kedutaan Besar AS di Doha – 7 November 2026 - Kedutaan Besar AS di Doha – Qatar (.gov)",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Bulk carrier and military forces involved in Gulf of Oman incident: UKMTO - Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPall0VFBlZEttLW92R3VZeVc3UW9HaGtnbGVIVEpyWGxEcGxaRkRMMXhPTzhVNDBqZ2llbkVLelYyR0llU2tjR09uTmlvbWg2dDNzdk9FMDJCemRWTG8zTlZ3ekpFUW1ITHk2YTlOZjl4VVpaYzZnQU5xS1dtX1FyUnFXTEtxM0VEc2xQYVJPanZsbjBhYUVwSC1wUHNkUU9RdEhJOFdTbkJETWEwMXluZUxOaW85dS11blN0YTBzLU4?oc=5",
+      "source": "Middle East Eye",
+      "published_utc": "2026-11-07T08:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "Bulk carrier and military forces involved in Gulf of Oman incident: UKMTO - Middle East Eye",
+      "title_id": "Kapal induk massal dan pasukan militer yang terlibat dalam insiden Teluk Oman: UKMTO - Middle East Eye",
+      "translation_status": "translated"
+    },
+    {
+      "title": "UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf - Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUHVyQ19HZ1F6UmpoRDY5Z0x5M3IxaVhuMDY0NXpoanRBcmFEODluM2l1VVRnc01WOGVHZjJiV3NlSFFRYkRYZXpuQ3JYa1pjSjVpblB2N1ZpQTRDYU0zQ1NZdHVFTll3dV9IQlotRGhGZ2lILXp2a0ZVbXZqN04tZmJWblRiUkIzZFRjM2lvZEdBTFkxNHkxTUs3UXM5by1SNEx3dUFxai04dG5ISWFuMDJhM2hDRTQ?oc=5",
+      "source": "Middle East Eye",
+      "published_utc": "2026-11-07T08:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "UKMTO says 11 ships attacked in week to 4 Nov in Hormuz, Arabian Gulf - Middle East Eye",
+      "title_id": "UKMTO mengatakan 11 kapal diserang dalam seminggu hingga 4 November di Hormuz, Teluk Arab - Middle East Eye",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Hormuz attacks rise as Iran steps up pressure on shipping, UKMTO warns - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEhLcXhyaEwzclJBZ3dWQXVMT0ZfeWJxNmNLTzBjTzB5R2V2U1RIeTRQMFRDbmdXTE9QWXE0U1hhMDc3T3N0TUpqdzZvcmFubkI2UTdYT1pQOHNMOXFpeFFYTE1nRUNCeEExeFlka0oxakpGanhPMlJaNGYzSXRZVC0wN1FWRVdtZjBkb2FVNlZuSTB0YWU3RHpnMXAySkt3S0VNMzVSUG9EUlptd05Wc2Z0WFhvVFV6OUHSAcwBQVVfeXFMTkNobHFaMm05b3JxNklZanBRTmVYU1kyanZyUkpORThWVnN0QzJBR2JfcFMtVW1lOG1qYi15VFZCZmdEOEh5UC03TlpNbXRSdkZVekJ4ODZnTi1wWUNVWFFKY3F0djBPMUZTSFo5VU9rdW1WYmVLSzRWaDB6MUV1UFJ1M2JsNlNiai1wSXNPWEVyNDVFb2ltWjliOVotc2RaYThyTUtxNlRFOXNGNjBQQzQ4TE9iTEhMTVEzN1hwT3UxNVZhR3JYMUlTb3ZI?oc=5",
+      "source": "Gulf News",
+      "published_utc": "2026-11-06T08:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "Hormuz attacks rise as Iran steps up pressure on shipping, UKMTO warns - Gulf News",
+      "title_id": "Serangan Hormuz meningkat seiring Iran meningkatkan tekanan terhadap pengiriman barang, UKMTO memperingatkan - Gulf News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar, Saudi Arabia and Kuwait discuss regional de-escalation, maritime security - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FZ0FwSGRrNDNrR1JtMkNiUlBCUktJdkwzbWpld3VoRU9ZWkxaY2JVYkd3VEw3eklnT3VFdmpSUFlsbzZKZFBtR1RKQ29CT1VjbVE?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-04T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar, Saudi Arabia and Kuwait discuss regional de-escalation, maritime security - Iran International",
+      "title_id": "Qatar, Arab Saudi dan Kuwait membahas de-eskalasi regional dan keamanan maritim - Iran International",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran seeks Gulf security pact without foreign military presence, Araghchi says - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QUDlQWXBfaDA0TElmd2FGN2h0aEdVRFVScXNHWUp0eTRKYTJtVE91V2dXNlZOUERUallyZFJfclFVZktuU09tZVZaNzZQeks2Y3pOY0JDbnQ?oc=5",
+      "source": "TRT World",
+      "published_utc": "2026-11-03T09:21:59+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Iran seeks Gulf security pact without foreign military presence, Araghchi says - TRT World",
+      "title_id": "Iran mengupayakan pakta keamanan Teluk tanpa kehadiran militer asing, kata Araghchi - TRT World",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Ali Abdollahi Sets Five Conditions for Iran’s Roadmap to Lasting Security: 7 outlets compared - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlZxZy1aZVhXSTNWTHE3Ry11SkI1OFQzOWhuampZVW52WmdEMFBLOTczYVV1dFRQdm9pVkNKWGxwVi1hVHFMSDhPQ1FSOEVCNF9VeTJWWnNJVUhQdWt2dGI4dG1YS3ZtaVVWMjM0SmpJVVdZRmlzbkZKT3FlcEF0TlpYMTliQzIwbXJhYVN3eVF6bGlkbGdHUTE2aXR3ZWVUYXo0bGlfNVhFd2toT1FZNXdOUGREOW0wSzNkY2F4M1FhSFhH?oc=5",
+      "source": "NewsCord",
+      "published_utc": "2026-11-03T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Ali Abdollahi Sets Five Conditions for Iran’s Roadmap to Lasting Security: 7 outlets compared - NewsCord",
+      "title_id": "Ali Abdollahi Tetapkan Lima Syarat untuk Peta Jalan Iran Menuju Keamanan Abadi: dibandingkan dengan 7 outlet - NewsCord",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran exempts ships from India, China, Iraq, Qatar from Hormuz transit restrictions: Lawmaker - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDRKUmdWclVhZlpLVnFCNlJvSkl0NHJXVHJkQXQtWkdYNWtRMnBjRkRlT1Q4NlRlUTlSa3Y5eEU4LUFqNEZla1J6QXlRTlg3TGpickMtUGNRR1o4dkYtTml0Qzl2YW00UGVoZEo1NXNDZ3V5a045RXEzeU8yamVpLWptNFRnaVhvZEpsN1RGVHZyT3gwQ08zenJILUppY1JtZFRjQTV5TUJIVUlfbXhfYlhQSVpTVzJRM0pESHJVYnZBQ245MGM3M1FkQktIUQ?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_utc": "2026-11-03T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Iran exempts ships from India, China, Iraq, Qatar from Hormuz transit restrictions: Lawmaker - Anadolu Ajansı",
+      "title_id": "Iran mengecualikan kapal dari India, Tiongkok, Irak, Qatar dari pembatasan transit Hormuz: Anggota Parlemen - Anadolu Ajansı",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran-linked agency lists hotels used by F1 and MotoGP teams as potential targets - Grande Prêmio",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHZMOWJVcXMwUXJZR0hTSXRrY1RUNXFLcVpJaF80RzB3S0d6QzJGa3p6UTBrVjZKNlFMODdjZC04Qk9nN2FhWFFnbDBCNHllYnRPcGM3WTZMUnlhTHRJT013OFFzSkFzX3lVR1AtYXpNaWNBM1Z6WXd5NnlQNzVVNFYzQVBvYkNRbEVIR05sbm4tYjdqUDN2ZDZSZWNvWDZ1SEg4Z2NWU1RjMEtXZ1ZQQVBn?oc=5",
+      "source": "Grande Prêmio",
+      "published_utc": "2026-11-03T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Iran-linked agency lists hotels used by F1 and MotoGP teams as potential targets - Grande Prêmio",
+      "title_id": "Agensi yang terkait dengan Iran mencantumkan hotel yang digunakan oleh tim F1 dan MotoGP sebagai target potensial - Grande Prêmio",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran pursuing 'intensive shuttle diplomacy' through Qatar, Pakistan: top diplomat - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wbVBFallJNkdJR0poajFxN1dGcFBlN2tSU2xOeXFwUk9NbDU1bm42TkpGdDl3UGlyRlJBaEFQaXdNNzhoWmlXZUNralBacU5INzN5Y3gyNWs?oc=5",
+      "source": "TRT World",
+      "published_utc": "2026-11-02T16:32:56+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Iran pursuing 'intensive shuttle diplomacy' through Qatar, Pakistan: top diplomat - TRT World",
+      "title_id": "Iran mengejar 'diplomasi ulang-alik intensif' melalui Qatar, Pakistan: diplomat utama - TRT World",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar & Pakistan Won't Cooperate With US Iran Sanctions - MEMRI | Middle East Media Research Institute",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3FUMUU3UUdZMlBHM2h5T1NKWXZ5SWs4WnhyWHRodHdCSDJQSGZXQTYzcl83VWxsVEJXcmZpcFdmT1JDN1F2enBQUWdmY2J5MThTeC1VNWg2TGFFbmpjUlVZVm5rQ2RWUU10bjVwY1d6OUJQY2JzV3V2cU5RdEFtcUpqR1RzVW5FY040U1YyeXhFcG0wanZXQ1ZJczRIb1J6MzVKcE1zZ1FYTVkwRHEzdWRxcDFCUQ?oc=5",
+      "source": "MEMRI | Middle East Media Research Institute",
+      "published_utc": "2026-11-02T08:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar & Pakistan Won't Cooperate With US Iran Sanctions - MEMRI | Middle East Media Research Institute",
+      "title_id": "Qatar & Pakistan Tidak Akan Bekerja Sama Dengan Sanksi AS terhadap Iran - MEMRI | Institut Penelitian Media Timur Tengah",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU1Fc3JpWUM4REFIanVUZEJBRUZyQmxQbW82TTJ2TlB5bWp2bVNQV25pWlhGcmY5T19mWUV5M0xvekFGODFoLVkzMnR3a25wSVhIUWpHM2xkcS10OGtwVXFTZHY1ZGVqNGl1dTdMa19yWllzUmVqc2ZWOEtINDBJaDJ5d241UE1rTFFuMTFwcEVrUDdBb2tIQmdVc05ld9IBowFBVV95cUxNZEtDQS12eTRKS0NESXZxRVgyLVB4QXhRRmVsR2I4UEJxSG5yUzVjS1gtZUs3Z28yUXlTcHhiUEVvY2JVXy1KYjNveHZvS0ZHZVk2a1d5aXlBSUlNSHgwNWFCUWg3dzBPajF6UkZrVDFHTWJUdU9DYmhyRTlnTjVuV0ZRNVBVTC1XSFVPT3dBbDNfV2xFWXV6WC14LXZQbnM2eTRJ?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-11-01T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf - Al Jazeera",
+      "title_id": "Kapal pengangkut LNG Qatar dihantam 'benda tak dikenal' di Teluk - Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar renews diplomatic push, presses Iran for breakthrough - The Arab Weekly",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGlTTTZibVU4eHRSRWF3N2Z1WXVBckgtZWt0X0xBSDFtOXVIdHFYZURTNzlOWjZYcENOSGpiMk45VjMtVXdtZl9lTEg1Z0VpSVVLYnBpX2xMOGJtOG9TVF9pdlViQk9OTHkwMlhmdUhfRjVZZUZlbThveFhXU0dfdzJyaFB5alk?oc=5",
+      "source": "The Arab Weekly",
+      "published_utc": "2026-10-30T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar renews diplomatic push, presses Iran for breakthrough - The Arab Weekly",
+      "title_id": "Qatar memperbarui dorongan diplomatik, menekan Iran untuk melakukan terobosan - The Arab Weekly",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Vance offers to meet Iran's Rezaei for peace talks as Qatar renews mediation efforts - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GZUREd29UUlBkc2lkWEFoS2lwQ1llVW9nZjVoNHZFRTB0SmN5a2c2Unh0Uk9SWnAzaXg3YmpYSnZYQnpsY25VeTQteGNLYlprU1E?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-10-30T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Vance offers to meet Iran's Rezaei for peace talks as Qatar renews mediation efforts - Iran International",
+      "title_id": "Vance menawarkan untuk bertemu Rezaei Iran untuk pembicaraan damai saat Qatar memperbarui upaya mediasi - Iran International",
+      "translation_status": "translated"
+    },
+    {
+      "title": "UKMTO says it received a report of an incident 40NM south of Lavan Island, Iran, where a vessel was hit on its port side by an unknown projectile, sparking a fire onboard - Newsquawk",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPUGVKcl8wRVpaMkJHbnhsQW9rQnBZbnQ5QUFNcFFRaHFibUlnU1dCZHVIM0xZWFRYNno1d2Fscl9ldjhVVzhyWGNPcl9DMUFWZ251TWRjWU9EVXdxYjhFVWg2dy1DLWhJbWRJaWU2eDhaSDAxSEs1QXlybUVwZHlRdlZYSFg4OWJ3SmsxUjVydTVRaHAwbEI2amxKWHdDUFVPYzNOdW1xSmVEMDZsd3p1Zl9GWGdveS1tblFGdXJlZHhVZW4tX1g4TDZLUUM4ekRsaVNHY0NCR05sLU50dVo2YU02UzJCQWpaTTB4cFJtX25TdVVobVdSRUNhUGJwdk0xMkI0OF9fUjIzVm9oTG5NNnJLZTk2LVFnZ09zMVcxbkl0RDJuc3hJTm5Jdw?oc=5",
+      "source": "Newsquawk",
+      "published_utc": "2026-10-30T07:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "UKMTO says it received a report of an incident 40NM south of Lavan Island, Iran, where a vessel was hit on its port side by an unknown projectile, sparking a fire onboard - Newsquawk",
+      "title_id": "UKMTO mengatakan mereka menerima laporan tentang insiden 40 mil laut di selatan Pulau Lavan, Iran, di mana sebuah kapal terkena proyektil tak dikenal di sisi kirinya, sehingga memicu kebakaran di kapal - Newsquawk",
+      "translation_status": "translated"
+    },
+    {
+      "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’ - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZk9HcnJxTU44TTZNeDNNbXZzbFJRUk8xSkJ1NDdueGs5UFdBYzlWdTVHQ0x6Vk5rX3BEanZfTk5NNnFYMHRaUnpYSTd6cGdBMjhLWURZZUlVTEdhbDZzUXNnaUNCS0E5UjJKN09xcTB2M1BQdFgtbWZYOGZYd29lVUx0RFBpRnRSd253V0RCbl9YQ2tGWWhGZTI4S2loT3lrWXlvWTdzRmJadGJweE5qbVN30gG3AUFVX3lxTFAtU2c4d0J1NDF2SUtocUxNNDFqcWhUeGwwZ0pKMEJEX3pJWEtUMlNHaUdMSjdyTGduMmxnWGFhb1NvWm1WLUpCMDZWWDZWaXNwdlZqTzVnV3lranBuQ3hMR0otd21Wa21xcUQwMXM5MGNaR1VXb0ZhcW5ETHBVM2R3QWVWOXNVNVNaUGZtckJ2SS1pcURpdzJvZlZmR2dDdURRVUdnQ3lqUXk3TkdvajBuOUpCZEl1WQ?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-10-29T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’ - Al Jazeera",
+      "title_id": "Apa yang kita ketahui tentang surat Vance kepada Rezaei, saat Trump memperingatkan negara-negara Teluk untuk ‘bersiap’ - Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Are GCC countries looking for a regional security pact with Iran? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNGFYZDh4Wm1tcHpLUXphVGFwVmJxYnNQYmUxUmh6R1VZMmd1enJnbldtdFRaWHltVldtTWM3bEpVVUt6N2l1Z1RqVXZucXY1Q25jMWh0cEJxd0Vtc0p4NGgtcjZOZEtTdDlFLWhnVERpc0R1YWZBbjBjN2ZJQ1VDNDMzakRBZl9xWnFjZmdXNHRReEY1NWh3Z3lNUHJXa0M5cDlmdHJzTlFoZ9IBrwFBVV95cUxNUHBmbGNNS2lXWVlMSFM5eUE5eWExV0gwaFU2eml1Qi1OU3hQUHVvZWxGaGdFTDFaRjlVcVdwdnZ2dmQ2NWlLLUJucHd5MXl6SUZmTUFNMk9icExLOFVlYXpacmkxUkNncTVxTFRYUEphVE9iOFR0Ulh5Zy1QQmxaRE5QcmR0MDRaV09Hb0lmVmdHNjZNc2ZzdlhqWnNrX0FmSkptWjhNMEs2SlhRWkJV?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-10-28T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Are GCC countries looking for a regional security pact with Iran? - Al Jazeera",
+      "title_id": "Apakah negara-negara GCC sedang mencari pakta keamanan regional dengan Iran? -Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Gulf states worry U.S. could pull most troops from region after Iran war - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE1WRTBVQ1hVN2FDWmVZal8zT0dNcUt3NE5PV0dHWHVKU1AxRnl0dWp1Y2M4N0VWeTJITzRRa2RXS0dHdFpHSnFMTFh6TUI3ckNtWmh4aV9BNUVGTzd3d3NOYUVZbzRjSGxlSHJMVmtNcktKVHRYRHlhMnhyai1QSFFsanBwdDlSRFRLTE1zc3Njb01ReEE1ZW5fc1I1M3FkVHhWNUVTVDVDTEtWVXdj?oc=5",
+      "source": "NBC News",
+      "published_utc": "2026-10-27T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Gulf states worry U.S. could pull most troops from region after Iran war - NBC News",
+      "title_id": "Negara-negara Teluk khawatir AS akan menarik sebagian besar pasukannya dari wilayah tersebut setelah perang Iran - NBC News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar and Egypt Press Iran Diplomacy as Houthis Claim Saudi Strikes - Kurdistan24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0JnSEY3bXMwSDRsdWdFTVdwanNUVnAwN2lldzQ0OHRQUXp1YmlSUkJvS2RoQmtpVkhobWVkbjBMb2tnWG13ZVBEZUJjZklrOEFXWjhkcm9nTFFuRWFYZVJtenB3aklyNmVTLUI2NlJjQmxKaUNYcVk4NkFrT2JNRC1UODNFYXc2QU9aOXJmc2lWdE9aV1JsanhBZ0tvLXJ5bTZ3dW84dlVqZWs3QlpDNg?oc=5",
+      "source": "Kurdistan24",
+      "published_utc": "2026-10-27T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar and Egypt Press Iran Diplomacy as Houthis Claim Saudi Strikes - Kurdistan24",
+      "title_id": "Qatar dan Mesir Tekan Diplomasi Iran saat Houthi Mengklaim Serangan Saudi - Kurdistan24",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Africa food security under threat due to Iran war, trade officials warn - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2lHNUk2SnNlN3B3YjhIWnljcDl6ZDY5S2hOTUVaYnp5X1FIT3FBRWFTTGpPZWx1ZjJZYzNVNnN3QXRhVVk0Mmlwd0tGRHk4N0FaV0lwVXctSjVRZWxlRE9vUDFtQkY5b2Z1RzFEa3BfUEVWcmtGcVZGTUd2VldjeEtUal8wd2lLTDBYMUFqWWh3VEpWVUpOT0lJNHVmUEZRWTA3YzVlVk1OeWtiNlFENG530gG3AUFVX3lxTE84aHhlOHlUT0FRempZQzhRMDl4MERpYjBmbk94OTRfbHdUQThFUi1yN3VWOFI1OWFDZGZMZFhmLWVDcmowT2ZaV2JTNC1QbVREaW02LXNYcldQT0hac3YwMFpzSUdISnVJUkYtalZMeW5uRDdaRHVXLWszRVgwQUE2dHIyRzV1OUx4Z0VoR2ZIbXhVN2l1LTdlSG1BWmhheWRJXzk5UjdZSE9XVjNRZUU5eFJ4ZGY2NA?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-10-26T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Africa food security under threat due to Iran war, trade officials warn - Al Jazeera",
+      "title_id": "Ketahanan pangan Afrika terancam akibat perang Iran, pejabat perdagangan memperingatkan - Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd29BdjhJS29PZ0IwcElEZmdpZW4xRlhlYnIyQWhXR1VaZ2FCQlBFTW9kWjRETG0zalRDOWZ3dC1fc0cxc09HTmQ2UjhnUldtZXlNV0xEbjBQc0FFTTJ3S0hZOXFqbGhjVDYydEVXNFF2WTk3aHhKRVAwVnlOUENTVUlLOWpVZlN2M09CRjJVcUZfVlRHOEpHS2hSUUxLZW51OXZnZDk0YnBTamkyZlhpSNIBtgFBVV95cUxPQWc2WnhrU0s2LVRqd01IeHlnNG5RUllfQWVKVmlIeHMzQmp0UmQ3Vlo2VlAtTGMweHd3ZlZwWDZnTHhveUdmS1QyV00xLW9Jb2Q1MEN5ZzU3ZUZobUUzMzJXUjlMb240aDNNcDg0dU9Ibnk0bDhNcGVDQkZRS3pfTzNWTkFFcTFEUUFLamhaYzVVNVRPenJzQ3JEbTVxcjdtWVZsSXBsZEpzNWdyeGR0ZlllTE1UQQ?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-10-25T07:00:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them? - Al Jazeera",
+      "title_id": "CENTCOM dilaporkan mempunyai rencana untuk melakukan serangan ke Iran: Akankah Trump menyetujuinya? -Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar official calls for peace and security to boost trade, investment - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGhYZE5QZk1LMkh3V2dDRWFhTmg4WWZ5SWlVaWRWRGdvMG5uM0xMd2FYSTZ6MGZETGpaX3gwWVNtYVdIMFlCa3RJS1BBZ3NpUThUNkNuYTZmaEszR0NoZjFEMW1xU0p3enB1QTN0WXFHcWRjMTdUUVRSTjVMLXNaakhoOUNfMkNrWGpScmZyQTAxS085WTNHaFgxOGRhdGVfOXBlaUdTbWM5cmE0UGFNedIBtgFBVV95cUxNNUpoMmtfa1NPaVpHOFZPUFhmV1puaHI5R0hYM3FlVzQxTU9ZZDB1dGZVV0dEck9HdDgwQXZWYkJMdU9KczdvUm9IYXlDN3RhQ3hUakhTU2lOYk9QZ3A2Tm5EVlJMUFZCb1Jxd0t1bmQ1Z3FGbFFpdGY3UVFsMmFLV3NLWVNtaWprdGFqYlo3Zno5N19UdThhV0pQMjA1al9Zc0J6Q2I4WmE3bUFjeGtwSVBYREsxZw?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-10-25T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar official calls for peace and security to boost trade, investment - Al Jazeera",
+      "title_id": "Pejabat Qatar menyerukan perdamaian dan keamanan untuk meningkatkan perdagangan dan investasi – Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "U.S. troops and diplomats evacuating Middle East posts, sources say - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLU92bVAxQU5KRmtTYjVQME0xeU40bVEzT1Y0bkx6MEM2bmdNUFRVQTBQTGVzb09nZEVCYm9iTE9rRFBqNWlWZURFY2NWamtQLTZ5QTZWcmxDUTB5dmRCVWZ2eFFlNU1sVnFSMkxaWUEwSDBzUkp2bnlZZmwwYUwzb0ZUemJVcDJXSmhZXzhOSVg1alRvNXpxb3NvblNWb2JvTlZ5WmwxYzdzQV81SXF3aDR3c2VFTC1ZZ3BrT19Edw?oc=5",
+      "source": "NBC News",
+      "published_utc": "2026-10-21T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "U.S. troops and diplomats evacuating Middle East posts, sources say - NBC News",
+      "title_id": "Pasukan dan diplomat AS mengevakuasi pos-pos di Timur Tengah, kata sumber - NBC News",
+      "translation_status": "translated"
+    },
+    {
+      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTlQtMlZ6anF0WjJVZXFJZTNLbVdYUW5yckw0bHNySkRjN3NzTk14Sk5xcUJsZHhsSi1wb3pBcURGZWNhVWx4U3lCdEE4eEt6UHg5eUtxS1FJVnZ6czhEeHUyV3BWMUpCbDZwYVlxLVFHbUtsRFdfSkxiS3hyRGVzekRIWGdBSm9Jay1wNW1qUjE4aENwVDZtUHpGN3hNdGg4UlcxaGdGcG4yenYwMnfSAbMBQVVfeXFMTnhMRVF0OW5DYUJKWTQ4ZmVsSEh4cTYtY0pQMzA4Z043VklGdjdRTGVkTFluNkgwcEwzQmtIaGZ5SFlwMDRtWkRLSWhkVElZQmExRWdURWlPUUFiOVJ0cjl5ZGppQXNZbkNJc0dhY1lBR3NtdFJ3QzJaMWsxYzRITUtrMTM1UWhUU2hDQlhnQXhPNklZOGNsLWtkcUk1LUItS19mUE9uU0ZVVUVLUkNLY0VMajg?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-10-21T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties - Al Jazeera",
+      "title_id": "Bagaimana Qatar, Turki, Pakistan dan Indonesia memperdalam hubungan pertahanan - Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFczaWFtb0JFb3NVYWg5NE5fQU1CcEZwZGtkRzBmRXdRS3NKNWNUMXEtSUV4UVljMFoya2FvUTdNSVlUWTk2eWRPX0gtLTc2SE9EMGg1YzJ2MFhjeWZxRXp2Z3VYeUNrcDF6VDdPZE1sUUxGQmpuUFNvcnBqdUNoa1FVRGpTc0JnS2MzaERnNTlJdWxKNWpzeTRVbDRad0tPdGNPalQ3Rm02SlpPTEE5R0Jn0gG3AUFVX3lxTFBycmVoX3JzTEJOSVQ3QU56OE9Wa3l1S3JsUUZzU21WSzZ5aTIyOEhtYWxKaDlxVHNTd0FZV1haSlNXdDFPSFNCZ1lQNkNUR09oRXZ5cXdtRElwSDNsY0JRelhjSHhQbkV5UkNUYVpJNnVKTGROb2EtR1BfZXc4V0llNjVHZmFBMVJab1lXci02TkJPUlljd1U0OFBqVkRtV3c0cE01V20weFNyX21HR2d6aUY4VkdJNA?oc=5",
+      "source": "Al Jazeera",
+      "published_utc": "2026-10-20T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack - Al Jazeera",
+      "title_id": "AS Meninggalkan Pendekatan Minyak Demi Keamanan, Bukan Timur Tengah: Utusan Tom Barrack - Al Jazeera",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar revamped its entire defence system in six hours, intelligence chief reveals - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEkzdHhNN1FKX3V2R1NYbFhWMmxraHE5aUFLQ3NId2lJbVhjN2daZE13WDVYLVRhd2Y1V3k0UzVYZ0prT2VqVFlTRTdpYkpING04elFUUUdzQXpFZzVQQmNpQ0tYMTFtcUtEZG9PRXFsa1JMaGNJOEtoejdINkJnS2FVSkdNM0lTRjNCNm1CWDNjUEIzekVFMkxadTVjU2lpNXhaSUN2VkNNbDBFSXFpQWVubWhNRWc?oc=5",
+      "source": "Euronews",
+      "published_utc": "2026-10-20T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar revamped its entire defence system in six hours, intelligence chief reveals - Euronews",
+      "title_id": "Qatar merombak seluruh sistem pertahanannya dalam enam jam, ungkap kepala intelijen - Euronews",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar Warns Cutting Hormuz Internet Access Would Affect Iran And Regional Neighbors: 7 outlets compared - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmhScURzcnlCM0RNMTZSTnI5VjRpZUEtdzdGdTNvbkMxdmpPR3dLWWZQVW9samN2d1A4Y01jNW5WWEMwRmxBYVZQSmd6X1J1MmdoSXlFUl82dTBnVFZaY3ZCdThTejNZVEVIbUo0NVhOUFBzY3VVMWpTRi1obF9uRC1QSnZzUTUxSmt3akdGekRvTEtsN2NxN3E4Q04ySWgyb2hVX3U0UXhsNGFXVmN3QWNWYTVKTWdPOVJWTlV4VERfX3RMTGRSUjNvaE1lYzA?oc=5",
+      "source": "NewsCord",
+      "published_utc": "2026-10-20T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar Warns Cutting Hormuz Internet Access Would Affect Iran And Regional Neighbors: 7 outlets compared - NewsCord",
+      "title_id": "Qatar Memperingatkan Pemotongan Akses Internet Hormuz Akan Mempengaruhi Iran dan Negara Tetangganya: Dibandingkan dengan 7 outlet - NewsCord",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Qatar: Lack of Updates on US-Iran Talks a Positive Sign - ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaloxV0ktZkVrdWE5MXJwQXN5eUpwSUppRjd4OHNUcHN5dVZ4MkJZUDE3T2xLUEYyaHgxeUdxZy03SVlEVUZuUjlnWW5OdHppS0NZQWtLa0J4Ync1NjZnMHpBUHhCOFhEa0xucWEzT1Jpb0VZcW9CamNRUWNoVXNGSUs1UnFvN3paekx5blRFdw?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
+      "published_utc": "2026-10-20T07:00:00+00:00",
+      "query": "\"Iran\" \"Qatar\" security",
+      "verification": "unverified",
+      "title_original": "Qatar: Lack of Updates on US-Iran Talks a Positive Sign - ASHARQ AL-AWSAT English",
+      "title_id": "Qatar: Kurangnya Update Pembicaraan AS-Iran Merupakan Pertanda Positif - ASHARQ AL-AWSAT Bahasa Indonesia",
+      "translation_status": "translated"
+    },
+    {
+      "title": "UKMTO Reports Maritime Security Incident Involving Tanker East of Oman’s Duqm - Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDT2ZjU3JEbTJPNTNPXzc5aHpoWHZUNktIZmNELTVYb3JHQUVxcVlPODNSM2Z1bElJdjkySkxROTdXal9oN0ZqdTVOVUJCOTF1UmdiY25oQ3pyUlo5U0Zz?oc=5",
+      "source": "Yemen Online",
+      "published_utc": "2026-10-20T07:00:00+00:00",
+      "query": "\"UKMTO\" Gulf incident",
+      "verification": "unverified",
+      "title_original": "UKMTO Reports Maritime Security Incident Involving Tanker East of Oman’s Duqm - Yemen Online",
+      "title_id": "UKMTO Laporkan Insiden Keamanan Maritim yang Melibatkan Kapal Tanker di Timur Duqm Oman - Yaman Online",
+      "translation_status": "translated"
     }
   ],
-  "errors": []
+  "errors": [
+    "\"Iran\" \"Pentagon\" military: HTTP Error 429: Too Many Requests",
+    "\"Strait of Hormuz\" tanker: HTTP Error 429: Too Many Requests"
+  ]
 }
