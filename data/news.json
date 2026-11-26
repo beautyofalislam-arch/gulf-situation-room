@@ -1,17 +1,127 @@
 {
-  "generated_utc": "2026-11-26T00:29:48.613695+00:00",
+  "generated_utc": "2026-11-26T09:37:36.096324+00:00",
   "status": "RAW_NEWS_NOT_VERIFIED",
   "articles": [
     {
-      "title": "Middle East latest: Houthis claim attacks on refinery and Riyadh as Saudis strike Hodeidah port - The National",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcnZ5TGlIcndkLWs0YmFxMzl1Z1dkVlE2ODFrUnAzejJXNC1tY1AzR3hVTVJ6OW9hSnZIanJpTFZDUDhySXBVZHFicTMweEktY3E1SXBtQ0lvNlctbmlQak9XcjZRYTZGQVd6YTBNeXlpMUotVHB6TXc4NHBIVTJGVmRaUFA1b2trOWRINVV5UVNURi1ZLTJZRjdR?oc=5",
-      "source": "The National",
-      "published_utc": "2026-11-26T00:03:35+00:00",
+      "title": "Iran says oil tankers hit mines and caught fire in Strait of Hormuz - Digg",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ySnpQMjJJSDJVT0Ffa0xFVk8zYUVqbkUydHZjalZ2X3dGcVNiU3VRLXdBdUh0T0JvVE5DYjRzd1JxWU9Rc0FXMDB3aXFTZ1ZrR2c?oc=5",
+      "source": "Digg",
+      "published_utc": "2026-11-26T08:59:10+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Middle East latest: Houthis claim attacks on refinery and Riyadh as Saudis strike Hodeidah port - The National",
-      "title_id": "Timur Tengah terbaru: Houthi mengklaim serangan terhadap kilang dan Riyadh saat Saudi menyerang pelabuhan Hodeidah - The National",
-      "translation_status": "translated"
+      "title_original": "Iran says oil tankers hit mines and caught fire in Strait of Hormuz - Digg",
+      "title_id": "Iran says oil tankers hit mines and caught fire in Strait of Hormuz - Digg",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Fuel tanker crash sparks large fire on highway in Egypt - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtT0xXY0p1THNVMzNObmczSlg0V0luTV9nOGpsY1FCT0N1eHk1Wkt0U3dEWl9IcF9ROHpFaXJJbVdId1ZUUWZFLWlrb3lTTFRpWWNacWcxS2NyUkE?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_utc": "2026-11-26T08:48:22+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Fuel tanker crash sparks large fire on highway in Egypt - Anadolu Ajansı",
+      "title_id": "Fuel tanker crash sparks large fire on highway in Egypt - Anadolu Ajansı",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Syria seizes Revolutionary Guards weapons bound for Lebanon, CENTCOM says - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96dUNHdDliUTdlS1Q3c3RvR3pXTDlxMk1HMGgwVlllcjh0NHAyM1hPdzZ5TlZ6RmgxMzB6TF9PZ21MODlKdkh1ZkhFZlB0YUdFMXc?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-26T08:38:45+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "Syria seizes Revolutionary Guards weapons bound for Lebanon, CENTCOM says - Iran International",
+      "title_id": "Syria seizes Revolutionary Guards weapons bound for Lebanon, CENTCOM says - Iran International",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Rises This Month Even as Attacks Increase - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck13clVLM3Z3YkFxWGJyYmZYQTllN3AzR3lBZzlQNm00R2RQckxMczVRRXUwU3hlWEVsNzd0dTBYQVVPNU1lWkl3WDFYNk96MEsydHBtYk4tLUNwOVJtVWJtSzZtaTdoWGxla240NjFJRWNublpNRXY3eE43Nkt4dG5xa01kSnBQbk5CSmo3NkhGYVpidGt1UW5ZNnBfNjZzbFZSa0Qyal82SHdtcUJCTjAxTWI?oc=5",
+      "source": "Bloomberg.com",
+      "published_utc": "2026-11-26T07:59:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Hormuz Tanker Traffic Rises This Month Even as Attacks Increase - Bloomberg.com",
+      "title_id": "Hormuz Tanker Traffic Rises This Month Even as Attacks Increase - Bloomberg.com",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Taylor Maritime runs into pay revolt as it winds up bulker business - TradeWinds News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHdWejh4WE4tTk9PT1lPbThIbjdpWTFibllmN1YzazlES2RLTmUwUUFmUUtwY0lTSEcxWDdYR1BVRTBfRDkzWGxqbzM1S2NZQ3pOT04zN3pnM2llSXRzTHNncDJBVnEwMlNQSjcyTXoyN2FCdjNCWTVKTW5SMm5abkItbDBwUHlYaEtta1lEUDRQNFVDMWZCLTlFWVpWQnhrOGtubnMwbnJ5SjZ0N2doRGRSNHlPZVZ3QUE?oc=5",
+      "source": "TradeWinds News",
+      "published_utc": "2026-11-26T07:13:42+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Taylor Maritime runs into pay revolt as it winds up bulker business - TradeWinds News",
+      "title_id": "Taylor Maritime runs into pay revolt as it winds up bulker business - TradeWinds News",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "US Central Command praises Syria for seizing weapons smuggled from Iran to Lebanon - Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3M3MTBra054OWNacmNFQm1qWm9jbVpWS1dMcFhldHd4NW5zWjNqS28wM2lXR3Jvenc5Y0JZdDBUOWFzWGNfUzZJeTRsSE1IVjdBRmJPMXd1M2ZNZE02b2JUb2dsclI0UXBPUFhPbTdHcjYwMnNXT2oxSmIwbnhvUkRNSmU0YjQ0S2xnNjZ1NVdFRDNUN1k4UmQ0U2lfekFxNmo3a3I3T2lkS0VJT1dKRlFwV3JKcmVoRGJrZTNCek5UUW010gHKAUFVX3lxTE1UdlVjXzNSUWZhdnUwanEyaW45cTh6LWZIc1J1UmJfOUpENFBaRVJsYy1WcDRTbWIwbDhzWUEwN2daaWd5aERCR3FnYUl2M3RvcEM3SVN2M3JuTXdOdmltRzZYaTZvT1hGYW9PWndqSkszWm1YbE1zQnBNU3NpLWxlaTZGRFBfaFRuU294OTVtaENKRmZYd0JmVmVNUkx3VGl0R3QtT3JNYkJYMURzeVMxWHdjcXM3VDdZbVRqY2ZWek8yckFwYkdRWGc?oc=5",
+      "source": "Middle East Monitor",
+      "published_utc": "2026-11-26T07:12:00+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
+      "verification": "unverified",
+      "title_original": "US Central Command praises Syria for seizing weapons smuggled from Iran to Lebanon - Middle East Monitor",
+      "title_id": "US Central Command praises Syria for seizing weapons smuggled from Iran to Lebanon - Middle East Monitor",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Oil Prices Rise As Iran Reports Mine Strikes On Tankers In Strait Of Hormuz - Arise News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXFPUndVZ1M5Q204TFY2Y0oxeHhTTHRNM3otVTd6NTZrdXdUWkhUaVVJTlk5R2RqMDJld0pEMWJQOFRpWjExWGh3RWRNMm1zLWpaYi1naUxackM5Y1JnVFdvWmlNY2hpb2dvNWJ1eGVXcE5jMHIzb0NfSWU0OVNIcldmbEczNHh5NzBOSGVDMUtzNzVjVzY2R1JJbWJqZw?oc=5",
+      "source": "Arise News",
+      "published_utc": "2026-11-26T05:45:47+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Oil Prices Rise As Iran Reports Mine Strikes On Tankers In Strait Of Hormuz - Arise News",
+      "title_id": "Oil Prices Rise As Iran Reports Mine Strikes On Tankers In Strait Of Hormuz - Arise News",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3VWcGJsMERhMmJlY09wRFd5czQtNWg3UXNhVWxWSnB5dUhwVjlmM2NpOVBHWW9MV0d4YldGd1JfeXRJYlltTWl5aU9wUUFyLU5xNnlOdFZnU0JoTGhmZE8ycUZ0SzRHMEttVjBlb0pBUHl1cDEwOXI5b0hmZGs1ZDg0b2FBT2NVU3czT1VIR1AyR1VHeGVGWkZjVjBvb3VGaDBwQkotYkRJNUJTU0dhMTJB0gG3AUFVX3lxTE1mR0wtandFNjNmU2FtVTdzZWwwaklKWTM0R3FUb1RmdEp0Q29SclJCUEtpM3VoZ0x1azlZQXY2akdfV3FZbmRYYkVEeC12czEzUkZEZFllX1BaNGstMUo0emp4ZEVGMktESDhueHY5ZnN3alNOdDJJbGxEcHVXamVaeHN2ZEhFeGdKTkNwSFZ2TktneENSdmxhTy1rN1h4clpuNllTa0ZwZlc4OWhjSHdPbmpDMnNkNA?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published_utc": "2026-11-26T05:18:59+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets - Crude Oil Prices Today | OilPrice.com",
+      "title_id": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets - Crude Oil Prices Today | OilPrice.com",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Gibson: Tanker Day Rates for Hormuz Transits Remain Above $1 Million - The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFlNZXlmczFoWlhXZWtOXzBnY3hObm9aQUVBS2NfNGhDWTVscnp1NW9iaWFBVUtLUGwyYXAzdXEzZWhhWnlhXzNBYkRsMkp1RUhoV093Wkd5M0ZKM3JuLVlWVVFGMU1fRnIyaHlTUUk1cld5WjZ5cmtnSVRXdXVoc3RDVUp0UnhNSUFDTlJOQzZBYnBzRFhzeDA3dExKbU5Hc0FBZlFLRlo?oc=5",
+      "source": "The Maritime Executive",
+      "published_utc": "2026-11-26T04:51:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Gibson: Tanker Day Rates for Hormuz Transits Remain Above $1 Million - The Maritime Executive",
+      "title_id": "Gibson: Tanker Day Rates for Hormuz Transits Remain Above $1 Million - The Maritime Executive",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Iran says LNG tanker ablaze in Strait of Hormuz after hitting mine - Saudi Gazette",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWJrN2JsRXNNWjVfRjBGcC1RNVRKMDdILUNyOExZM0YtYXRMT191OFVmM1NUXzVueFNDWlpNd2RtREhZdXo0NkFlZTVoUlozR0xkMndZR2lsaXh5c0oyYlZ5Mk51S0pBNGRHSGFub1ZjWEJNNDVzSW9zdllUal9QUWtmZGNEc0VYSF9HRTZ0OEhKZ0M1bDh1VkRFb2ZZaVl5cEZqY2lrRWtYTURrZklZMDZXVERGQQ?oc=5",
+      "source": "Saudi Gazette",
+      "published_utc": "2026-11-26T04:47:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran says LNG tanker ablaze in Strait of Hormuz after hitting mine - Saudi Gazette",
+      "title_id": "Iran says LNG tanker ablaze in Strait of Hormuz after hitting mine - Saudi Gazette",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Hormuz tensions rise as US-Iran standoff deepens - China Military Online",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGRkdTbXFGV0ZBZU1kOWk0NkxWWFlKV0lhczJOSTNfQVRVeFJ4YUhYX19JYlM5UG8xT0RMMGlaM1oxQXlDUnBrZ25TSjVTM25veU9mMTdqZGpleFNiTTh2Mw?oc=5",
+      "source": "China Military Online",
+      "published_utc": "2026-11-26T01:21:36+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Hormuz tensions rise as US-Iran standoff deepens - China Military Online",
+      "title_id": "Hormuz tensions rise as US-Iran standoff deepens - China Military Online",
+      "translation_status": "unavailable"
     },
     {
       "title": "Projectile explodes near tanker 50 nautical miles off Dubai as Gulf shipping attacks mount - investingLive",
@@ -25,70 +135,15 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran says \"violating\" oil tanker caught fire after hitting mines east of Hormuz Strait - 巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEFYaG5jbG9PYWNsbE1ia2x4ZXhtaUR5WGJyODNHWnRFRWxESkltZFVnTk42aDgxUUNoLVo1RWNESGpWVV9nMkRBODI3eERDZW5qVjNNTVBLeTJOUW5BMXBKbHc0YXlKWVg0eDBkRUthMjRBc2hHTTRzSnpzd2JiTmdQa3JHcjdDYUctY1ZnUWw4c0g1NE1hRDlwZkNVSXAyMGs2RnNNeEpnRXZIYnVGRXRObGJuZkRVNlM4Nmh6anBWYU05SlhpSmpSMkJCOC1YMWc?oc=5",
-      "source": "巴士的報",
-      "published_utc": "2026-11-25T23:27:07+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran says \"violating\" oil tanker caught fire after hitting mines east of Hormuz Strait - 巴士的報",
-      "title_id": "Iran mengatakan kapal tanker minyak yang \"melanggar\" terbakar setelah menabrak ranjau di timur Selat Hormuz - Laporan Bus",
-      "translation_status": "translated"
-    },
-    {
-      "title": "IRGC Claims LNG Carrier Hit Mine in Hormuz Nov 25 - https://houseofsaud.com/",
+      "title": "IRGC Claims LNG Carrier Hit Mine in Hormuz as Oil Tankers Catch Fire - https://houseofsaud.com/",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVjdNM0JadjNRVnBTbjZuQ2JadEtMU3Z6NTZlYTRST0M4dnRqRWRyXy1pYVI0TnNZclBkLWQxcndjalJ1MXFGSklselhCdkRUcVRyT0N4YkhON1pmSk5JRXVsOVlkTU9JU2pN?oc=5",
       "source": "https://houseofsaud.com/",
       "published_utc": "2026-11-25T21:45:20+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "IRGC Claims LNG Carrier Hit Mine in Hormuz Nov 25 - https://houseofsaud.com/",
-      "title_id": "IRGC Mengklaim Kapal Pengangkut LNG Menabrak Tambang di Hormuz 25 November - https://houseofsaud.com/",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Military Doctors Warn Pentagon’s Iran War Medical Preparations Could Cost American Lives - The Daily Caller",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQUZzT29hd2l4QnVpdnAzUnhyYUV5azJCcVZURE5QYlpyMVRtOG4yeVQxOGIyeHlETDlkRlJJX21EUlNQaDFHU3hCcHZacGNuUjVNLVVVS1IyaTBRd2d0MFAtdkJfZTVHNk9SWGZuLWZMN0RkYnhLandGSmFIS2VWQ2NUa0dNTWl4UjJsY1J3Tm83VGYw?oc=5",
-      "source": "The Daily Caller",
-      "published_utc": "2026-11-25T21:35:00+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "Military Doctors Warn Pentagon’s Iran War Medical Preparations Could Cost American Lives - The Daily Caller",
-      "title_id": "Dokter Militer Memperingatkan Persiapan Medis Pentagon untuk Perang Iran Dapat Merenggut Nyawa Orang Amerika - The Daily Caller",
-      "translation_status": "translated"
-    },
-    {
-      "title": "VLCC, suezmax and aframax rates rise in tandem yet again - Lloyd's List",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWRhWlM3NFpQamNJbEFxTGxwREJHcENLbDFYd09WSHNoRFh1Nnd1c1RRNUtVVGk2Q0l5bGs1MzFZRUxFUE8yQlk4dHBqbnVla2JCcjljUzllTzFPMGNOTllEb3loQ2ZLQXZ1NkY1RFlBanlOUmVkR3d4azNsdnpNTEdFamZ0WUczZF9QMmVaNlg2NTRoUXlZ?oc=5",
-      "source": "Lloyd's List",
-      "published_utc": "2026-11-25T21:28:07+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "VLCC, suezmax and aframax rates rise in tandem yet again - Lloyd's List",
-      "title_id": "Tarif VLCC, suezmax, dan aframax naik lagi secara bersamaan - Lloyd's List",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran claims LNG tanker ablaze in Hormuz after hitting mine - Arab News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd25oRzVVWnZ6VTFNd1N6VHZvN2RfN3VjTW5PZ2VYcUw0eDBQM2RhNkcyOTZkOVJHZGJIdGYyNDZkZWN2T0FXeHpJVk5XODFrNEFTWS1vdU96SkZET2VpOEtPWWV0WW9nLURORmIySWtFUnZmZmp5YWhaTDZYVUNLeEhtVl95UE5xa0hDMVNfYUJDcUFZd01xY3FnZ2pDVDZJNnZSZE5n?oc=5",
-      "source": "Arab News",
-      "published_utc": "2026-11-25T21:23:46+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran claims LNG tanker ablaze in Hormuz after hitting mine - Arab News",
-      "title_id": "Iran mengklaim kapal tanker LNG terbakar di Hormuz setelah menabrak tambang - Arab News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Pentagon Bars Lawmakers From Gulf Military Bases - Wisevoter",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOF9IQ2t5UXhrZmcyT0FVaHUxdUZxaV90LXFqaHdieWEyX2Z4WTU2U2RpWWpYWkZLMDhMQURzX2Y1TjZUOGRXRDBxSVdodDY2TEdoN1lYUHlNOEIxdFBSem9oNUQySXRVYUtJUVY4ZEkzQm1oc0I4dkRCVE5rWlpMVW5xeTdVV0pSUDYtZWNn?oc=5",
-      "source": "Wisevoter",
-      "published_utc": "2026-11-25T20:23:04+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "Pentagon Bars Lawmakers From Gulf Military Bases - Wisevoter",
-      "title_id": "Pentagon Larang Anggota Parlemen Masuk Pangkalan Militer Teluk - Wisevoter",
-      "translation_status": "translated"
+      "title_original": "IRGC Claims LNG Carrier Hit Mine in Hormuz as Oil Tankers Catch Fire - https://houseofsaud.com/",
+      "title_id": "IRGC Claims LNG Carrier Hit Mine in Hormuz as Oil Tankers Catch Fire - https://houseofsaud.com/",
+      "translation_status": "unavailable"
     },
     {
       "title": "ADNOC Places Restrictions on Tankers After Attacks - Rigzone",
@@ -100,6 +155,28 @@
       "title_original": "ADNOC Places Restrictions on Tankers After Attacks - Rigzone",
       "title_id": "ADNOC Membatasi Tanker Setelah Serangan - Rigzone",
       "translation_status": "translated"
+    },
+    {
+      "title": "Hong Kong-flagged tanker comes under fire in Hormuz as Iran claims LNG carrier suffers explosion - TradeWinds News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcGZjaDdpb1Z1bTQ5ZVhVQmxyVXdiV3AyTHcyYjE3RThONlRqWUc4TEEtbDgwcXVEVmJ5S2xLR1doRmJ4Sjdxd0I2dWc1aU8tSnh1NklYbVYzQWJ2V19VU1BVSWkyRUFvLWViMnR1N2NWMUtSb0J1WldpRWZBWnB4NmtSRU1GdWxMYzdKN0I4eE1zTS1aMVNkMDlGUUlYUU80XzVTRUxoWG9tS3NGczdmLXVjR3JWSnZFYldqVXN1ekFfdjc3NFk3d1FUSUxPT204eFVqeFl3LWNGbWs3YzVYRVVNWnc?oc=5",
+      "source": "TradeWinds News",
+      "published_utc": "2026-11-25T19:59:55+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Hong Kong-flagged tanker comes under fire in Hormuz as Iran claims LNG carrier suffers explosion - TradeWinds News",
+      "title_id": "Hong Kong-flagged tanker comes under fire in Hormuz as Iran claims LNG carrier suffers explosion - TradeWinds News",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy - Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWS1oNkI2QTZvUG1LQnFfeS0wcGdiaWhaVFZKdjhNUE82bU9sUG9WcVRYUmhhRlljZ0lBR0Y1TnNPVFhOaHBxZmpDMzRrOWI5emU4WWE4WE5HWU1CUTdFVkc1ZHE3Q0JwT2RvSGNfaTZJSmpXWFdCbTJtYWQ3LXNDWXZlT01PdVB1d09fbVdaRWNqRTNmLW9xZXFDbkgwdXhRYWZBbWNhZndOak5MVE45ZFNSbWRScDc4UGxfaFh5NERKWk3SAcgBQVVfeXFMTVYtOEI4LWVnYUZvV3ZfcUNYdEdYZGV1aGthZk51MHJHRnFlNDVsNi1HNjExQWFHa0Q3WmpOQkM1RmRfWmpxbFY1QVBwcUZwMUNDenFyTHJPT3V3OFUzanRsVzFJZGxtN0sybW16eE1YdlpDNmVoYmtxdk1pNVFwTVJQc0RaMzBWLUtBbGNGbklIV21UYVFHUHBvSUxvN2lFWEJic0tmeDFlRzJrQmM3TUJodDAybFliRE10b0pMRUIyd2I5Z1ptXzY?oc=5",
+      "source": "Middle East Monitor",
+      "published_utc": "2026-11-25T19:48:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy - Middle East Monitor",
+      "title_id": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy - Middle East Monitor",
+      "translation_status": "unavailable"
     },
     {
       "title": "Former Pentagon officials: Hegseth blocking senators from visiting Gulf bases is erosion of trust - Fortune",
@@ -116,11 +193,22 @@
       "title": "Iran claims more tanker attacks, widens Hormuz blacklist - Quantum Commodity Intelligence",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWJjUFIzZ0VFanMtVkd2dW5NVl9hd2lkRnFDUWl5UTRzWFBvZGRKaldzaFE4d1hKZ2tFNmphZUU1djJvUE4zVENBeUQtTGtacGlEZldHTHlGN3JoVzhsUmtIamRFcm8xMWkyZ0VzWEJORzhEeEFoclN6eGNqcWw0a0lkZnkxdlBQalRyaE1FN3pwWENPWGxpMjZrWV8zdDQ?oc=5",
       "source": "Quantum Commodity Intelligence",
-      "published_utc": "2026-11-25T18:27:29+00:00",
+      "published_utc": "2026-11-25T18:58:12+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Iran claims more tanker attacks, widens Hormuz blacklist - Quantum Commodity Intelligence",
       "title_id": "Iran mengklaim lebih banyak serangan kapal tanker, memperluas daftar hitam Hormuz - Quantum Commodity Intelligence",
+      "translation_status": "translated"
+    },
+    {
+      "title": "Iran says \"violating\" oil tanker caught fire after hitting mines east of Hormuz Strait - 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEFYaG5jbG9PYWNsbE1ia2x4ZXhtaUR5WGJyODNHWnRFRWxESkltZFVnTk42aDgxUUNoLVo1RWNESGpWVV9nMkRBODI3eERDZW5qVjNNTVBLeTJOUW5BMXBKbHc0YXlKWVg0eDBkRUthMjRBc2hHTTRzSnpzd2JiTmdQa3JHcjdDYUctY1ZnUWw4c0g1NE1hRDlwZkNVSXAyMGs2RnNNeEpnRXZIYnVGRXRObGJuZkRVNlM4Nmh6anBWYU05SlhpSmpSMkJCOC1YMWc?oc=5",
+      "source": "巴士的報",
+      "published_utc": "2026-11-25T18:44:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran says \"violating\" oil tanker caught fire after hitting mines east of Hormuz Strait - 巴士的報",
+      "title_id": "Iran mengatakan kapal tanker minyak yang \"melanggar\" terbakar setelah menabrak ranjau di timur Selat Hormuz - Laporan Bus",
       "translation_status": "translated"
     },
     {
@@ -157,17 +245,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Violating oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iran - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0VGS2tIalZEZnhNMVZPTmFOMGM4T0RWNGNiaWYzdmJzX2NhQTB0YjFsWENsTnZGX1k3d05FaVVaOXh6elpoYTctVjIyOHpqNTNEc3JmN1RGc0gzakxOUnhuM3pnMEoxMUxxRTBtQVdWa042OW1GSE5pVDAzNEJvSFBkVGEyM014RjMyNGg1V24xMFJmblQ5T2dUN1ltZ1dpVUpUNzJjWjF2UUNLX2QydC1kMWc4YU9jU0hULTd2OW5yck8wcG1ZU0pB0gHcAUFVX3lxTFB1OWhZRzBINVJHXzBJbFdLWUZlRXYtVEE4aVlYUU9vdVRrQ3ozaVIzOXVXdHlWa1hKVC1FbXVVMngtQmtKbXlzalVSUUtnV3FKTGdwWm50RFhwWWhNQnBoamRvT0tJQjNvVjdhdjFKOW93QWxzUE02TU5GUnY5RU4wMDdXMmRELTdVMm8yRXNGeUdILU1uMGEyaTZvNkZyeUlMc2RCa3Z3UHNmZFRaYkFyQWQybTBDRWZiWV9DaDF5ZnVNZGZCQUNncWdheEJJS3lOZzIwTEdGRlp0WTU?oc=5",
-      "source": "Gulf News",
-      "published_utc": "2026-11-25T17:27:32+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Violating oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iran - Gulf News",
-      "title_id": "Kapal tanker minyak yang melanggar terbakar setelah menabrak ranjau laut di dekat Selat Hormuz: Iran - Gulf News",
-      "translation_status": "translated"
-    },
-    {
       "title": "IRGC Navy Says Mines Exploded Two Oil Tankers and an LNG Carrier in Strait of Hormuz: 6 outlets compared - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU3RCc0VEREFnOE1VSDUyZGJfdGt2RkdRWU5DMHF4VTF1d1REZlF5blRiSlUzeGtETUJzV3JzMGRNeUp3OG43ckNldU1fZmFnZEd6MGREQlhxWVNPRHczM1FRWVpKeHRLeERLdjdGS0VNNUtNcldIZXFzZnhwUGk3QmE5MHJpMTc1RTl4Q1E1dndubzdWU01QZXNwa2xBZGFmN0hGcDRydkJTM0h1ZzNnMFBnN1h0emR2czBKdS1qRUtnYUN1a1FNaUh5VFFZNFRVQ1otTnMwVXlZcXM1N291d0RCaVRYSE8yOUE?oc=5",
       "source": "NewsCord",
@@ -201,17 +278,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Pentagon Turns to GM, Ford for Military Drones? | US Raises Iran Threat Alert | Firstpost America - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaWxwanNUZXpISHI2c19CdmowZ2dvcW9IbjEzZk1TR2N3OGZpQlBqeVdwNVo4RWVsNkVxdlZOSXlTRXgxV05HWVhnTjBVR3IxQWdLYzJrb05QM3J3ODFXcE9QdmdXUUdVSXVUSm9jdXNHN2hDRkdEbFRLV256TGtCQzJWazRibE5YQVhYWEZ4Vk5JZEFDX3UtMmxZbVozQTdvTUpJLWJGMm1UNC1yZGdRcWdLNlVYRXBYZDBRekdGNHZZSTdjQlFjMWJobUxMazJ2dV9mVkJPcG83NzVPWnRKMUJJZmNfZHBVeVh3ZzZaMk5lWjB4YTdvUFlB?oc=5",
-      "source": "Firstpost",
-      "published_utc": "2026-11-25T16:20:17+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "Pentagon Turns to GM, Ford for Military Drones? | US Raises Iran Threat Alert | Firstpost America - Firstpost",
-      "title_id": "Pentagon Beralih ke GM, Ford untuk Drone Militer? | AS Tingkatkan Peringatan Ancaman Iran | Pos Pertama Amerika - Pos Pertama",
-      "translation_status": "translated"
-    },
-    {
       "title": "British swimmer Lewis Pugh completes Strait of Hormuz swim amid war strikes - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoMTFRcUdhVHZ3UFlyX1ctXy1DQ3lLN1ZHaDA5bzZXVkFtdkdLUlFWTms1RXpKaUJqNF9MMC01WlQtNTJyZTlFLVI3NS1fWnRiRjFPNTZXOEtPWjlLY3FB?oc=5",
       "source": "The Jerusalem Post",
@@ -226,7 +292,7 @@
       "title": "Qatar LNG Exports Hit Post-War High Despite Rising Insurance Costs - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHhPOFkzX0t4c1Z5clNIZ3RTVTA0ZF8zN0gyTEl2UVlqN2l4MlNrVmhESUFpMHZzNmRYczV0OERZeHdXRzlEemNtdDFKbXNyUTNyMUJVR2VJRGhmMjVYZG1JUFJFelRoYnhNV1E0amtVaFlLSGhxVTlFOEY2OUpnQUZEZWlQMURwRUlNdnpiY0duRWstN2ZtUTRVZ2dkZw?oc=5",
       "source": "EnergyNow.com",
-      "published_utc": "2026-11-25T16:00:44+00:00",
+      "published_utc": "2026-11-25T16:00:45+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
       "title_original": "Qatar LNG Exports Hit Post-War High Despite Rising Insurance Costs - EnergyNow.com",
@@ -242,17 +308,6 @@
       "verification": "unverified",
       "title_original": "LNG Carrier Explodes and Catches Fire After Striking Sea Mine - - WANA News Agency",
       "title_id": "Kapal Pengangkut LNG Meledak dan Terbakar Setelah Menabrak Ranjau Laut - - Kantor Berita WANA",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran: Another tanker hits naval mine in Hormuz - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUlVR3FDS3gyZEZBcFp0d096WVgzRjlaOE52R1IwZEdkWkV2MjF2UFFNV20tRVBzenQydDJtS2lCOE5pR2phdHpMOEZkLWRlWWk4WEV2eWkyY05sNGlZNDNtYUtrRGF4cHBWbFJTcEJJSlBZNTV0c09ld1dYU3JRa0w3NlFzLWJFdXR6blFOWDdhQUpicHc?oc=5",
-      "source": "Breakingthenews.net",
-      "published_utc": "2026-11-25T15:45:00+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Iran: Another tanker hits naval mine in Hormuz - Breakingthenews.net",
-      "title_id": "Iran: Kapal tanker lain menabrak ranjau laut di Hormuz - Breakingthenews.net",
       "translation_status": "translated"
     },
     {
@@ -278,17 +333,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "EU targets Russian tanker insurance and energy infrastructure in new sanctions - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyNEprMzA3WDYyZnNsSU1faU1kMVBRRTVJZmFKdkhvZk5OczVmbjk2Yk5GUzk2ckg4Sm9PNmVqRF83SXRYbGpHRVhPQ3VxcGxkOTl4cl8yWTZESzF5ZXZwLVp2X0VZZ0hhazRuMmo1VXdvcEJJaFJxY2wzc3c?oc=5",
-      "source": "Beinsure",
-      "published_utc": "2026-11-25T15:03:33+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "EU targets Russian tanker insurance and energy infrastructure in new sanctions - Beinsure",
-      "title_id": "UE menargetkan asuransi kapal tanker Rusia dan infrastruktur energi dalam sanksi baru – Beinsure",
-      "translation_status": "translated"
-    },
-    {
       "title": "Violating oil tanker catches fire east of Strait of Hormuz - Mehr News Agency",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTNFdllELTVqTmxPdW5rWDU1UU5XRC1OSjJIU1JzZFN6U1oyam5TNUVTbmd2eGFZRG1RWXI4a25RQ0kycVIwMV9oVzZ6TjdIVnRnM3V6U2hhUTI3UmJTQXFDTncyZW1XZnI4TVoyNDluMTk4dE1xUENpV0NVRDhSWWdKalZhNnR0bDlENTIyUThqajIyT0FKVHp3?oc=5",
       "source": "Mehr News Agency",
@@ -297,28 +341,6 @@
       "verification": "unverified",
       "title_original": "Violating oil tanker catches fire east of Strait of Hormuz - Mehr News Agency",
       "title_id": "Kapal tanker minyak yang melanggar terbakar di timur Selat Hormuz - Kantor Berita Mehr",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHhrZm1tQTYxWjR1eGU5NGtTWk1Wc1Fvd1JEc3hSdWFiLWtXZDBhem8yYlRieVBydDVlWmlQckM3R1VsOU54alZOcVR5XzU1cUVncGRjYnlRR3ByMkZMdlFiTlZRaWxyUl9fb0MxeHBCamYtdG8zX2lmXzJaR0xEaG5pTWpOVndsUVk4OXhZRmxUYWhFelBFOTZnNHo2WVd3ajJTVy0xYVc5YW1QSEVLOUlCU1NaMndUTkw4TW5fdTUwZ1RU?oc=5",
-      "source": "Anadolu Ajansı",
-      "published_utc": "2026-11-25T15:01:35+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Oil tanker catches fire after hitting naval mine in Strait of Hormuz: Iranian Navy - Anadolu Ajansı",
-      "title_id": "Kapal tanker minyak terbakar setelah menabrak ranjau laut di Selat Hormuz: Angkatan Laut Iran - Anadolu Agency",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Iran war live: Forty tankers attacked in Hormuz in the last ten days - Arabian Business",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
-      "source": "Arabian Business",
-      "published_utc": "2026-11-25T14:36:52+00:00",
-      "query": "\"Iran\" \"Qatar\" security",
-      "verification": "unverified",
-      "title_original": "Iran war live: Forty tankers attacked in Hormuz in the last ten days - Arabian Business",
-      "title_id": "Perang Iran langsung: Empat puluh kapal tanker diserang di Hormuz dalam sepuluh hari terakhir - Arabian Business",
       "translation_status": "translated"
     },
     {
@@ -355,6 +377,17 @@
       "translation_status": "translated"
     },
     {
+      "title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0xrRjNXRkJIMlI1MkRZdUZ3YmdwS2dhSHA1dVFfbE1DWHdzR09vV19qb2lObWp3eDRxTUlJSDhCMWttSHZVSjF5VGx3OXRXYXBwNVIyU1F3a28xRkFsRXFYWHpJbTVLZXhQbVQySS0wYklfSVNIaFV6S25DOVRUNjJWWHVIZTdaTjJ3UXc0N3ZRVjlwdU9EcjZ1WDYzVDlvQmNQc3FvYUF1OGc5d3lSZzZkalJGVFlJM0Nmd3lubHTSAcYBQVVfeXFMTnl6bTVmRzQ4TDRKOFpvMkZBYUpQUTR6QTZLdmU5S0xqejFnWjJxZW9ERUYyRVlLaEo4NEdKaS1IYU9hSk0xaEtTQnE5aGwwMXh6SkFFLU5nWng1V2s0SFczbUVmNmk4cEphX09fSnd1aUctUi1xa2hJN2tVd1ZfTnJJMkNKdEtxWENXZ3JtdHhSc0cxRTVHcHJTczdJZTJ2QjJYYlY2a1Mwak8tOTJReDV1Z3o5X2tRNzNpRHYwRFVvSXpoNGVn?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published_utc": "2026-11-25T13:00:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade - Crude Oil Prices Today | OilPrice.com",
+      "title_id": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade - Crude Oil Prices Today | OilPrice.com",
+      "translation_status": "unavailable"
+    },
+    {
       "title": "Three tankers attacked in Strait of Hormuz in quick succession - safety4sea",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjd1NmxCdzVHS0pQb2lvR2VIY2xYd011am5BcGY5X2dkMzRDUDRtNEVyOS1qS2hEYU5VRThHckhVOGI5ZUo0VEZFUnhhcjI3ak14Nzh5SnBhS0taWEI3R2xFR1pYQjZhSWZKa1U3d2QtRnhMblhIQXhBS3ZqNWhDZDlMR0l0RHhxeXZYUk1IOA?oc=5",
       "source": "safety4sea",
@@ -388,14 +421,14 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran reports explosions on two tankers in Strait of Hormuz — OilPrice - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSUYzbGRnTUpJYmVMcXVkSEZETENXa2RldUtoQURmQ3daRFRBT2I3bzFlZFJIdkVfZmV6MGxmZjN0eEY4bHFIeDgwQUlVZVJmRlNPQzBhZjYtNmpnYnRDbktJbVlXbk9zQS0xSnZ1Z0F0bmdnV1drUlB1THdQY0x4eTZKMHFULTRLZVlCNElYSzE5RFpzT1ZCWGVlRUJSRXhnRDBlUWxMVHA?oc=5",
-      "source": "UA.NEWS",
-      "published_utc": "2026-11-25T09:43:16+00:00",
+      "title": "Two Oil Tankers Catch Fire While Crossing Strait of Hormuz... - Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVB6VmpvZDNrYk1XQzBoMXU3bG1UQlhuVzRGU1BrOXVxWjhIVzRuTk1Mdm9PYlBNTEFxNGFMMGl6anFIUVRQSGwxa19BZmVickNGZjRGUjlLa1FzZE9zX1l6eGNhQ2hDMXhUVnFLZTJCZDRrWjQ5RVFnMjhrYmlfSU9EMTJwbmlBODZCZDRuM2dncW1nSU9JR1NrMW1pQlE4bUNZbENxQ1Ruc3VDdV9UZW1rWQ?oc=5",
+      "source": "Jordan News",
+      "published_utc": "2026-11-25T09:34:43+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Iran reports explosions on two tankers in Strait of Hormuz — OilPrice - UA.NEWS",
-      "title_id": "Iran melaporkan ledakan di dua kapal tanker di Selat Hormuz — OilPrice - UA.NEWS",
+      "title_original": "Two Oil Tankers Catch Fire While Crossing Strait of Hormuz... - Jordan News",
+      "title_id": "Dua Kapal Tanker Minyak Terbakar Saat Menyeberangi Selat Hormuz... - Jordan News",
       "translation_status": "translated"
     },
     {
@@ -407,28 +440,6 @@
       "verification": "unverified",
       "title_original": "Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify - Crude Oil Prices Today | OilPrice.com",
       "title_id": "Iran Melaporkan Ledakan Tanker Baru Saat Serangan Hormuz Meningkat - Harga Minyak Mentah Hari Ini | MinyakPrice.com",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Two Oil Tankers Catch Fire While Crossing Strait of Hormuz... - Jordan News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVB6VmpvZDNrYk1XQzBoMXU3bG1UQlhuVzRGU1BrOXVxWjhIVzRuTk1Mdm9PYlBNTEFxNGFMMGl6anFIUVRQSGwxa19BZmVickNGZjRGUjlLa1FzZE9zX1l6eGNhQ2hDMXhUVnFLZTJCZDRrWjQ5RVFnMjhrYmlfSU9EMTJwbmlBODZCZDRuM2dncW1nSU9JR1NrMW1pQlE4bUNZbENxQ1Ruc3VDdV9UZW1rWQ?oc=5",
-      "source": "Jordan News",
-      "published_utc": "2026-11-25T09:19:46+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two Oil Tankers Catch Fire While Crossing Strait of Hormuz... - Jordan News",
-      "title_id": "Dua Kapal Tanker Minyak Terbakar Saat Menyeberangi Selat Hormuz... - Jordan News",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Equinor tanker trapped in Hormuz for 120 days - EnergyWatch",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yeFVFY0x3TV9FQ0llYWkybndfMzRaMjhFcTVsMmRKbEZ6cjMtLTViTHhRMDExRHI2elRjV3RJSHlLZHE2b1pDcE00YlNBYm5nZl9ZaVc3bmFNMy14NzVpdXBuclBmLUgzNzZoVmVSTVFiZw?oc=5",
-      "source": "EnergyWatch",
-      "published_utc": "2026-11-25T08:41:44+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Equinor tanker trapped in Hormuz for 120 days - EnergyWatch",
-      "title_id": "Kapal tanker Equinor terjebak di Hormuz selama 120 hari - EnergyWatch",
       "translation_status": "translated"
     },
     {
@@ -454,17 +465,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Two oil tankers catch fire after 'hitting mines' in the Strait of Hormuz, Iran says - L'Orient Today",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFRPdjZJdTVBdU1icHROMTY4ZF82SjM2UHlSbzdvYkFIYUh5OC02MXAyYkJxSnpZbWRfZkdqSXA5VncyNUFmdkNqY0g2QUZTdEsyNWRZMEN6dk43a3FSZ2E2UWlESFNOa0pzYlpNMy10cDFvWThDMm9ySklMWGNGTFdXVU5lRkl2RTgydlhldGZYVmxKaWd3VlEwcjk5NVU1S2ZuWnhjb1hqWGVLVVZ6RzFyVU1nQmd4V1NaaWRKaTJVanh5TEZQZ1BYTmsxZw?oc=5",
-      "source": "L'Orient Today",
-      "published_utc": "2026-11-25T07:35:58+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Two oil tankers catch fire after 'hitting mines' in the Strait of Hormuz, Iran says - L'Orient Today",
-      "title_id": "Dua kapal tanker minyak terbakar setelah 'menabrak ranjau' di Selat Hormuz, kata Iran - L'Orient Today",
-      "translation_status": "translated"
-    },
-    {
       "title": "Most Large Fuel Tankers Now Ship ‘Dirty’ Crude, Upending Trading - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjZrWVp0NGtmLW5UYnNxZk93OXBNYnFkNHRfbV9mM3gzdGpSd0diNnI0YjBEWkEzMXdaLUdGRVhpeEVRcEJWU3V2R3ZGWWV5T2xwdnJMY084bHppanh6Nkx1aEw1bGpiX1ZkNE8zMElUX1dfZDg3UWotb2lCb2VRWXlsTzFNT2FiSmZCdEg1Z3htVVRxeWs5QlF3dlJWQzdXZWNXbng1ZTdmRTFaODEtNEp3?oc=5",
       "source": "Bloomberg",
@@ -484,28 +484,6 @@
       "verification": "unverified",
       "title_original": "Two tankers hit mines in the Strait of Hormuz - TodayPress.tv",
       "title_id": "Dua kapal tanker menabrak ranjau di Selat Hormuz - TodayPress.tv",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Hormuz has followed the ships that sailed around it - Splash247",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04ZkhMVEZGaHZIcjlrSVhodjVEd0R0NGIxSU5aZjFKQmVtRklKSjNMMEhmT1BhSEZYb3Z6a3dnQ05HSFREdmpubGNXWm43UXo4SDh3V0JqRTVtWGxPWGdHUndtaDRQMTZIZjJvajZKX09USnZxbWJEUk11V2ZFMzA?oc=5",
-      "source": "Splash247",
-      "published_utc": "2026-11-25T06:29:27+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Hormuz has followed the ships that sailed around it - Splash247",
-      "title_id": "Hormuz telah mengikuti kapal-kapal yang berlayar mengelilinginya – Splash247",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Shafaq News..Naval mines ignite two oil tankers near Hormuz - شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON2gwZm1zYmNlYlFpTk9zTTJDYlFOWmQzTFpjd0lIMHRIeDdfTEt6S1ptbGxVT3lFLVNEQ3JlZy1heXhEbUlEUVNBeGlmWF9MSEQxNmZJeldkd01Wd1U4V3VoLUwwVUVoaU5yRTFFV0ZQUjdhZkRKc1lfZFNTdkhCR19ibnNIMTg?oc=5",
-      "source": "شفق نيوز",
-      "published_utc": "2026-11-25T06:22:28+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Shafaq News..Naval mines ignite two oil tankers near Hormuz - شفق نيوز",
-      "title_id": "Shafaq News..Ranjau angkatan laut membakar dua kapal tanker minyak di dekat Hormuz - شفق نيوز",
       "translation_status": "translated"
     },
     {
@@ -553,14 +531,14 @@
       "translation_status": "translated"
     },
     {
-      "title": "Two more oil tankers explode in Strait of Hormuz unsafe route - Mehr News Agency",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHI2R3d5NkdtMVE1djBPNnFLWTVmV1Y3XzQtNmxuc29LNnBaRGlHclZlY2NZM2ZpNDBMZE43VmRXd1VCNHBiNjhsNVFIN0s2X3VraXZFQl9hbF9OWnBvR0VIS2piWnlkYUx6eEo1VGtubmxRRTN3QjBjWV9NSnBYYW9CZzNUS1FkVVFoMFBFMXpqUHJRT0VDSEhfM18zdw?oc=5",
-      "source": "Mehr News Agency",
-      "published_utc": "2026-11-25T05:23:00+00:00",
+      "title": "Iran claims LNG tanker ablaze in Hormuz after hitting mine - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd25oRzVVWnZ6VTFNd1N6VHZvN2RfN3VjTW5PZ2VYcUw0eDBQM2RhNkcyOTZkOVJHZGJIdGYyNDZkZWN2T0FXeHpJVk5XODFrNEFTWS1vdU96SkZET2VpOEtPWWV0WW9nLURORmIySWtFUnZmZmp5YWhaTDZYVUNLeEhtVl95UE5xa0hDMVNfYUJDcUFZd01xY3FnZ2pDVDZJNnZSZE5n?oc=5",
+      "source": "Arab News",
+      "published_utc": "2026-11-25T04:56:04+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Two more oil tankers explode in Strait of Hormuz unsafe route - Mehr News Agency",
-      "title_id": "Dua kapal tanker minyak lagi meledak di jalur tidak aman Selat Hormuz - Kantor Berita Mehr",
+      "title_original": "Iran claims LNG tanker ablaze in Hormuz after hitting mine - Arab News",
+      "title_id": "Iran mengklaim kapal tanker LNG terbakar di Hormuz setelah menabrak tambang - Arab News",
       "translation_status": "translated"
     },
     {
@@ -630,17 +608,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Trump Just Got Handed a Shutdown Fight Over His Iran War: Senators Want to Restock the Pentagon Without Giving Him a Blank Check - National Security Journal",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSVRFMnZUaDdwam9XSk45dmdMTnRyOVBJTG9JbmpfVFlvS2E1aGZxRy1RdXI1RlMxaVJzclhRdG5OcDUxRVRHa2hYZS00MmZIZXkxYWoyWk03Y21DQ2d1MVBtam1ERW85ZGdnSVVudV9ZMkVJZVd1dDhNajhaX3dKbVRqcEhNN1Vja0FXNzVqNi02Q0ttbmN0Nm9pWnJma29kT0F4RGQ2VDZvb3gybmhVcWJ5Vl9pZjZWUXNwMno5RldpQ0ZkaWd6TEdTU2lJcE5QY0V1bmtacnhUTzBIUzBOblJYNEw2LUVDbFJaVTUwQzBEQ1RRNjdN?oc=5",
-      "source": "National Security Journal",
-      "published_utc": "2026-11-24T20:34:33+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "Trump Just Got Handed a Shutdown Fight Over His Iran War: Senators Want to Restock the Pentagon Without Giving Him a Blank Check - National Security Journal",
-      "title_id": "Trump Baru Saja Mengakhiri Perang Iran: Para Senator Ingin Mengisi Kembali Pentagon Tanpa Memberinya Cek Kosong - Jurnal Keamanan Nasional",
-      "translation_status": "translated"
-    },
-    {
       "title": "Oil Rises $1 on Hormuz Ship Attacks, Surplus Supply Outlook Curbs Gains - GV Wire",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTZfYjBxTmJ3MWNlb3JrbDZFcWdNSE5aYkFtNTRmN2w4c0xlSjlHUzVleXVRalpoM09JVE5OVHc2dExFRnNyazU3NHAtSzVfX0pOUnl2N3dHSFRMbTExbW1UQTV1dUFYOWRQRUVTM0pRSDhyMzhhMXpIbmFmTmFTTVJvQkt5cUVpQ2xTdnEwdjljbUpUa21YNEJ0Z3RVUHBITkE?oc=5",
       "source": "GV Wire",
@@ -674,15 +641,15 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran Adds Tugboats to Hormuz Blacklist as Pressure on Shipping Grows - Bloomberg",
+      "title": "Iran Adds Tugboats to Hormuz Blacklist as Pressure on Shipping Grows - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDNSNndVNkJ1ZmxnQVNJUUhiYi1PRnEwU0gtY3hpM2dVcjJkaElablVWTVB3RTRjNTRjUnU2NnF4U2JkSTlwbTV4MkNhdUJ4a3g3akVhcWxEQm1XSjFhRURJTU5kU2FRUk1wOXVSWUhnSVJQTmUtdVN6SzJIemRsbGRQZjNoc0pMYXVodW5TRjktaUQyWUt2SExZV3Bfc1FBZURBNzNheGx6eHVxRGtuaXFCYklHUQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_utc": "2026-11-24T17:54:34+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "Iran Adds Tugboats to Hormuz Blacklist as Pressure on Shipping Grows - Bloomberg",
-      "title_id": "Iran Menambahkan Kapal Tunda ke Daftar Hitam Hormuz seiring Meningkatnya Tekanan pada Pengiriman - Bloomberg",
-      "translation_status": "translated"
+      "title_original": "Iran Adds Tugboats to Hormuz Blacklist as Pressure on Shipping Grows - Bloomberg.com",
+      "title_id": "Iran Adds Tugboats to Hormuz Blacklist as Pressure on Shipping Grows - Bloomberg.com",
+      "translation_status": "unavailable"
     },
     {
       "title": "IRGC Navy Says Fourth Oil Tanker Exploded After Striking Mine in Strait of Hormuz: 7 outlets compared - NewsCord",
@@ -704,17 +671,6 @@
       "verification": "unverified",
       "title_original": "Amid politicized debate in US and Israel, Katz warns Iran developing chemical weapons - The Times of Israel",
       "title_id": "Di tengah perdebatan yang dipolitisasi di AS dan Israel, Katz memperingatkan Iran mengembangkan senjata kimia - The Times of Israel",
-      "translation_status": "translated"
-    },
-    {
-      "title": "Sinokor tankers hit by Iranian attacks linked to dozens of Hormuz transits - TradeWinds News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa3JmWV9WeGRkQVU3T3ZMUG1QQS1QRUZlQlFWS3dMSWVIMElPYk9vUEJhT3hIWEpxbC1lUVNvNDI3ZU41UFRYcm5QcmxHYk4tUE9rOHppTmZVVXV6dWxVWWd1LWVHLWRoRnNOLUFvY0RwdE9EanRUMS1RdWs5NUFibnI1YXJqTllISHlUWkpieU41U0IwSFAycloyOUl2V3ItVTI1d2QtTEhJVDFHYUZ0V0tDMjl2RGI1ZFpOQnQxYkdkeXc?oc=5",
-      "source": "TradeWinds News",
-      "published_utc": "2026-11-24T17:01:18+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Sinokor tankers hit by Iranian attacks linked to dozens of Hormuz transits - TradeWinds News",
-      "title_id": "Kapal tanker Sinokor terkena serangan Iran terkait dengan puluhan transit Hormuz - TradeWinds News",
       "translation_status": "translated"
     },
     {
@@ -740,17 +696,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Three tankers attacked while exiting Strait of Hormuz - Lloyd's List",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG5PaklzaXFETDNOUWVUSFlHNWlyZEtNelowQkVzNjRsSDMwOUNjUlJDZjRVSGhNMm5ESFJJdHEwOUZsdzBqcnVBc3JKbzh6LXFkUmc5MThwSVRnUTlKdUg1SkluM3k0ZkpTcV8ycGV5M2c5Wi15ZGZQcE41MHY1X3hvR29nMmpxMXI5OUdCYmJVdEdm?oc=5",
-      "source": "Lloyd's List",
-      "published_utc": "2026-11-24T16:38:44+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Three tankers attacked while exiting Strait of Hormuz - Lloyd's List",
-      "title_id": "Tiga kapal tanker menyerang saat keluar dari Selat Hormuz - Lloyd's List",
-      "translation_status": "translated"
-    },
-    {
       "title": "Crude Prices Rebound on Reports of Attacks on Tankers in the Strait of Hormuz - Barchart.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTzB5VWhCYS1HWFBDLWNRaWgtT1owYjY1NTJ3Y0VPc0ZyYVNpM2ZudHFmY1ZnSEU3MnRzUDhBcmRCRHhUWEItRWl0cllPbVludTZGUTg3M1F0Z1FQQjNqSnA4VHllSEtBdjd4WnB5Yll2UW1Ld3Q2SVM2SkJrakR1Wk02ME56a3BDejQ2RDhiTmFrM2VOR21Eak91Z0VfTkZrZjhaWW9CcHpIQ1RySDh3YjJLSnpzWUFiTFpqQWVn?oc=5",
       "source": "Barchart.com",
@@ -760,6 +705,17 @@
       "title_original": "Crude Prices Rebound on Reports of Attacks on Tankers in the Strait of Hormuz - Barchart.com",
       "title_id": "Harga Minyak Mentah Rebound ditengah Laporan Serangan terhadap Kapal Tanker di Selat Hormuz - Barchart.com",
       "translation_status": "translated"
+    },
+    {
+      "title": "Used Crude Tankers Top Newbuild Prices, CMB.Tech Says - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXpXZVlJTS1TcnVFaFhnUjF2WXg5eEJNcEZOM3lpSTA0LXNuZ0ZuVTI5OHQ4bGxrTDRGMlZKZHJZdEI1bzlPeXJRRHpyN3NsaG1QbTdJcnE0akdUcHVLcHFmeGJYd2FiRHc0VGZJaFF3V0VtVnZPZkhSeXh0QUN4a2Y3aTM1VEZMZHVr?oc=5",
+      "source": "EnergyNow.com",
+      "published_utc": "2026-11-24T16:15:22+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Used Crude Tankers Top Newbuild Prices, CMB.Tech Says - EnergyNow.com",
+      "title_id": "Used Crude Tankers Top Newbuild Prices, CMB.Tech Says - EnergyNow.com",
+      "translation_status": "unavailable"
     },
     {
       "title": "Two Oil Tankers Catch Fire After Striking Mines in Strait of Hormuz, Iran’s Navy Says - EnergyNow.com",
@@ -817,17 +773,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Hegseth's Iran War Disaster Takes a Sickening Turn as Military Families Are Slapped with Thousands in Bills Over One Order from the Pentagon - Atlanta Black Star",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3BUU2duSzVYVkRNR295aVN6ai1ZYno0dVg5bTNUbjREREJqVDNhbGdUVTV3dVJHS0dieDlzVV9ybExYREk5dDdPMUhYWjEtWDJ3dUc0ckJMU0c3ZWJTN1FlVmptY0gyTHdWVVoyd29QWFIxek4xRlVRZGxLdmxsOHpjNFJfYVBwMFNmR2VrYXRyLURQclE?oc=5",
-      "source": "Atlanta Black Star",
-      "published_utc": "2026-11-24T14:49:27+00:00",
-      "query": "\"Iran\" \"Pentagon\" military",
-      "verification": "unverified",
-      "title_original": "Hegseth's Iran War Disaster Takes a Sickening Turn as Military Families Are Slapped with Thousands in Bills Over One Order from the Pentagon - Atlanta Black Star",
-      "title_id": "Bencana Perang Iran yang Dialami Hegseth Berubah Menjadi Menjengkelkan Saat Keluarga Militer Ditampar Ribuan Tagihan Atas Satu Perintah dari Pentagon - Atlanta Black Star",
-      "translation_status": "translated"
-    },
-    {
       "title": "Two Tankers Catch Fire After Striking Naval Mines - WANA News Agency",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aV3d4WE9uUEJVeDZfOE0yZ0lQejMxY1ZQZzJFYTJRVlVpWTEycDZsWk0zUWszM3RJRGVocFhid3NiR0lvVllSSGhoeXJTbTFVdWQtTzlYNUJaeFl5S2FVSVZzYWRqTFByRHNqekh6U3FObUQ3S2JMNQ?oc=5",
       "source": "WANA News Agency",
@@ -872,6 +817,17 @@
       "translation_status": "translated"
     },
     {
+      "title": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUJ2SlVRekc2cjlZNnFtOWxSWTBqbEVrRE1VdGlmbXY1N1JXLW5GV2d4R3dSdHJIcXF6OGlQNkU1N1h6YURIQlhsajN4TjAtLWthM1dRcmc5U243QjRZMDh3UEpFQ3gzckhoTElIVGdFV1hpT1h5N1RCdm93TU5YRlE0SE9rdzA?oc=5",
+      "source": "Chicago Tribune",
+      "published_utc": "2026-11-24T13:39:11+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news - Chicago Tribune",
+      "title_id": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news - Chicago Tribune",
+      "translation_status": "unavailable"
+    },
+    {
       "title": "Pentagon Funding Crisis Gives Democrats Leverage To Kill Iran War Spending Before Dec. 11 Shutdown - Foreign Policy Journal",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSTJSZTg4Rlg2QzlGY3QzRzdvM2xCczhXY2VjV19ENC1LQ0NYaWlMOXpJZVc0YzVYY0xFZzZxTGlabEJNT3VhU2JuLVRFYTVxN3RvMzRRRGtyMWJkazNBZEpWb2pMSkJlby1hUS1DMk9iS215S01EdlZmR1o5X2w5alNhUmdkOGpEcDI5aElzTEdmYm00dVN5dDVNMEZnaGg4TTZycGxidEJjeU5MQWYwSXlocUduanZmVDJYLTIzVHNTNHIyMEZRMHVSTlJWQ3RocldlbUVzZVlvbm95RnVV?oc=5",
       "source": "Foreign Policy Journal",
@@ -881,6 +837,17 @@
       "title_original": "Pentagon Funding Crisis Gives Democrats Leverage To Kill Iran War Spending Before Dec. 11 Shutdown - Foreign Policy Journal",
       "title_id": "Krisis Pendanaan Pentagon Memberikan Kekuatan bagi Partai Demokrat untuk Membunuh Pengeluaran Perang Iran Sebelum Shutdown 11 Desember - Jurnal Kebijakan Luar Negeri",
       "translation_status": "translated"
+    },
+    {
+      "title": "Fourth oil tanker explodes east of Hormuz Tues.: IRGC - Mehr News Agency",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVlJbGJVaF9iT2FqUW1CeVhIZVVxdFpJWUdOU3VUSGJmdnJ5NXdlOGdXWDVrclp2T0VaTHB0MkM3MFoya05PWWZEajJ0TjdIOWVTNGlEUmZoQzVYdXl5TXQ2Nm5XcGoyRUJ3REdwd1oxU1N4T3R6X3lWVDZRQlIxU2FmUTBKZ0dRNTlfNlFfa2M?oc=5",
+      "source": "Mehr News Agency",
+      "published_utc": "2026-11-24T12:50:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Fourth oil tanker explodes east of Hormuz Tues.: IRGC - Mehr News Agency",
+      "title_id": "Fourth oil tanker explodes east of Hormuz Tues.: IRGC - Mehr News Agency",
+      "translation_status": "unavailable"
     },
     {
       "title": "Iran says fourth tanker hits mine in Strait of Hormuz - Middle East Eye",
@@ -916,15 +883,15 @@
       "translation_status": "translated"
     },
     {
-      "title": "Iran Says It Will Use All Available Means Against U.S. Blockade as Tankers Hit Mines: 7 outlets compared - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQejktTG8zX0g0TWU3ZFFnbUFhcnFoQzFWWC0tM2NxN3hTSWRDZHBzQVhyMUdCcWlENl9KM1V4aGx6SHJ6SDdKd3B4dEpHeDVqT09fN0tjTW5JaExka19yMG4zQjA4N2NDcFlBTXNoS2R0azNhTjhqLTlaZmpLczZZaWZDbUx0MW8tQWdpZUtKNUhrOXktYzBmZlNkRDAyMFNSZ18zNklxRUU0amlmU2dMN0kxWGt0S0c4WGppTWhRU01OMEZYYVpBZlZ0T3JzR3BzMVV5MFkyQ0JVOElFXzZkX2lvZG9XRzNjbkE?oc=5",
-      "source": "NewsCord",
-      "published_utc": "2026-11-24T11:19:25+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
+      "title": "Iran shoots down US $35,000 LUCAS drone - Al-Bawaba",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHVhXzhwOVFFUlNlOWdQRGo2azlCRFRkTW54NjhlRm8xUVdSY2dTODFiTDV5N2ppMXd4bVJQYWJxQ3NITC14MWh6bk10SzJjem9SR2tWbTN2VnRHci1EWFkzbW9HamRtXzBZN0lIdG1ZbFdkblFQNDlfeEwtQlpITA?oc=5",
+      "source": "Al-Bawaba",
+      "published_utc": "2026-11-24T11:08:55+00:00",
+      "query": "\"Iran\" \"CENTCOM\"",
       "verification": "unverified",
-      "title_original": "Iran Says It Will Use All Available Means Against U.S. Blockade as Tankers Hit Mines: 7 outlets compared - NewsCord",
-      "title_id": "Iran Mengatakan Akan Menggunakan Segala Cara Melawan Blokade AS Saat Kapal Tanker Menyerang Ranjau: Dibandingkan dengan 7 outlet - NewsCord",
-      "translation_status": "translated"
+      "title_original": "Iran shoots down US $35,000 LUCAS drone - Al-Bawaba",
+      "title_id": "Iran shoots down US $35,000 LUCAS drone - Al-Bawaba",
+      "translation_status": "unavailable"
     },
     {
       "title": "Iranian Navy: Two More Tankers Hit Naval Mines in Strait of Hormuz - تسنیم",
@@ -971,6 +938,17 @@
       "translation_status": "translated"
     },
     {
+      "title": "Iranian media walk back tanker convoy claims after days of blockade-breaking hype - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LR0d1R2poV0hQWGktWUQ0WXFxLU91MkRzSEVkUGNqV1M1Rk1HQU54XzE0YlgwU1NzaTQwUWtRREpnMjkwMG9Ra3JIay16ZDUxMmc?oc=5",
+      "source": "Iran International",
+      "published_utc": "2026-11-24T09:43:09+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iranian media walk back tanker convoy claims after days of blockade-breaking hype - Iran International",
+      "title_id": "Iranian media walk back tanker convoy claims after days of blockade-breaking hype - Iran International",
+      "translation_status": "unavailable"
+    },
+    {
       "title": "Three More Tankers Hit by Naval Mines in Strait of Hormuz - تسنیم",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckZHa2t4RGtoTTNjbmZacEFKN011TEFlSG1mS1FjdTRZSGhmNVQ2R1AyUXhHQ0dtTllEdk9QY2RadWh4akVKNGhmRW9CZHFPT2dXdEJZOU53YXI3RUFoMVhkVUdMQVdUTjF1aGFEOUJ5X1RtM05ESFhwUURCMlZ2cUVlWG9SMW1mdzhqSzdPb0Qxb09sMWpqUlluTmZ1VUJLU3E4N1MtRGFlbWR5WXdz0gG0AUFVX3lxTE9CREFQSkhLS3V3SUx2UHRGQXo5blF5azk1XzA1VHFpN3dOTXNvVEIzYlV0MDI1bjNmQVJZQU5yLWU0QWkxajJ5SXBJMWR3SEVibVpSQnI1dy05c0VEdnZZYktCeG1QYlUxTGkxODVyZ0dfMnQ5R05LWTZQOXpSNE1WUUprN25zTmt6UXQzSFo5TkNEOXBaX3BVcUs4d1FNLTlLR2U1WWtkWmtSWTFMaVhjbGpLUg?oc=5",
       "source": "تسنیم",
@@ -980,6 +958,17 @@
       "title_original": "Three More Tankers Hit by Naval Mines in Strait of Hormuz - تسنیم",
       "title_id": "Tiga Kapal Tanker Lagi Dihantam Ranjau Laut di Selat Hormuz - تسنیم",
       "translation_status": "translated"
+    },
+    {
+      "title": "IRGC claims three oil tankers hit naval mines in Strait of Hormuz - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2dyUS1OYW9hT1NfVzVTQWJDaW5LY3NIOWRVNlBHV2NLT2xObFl2MlI2eFVTazN6YW1GTldSWldHWGZWZnR3bkJtN3BjbHI1MXFuSjhTbmJ1LUcybk5TdGRJN2szMWlQZ2hwTy1RSmNrRmpCSGUwdl9VVnRBWVVPUVlrZXV1OVktUUVZNzZaaWxKNGQtVUgwdHJOTVRUU3U4ajJwV2poSXAyZHp2WDBQMmln?oc=5",
+      "source": "The Business Standard",
+      "published_utc": "2026-11-24T07:26:38+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "IRGC claims three oil tankers hit naval mines in Strait of Hormuz - The Business Standard",
+      "title_id": "IRGC claims three oil tankers hit naval mines in Strait of Hormuz - The Business Standard",
+      "translation_status": "unavailable"
     },
     {
       "title": "US probes Iran role in dozens of cyberattacks on tankers - Israel Hayom",
@@ -1070,17 +1059,6 @@
       "translation_status": "translated"
     },
     {
-      "title": "Fact-check: Is more oil going through the Strait of Hormuz than before the Iran war? - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN21Mc0c2Y3hHY1F5RUNWbTRVZGlfTEsxR09kVnl1cjRKMTRGLVg1TngyQWRRSG5NUUxDbmJES2ZpZ21kUVlYcWhhaTZTOVpkLTZDY0szSXBpYWNPRXhYbzRidG5jTXZueElFb1JjN1pZbkRXSGZydHRmeHA3aUxKMG9TV1FDRmV5Rmc?oc=5",
-      "source": "WRAL",
-      "published_utc": "2026-11-23T19:19:06+00:00",
-      "query": "\"Strait of Hormuz\" tanker",
-      "verification": "unverified",
-      "title_original": "Fact-check: Is more oil going through the Strait of Hormuz than before the Iran war? - WRAL",
-      "title_id": "Cek fakta: Apakah lebih banyak minyak yang melewati Selat Hormuz dibandingkan sebelum perang Iran? - WRAL",
-      "translation_status": "translated"
-    },
-    {
       "title": "'EGO OVER MILITARY': Trump's Pentagon Chief ROCKED By Ex-Aide's SHOCK Resignation Demand - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdjV6VllRZVhwQUM2dTR5STRUUEdkSEEyQXpLeXl3VTJEdjlEc1V0Si0xZFV6MGRHRkg5SWZkLU9weXJVZk5Nd0xRS2d2bUlkR05HNFE4TGVhYXhjOGZaTnRJS2doMEtGT3U5WmE3THY4cTVzTmpVS3R1OWtpZWdTcjZja3dXd2lGRTZqbVZySjhhMGZHdEhvZXExcEZqLUFFSjZaQTFpTG53RVZ1enJ5ajN0aHRhUnhrZ1B6MjdZWF9zWGZxNVBDLUxTSEVTUnhNbTRKUVVmQ242TUdrVmJqMnRONVdEclowT0pNX0VxV1FoNWhMTVhr0gH8AUFVX3lxTFBZbmZWaHoyV0tlYVRXY2tnVGNMb0Iwc1VrQ2FpT1JzZE9hTmxlbkdueGl2bkM0d3B5ekRveERZMVRxYkpxZFhEalpJZjFpRHRqcjNzeG1leE5sek5jaDNWSmVfS1Jaei0yNFNhVi1yVDVuR0tYMWpYbll5RVZycktqaGtpZGhxZHFWMEJVV1dPZTY3QzZqajhiYUtSNmZ1TS1tWVFiX1FZVl95UEVoNk5QRy1uTzEzRGtQSFJJaEtQNFBoUGc4OFp0eklNcWJwOE9lSkFWdGhXaWtvYjVrMlB6eWU1TlJIUXdycloxd013S0RSbmhSbDY3RzB6OA?oc=5",
       "source": "The Times of India",
@@ -1092,15 +1070,37 @@
       "translation_status": "translated"
     },
     {
-      "title": "UAE steps up efforts to shuttle oil through Strait of Hormuz - Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODBhS0VqY1Nod3dJdWdPcm44eVpyRXJGZXduTU1QLWpGZ1NjdExMbUx2ZkJKNDdlNzVoZmxaMVE4Rm5FX1FPVy0zSnUwUWhwUlU0U3NpZUFKeHdzcjZrZl80UEhJdGNSMllKUVdBeXZhck5QNEJKcUdzYTJST2xlcnQwZkR6em9BbG1od3JYQ251aHBFLTh2V1dEa0FKcmFaVWJKcWlUVHBha0pRMnlR?oc=5",
-      "source": "Washington Times",
-      "published_utc": "2026-11-23T12:33:14+00:00",
+      "title": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic - gCaptain",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEdYZV9kQmk0VmRydDROMF95elplRVNGTWV2MmZyTHRha1dWVWlGVkgtaF9oNTJqOS0tTWRINWZtYjdhTE8zOXR3THR3N3hSRk9yeWpuU0JsUW93ZkhvTDhpSERSM0V6a2tIMl9pbzJ1aFAxRERNblFaMjJaY2o4RWJibkxUMUJQSXpz?oc=5",
+      "source": "gCaptain",
+      "published_utc": "2026-11-23T12:31:26+00:00",
       "query": "\"Strait of Hormuz\" tanker",
       "verification": "unverified",
-      "title_original": "UAE steps up efforts to shuttle oil through Strait of Hormuz - Washington Times",
-      "title_id": "UEA meningkatkan upaya pengiriman minyak melalui Selat Hormuz - Washington Times",
-      "translation_status": "translated"
+      "title_original": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic - gCaptain",
+      "title_id": "Fake Iran Tanker Highlights Uncertainty Around Hormuz Traffic - gCaptain",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Three tankers struck in Strait of Hormuz amid further Gulf of Oman incident - safety4sea",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXc1WmdteUMzTUFjV2VpS2dxbVpIYS1vc05EbUE2bDE4d0N2TkZVbkdXSGY5bFRSVG9ZcXNqTlFpWVEtdU56bWVucmJaNnQtNTgxTmlMUnZlaEhZU056dThiMzloZmcwdDQ4cmUteTVjWXFRZGQ0WXNsWlQyT0JjUHRGaEtpUXZsMlN6MU00TDVVeWJaLWFOWHRFOUtSOTY5?oc=5",
+      "source": "safety4sea",
+      "published_utc": "2026-11-23T11:59:49+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Three tankers struck in Strait of Hormuz amid further Gulf of Oman incident - safety4sea",
+      "title_id": "Three tankers struck in Strait of Hormuz amid further Gulf of Oman incident - safety4sea",
+      "translation_status": "unavailable"
+    },
+    {
+      "title": "Iran developing chemical weapons, Israeli defense minister says - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlsRWg2Szd1Z3JjWkRCcFVMdTh1cDhrT0lxUEZ0UXRHVjZ5QWJaSWRFVmxfT2Nlcnp5UjZPOG9MaFE0SmZ5UndIejdacWRYT3hGVHZiNVQ1a1lOa0tUZVdjRm1rVDZkMWRPTWd2R0JLamZfYm1lcEREbE12ajRCNTZSdERlMFpObDVFSkowV2h3THRkdlFoMUxR?oc=5",
+      "source": "CBS News",
+      "published_utc": "2026-11-23T11:30:00+00:00",
+      "query": "\"Strait of Hormuz\" tanker",
+      "verification": "unverified",
+      "title_original": "Iran developing chemical weapons, Israeli defense minister says - CBS News",
+      "title_id": "Iran developing chemical weapons, Israeli defense minister says - CBS News",
+      "translation_status": "unavailable"
     }
   ],
   "errors": []
